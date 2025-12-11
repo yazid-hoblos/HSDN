@@ -1,0 +1,155 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 800px;
+                 background-color: #ffffff;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "red", "id": "HP:0000118", "label": "Phenotypic abnormality", "shape": "dot"}, {"color": "orange", "id": "HP:0000119", "label": "Abnormality of the genitourinary system", "shape": "dot"}, {"color": "orange", "id": "HP:0000152", "label": "Abnormality of head or neck", "shape": "dot"}, {"color": "orange", "id": "HP:0000478", "label": "Abnormality of the eye", "shape": "dot"}, {"color": "orange", "id": "HP:0000598", "label": "Abnormality of the ear", "shape": "dot"}, {"color": "orange", "id": "HP:0000707", "label": "Abnormality of the nervous system", "shape": "dot"}, {"color": "orange", "id": "HP:0000769", "label": "Abnormality of the breast", "shape": "dot"}, {"color": "orange", "id": "HP:0000818", "label": "Abnormality of the endocrine system", "shape": "dot"}, {"color": "orange", "id": "HP:0001197", "label": "Abnormality of prenatal development or birth", "shape": "dot"}, {"color": "orange", "id": "HP:0001507", "label": "Growth abnormality", "shape": "dot"}, {"color": "orange", "id": "HP:0001574", "label": "Abnormality of the integument", "shape": "dot"}, {"color": "orange", "id": "HP:0001608", "label": "Abnormality of the voice", "shape": "dot"}, {"color": "orange", "id": "HP:0001626", "label": "Abnormality of the cardiovascular system", "shape": "dot"}, {"color": "orange", "id": "HP:0001871", "label": "Abnormality of blood and blood-forming tissues", "shape": "dot"}, {"color": "orange", "id": "HP:0001939", "label": "Abnormality of metabolism/homeostasis", "shape": "dot"}, {"color": "orange", "id": "HP:0002086", "label": "Abnormality of the respiratory system", "shape": "dot"}, {"color": "orange", "id": "HP:0002664", "label": "Neoplasm", "shape": "dot"}, {"color": "orange", "id": "HP:0002715", "label": "Abnormality of the immune system", "shape": "dot"}, {"color": "orange", "id": "HP:0025031", "label": "Abnormality of the digestive system", "shape": "dot"}, {"color": "orange", "id": "HP:0025142", "label": "Constitutional symptom", "shape": "dot"}, {"color": "orange", "id": "HP:0025354", "label": "Abnormal cellular phenotype", "shape": "dot"}, {"color": "orange", "id": "HP:0033127", "label": "Abnormality of the musculoskeletal system", "shape": "dot"}, {"color": "orange", "id": "HP:0040064", "label": "Abnormality of limbs", "shape": "dot"}, {"color": "orange", "id": "HP:0045027", "label": "Abnormality of the thoracic cavity", "shape": "dot"}]);
+                  edges = new vis.DataSet([{"arrows": "to", "from": "HP:0000118", "to": "HP:0000119"}, {"arrows": "to", "from": "HP:0000118", "to": "HP:0000152"}, {"arrows": "to", "from": "HP:0000118", "to": "HP:0000478"}, {"arrows": "to", "from": "HP:0000118", "to": "HP:0000598"}, {"arrows": "to", "from": "HP:0000118", "to": "HP:0000707"}, {"arrows": "to", "from": "HP:0000118", "to": "HP:0000769"}, {"arrows": "to", "from": "HP:0000118", "to": "HP:0000818"}, {"arrows": "to", "from": "HP:0000118", "to": "HP:0001197"}, {"arrows": "to", "from": "HP:0000118", "to": "HP:0001507"}, {"arrows": "to", "from": "HP:0000118", "to": "HP:0001574"}, {"arrows": "to", "from": "HP:0000118", "to": "HP:0001608"}, {"arrows": "to", "from": "HP:0000118", "to": "HP:0001626"}, {"arrows": "to", "from": "HP:0000118", "to": "HP:0001871"}, {"arrows": "to", "from": "HP:0000118", "to": "HP:0001939"}, {"arrows": "to", "from": "HP:0000118", "to": "HP:0002086"}, {"arrows": "to", "from": "HP:0000118", "to": "HP:0002664"}, {"arrows": "to", "from": "HP:0000118", "to": "HP:0002715"}, {"arrows": "to", "from": "HP:0000118", "to": "HP:0025031"}, {"arrows": "to", "from": "HP:0000118", "to": "HP:0025142"}, {"arrows": "to", "from": "HP:0000118", "to": "HP:0025354"}, {"arrows": "to", "from": "HP:0000118", "to": "HP:0033127"}, {"arrows": "to", "from": "HP:0000118", "to": "HP:0040064"}, {"arrows": "to", "from": "HP:0000118", "to": "HP:0045027"}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {
+    "configure": {
+        "enabled": false
+    },
+    "edges": {
+        "color": {
+            "inherit": true
+        },
+        "smooth": {
+            "enabled": true,
+            "type": "dynamic"
+        }
+    },
+    "interaction": {
+        "dragNodes": true,
+        "hideEdgesOnDrag": false,
+        "hideNodesOnDrag": false
+    },
+    "physics": {
+        "enabled": true,
+        "stabilization": {
+            "enabled": true,
+            "fit": true,
+            "iterations": 1000,
+            "onlyDynamicEdges": false,
+            "updateInterval": 50
+        }
+    }
+};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>
