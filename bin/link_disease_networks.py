@@ -15,6 +15,7 @@ Strategy:
 - Link networks using this mapping
 """
 
+import argparse
 import pandas as pd
 from pathlib import Path
 from collections import defaultdict
@@ -294,6 +295,33 @@ def save_disease_mapping(mapping, output_file):
     print(f"Saved {len(df)} mappings")
 
 
+def load_disease_mapping(mapping_file):
+    """
+    Load existing disease mapping from TSV.
+    Returns None if file missing.
+    """
+    mapping_path = Path(mapping_file)
+    if not mapping_path.exists():
+        return None
+
+    print(f"\nLoading existing mapping from {mapping_path}...")
+    df = pd.read_csv(mapping_path, sep='\t')
+
+    mapping = {}
+    for _, row in df.iterrows():
+        disease_name = str(row['disease_name']).strip()
+        mapping[disease_name] = {
+            'mesh_id': str(row['mesh_id']).strip(),
+            'source': row.get('source', ''),
+            'match_score': float(row.get('match_score', 1.0)),
+            'match_type': row.get('match_type', 'exact'),
+            'fuzzy_match': row.get('fuzzy_match', '')
+        }
+
+    print(f"Loaded {len(mapping)} mappings\n")
+    return mapping
+
+
 def create_unified_disease_network(symptom_network_file, gene_network_file, 
                                    ppi_1st_network_file, mapping, mesh_by_id,
                                    output_file):
@@ -463,6 +491,11 @@ def create_unified_disease_network(symptom_network_file, gene_network_file,
 def main():
     """Main execution."""
     
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--force-remap', action='store_true',
+                        help='Recompute disease name mapping even if mapping file exists.')
+    args = parser.parse_args()
+
     print("\n" + "="*70)
     print("DISEASE NETWORK LINKING SCRIPT")
     print("="*70)
@@ -475,10 +508,10 @@ def main():
     # Input files
     mesh_diseases_file = mesh_dir / 'mesh_diseases.tsv'
     data3_file = data_dir / 'data3.txt'
-    gene_disease_file = data_dir / 'gene_disease_associations_cleaned.tsv'
-    symptom_network_file = data_dir / 'disease_similarity_network.tsv'
-    gene_network_file = data_dir / 'gene_disease_network.tsv'  # If exists
-    ppi_1st_network_file = data_dir / 'ppi_1st_order_disease_network.tsv'
+    gene_disease_file = data_dir / 'gene_disease/gene_disease_associations_cleaned.tsv'
+    symptom_network_file = data_dir / 'disease_symptoms_projection.tsv'
+    gene_network_file = data_dir / 'gene_disease/gene_based_disease_network.tsv'  # If exists
+    ppi_1st_network_file = data_dir / 'ppi/ppi_1st_order_disease_network.tsv'
     
     # Output files
     mapping_file = data_dir / 'disease_name_mapping.tsv'
@@ -497,16 +530,22 @@ def main():
         print(f"Error: Gene-disease file not found: {gene_disease_file}")
         return
     
-    # Load data
+    # Load MeSH terminology (always)
     mesh_dict, mesh_by_id = load_mesh_data(mesh_diseases_file)
-    symptom_diseases = load_symptom_network_diseases(data3_file)
-    gene_diseases = load_gene_network_diseases(gene_disease_file)
-    
-    # Create mapping
-    mapping, unmatched_genes = create_disease_mapping(mesh_dict, symptom_diseases, gene_diseases)
-    
-    # Save mapping for manual review
-    save_disease_mapping(mapping, mapping_file)
+
+    # Load or create disease mapping
+    mapping = None
+    if mapping_file.exists() and not args.force_remap:
+        mapping = load_disease_mapping(mapping_file)
+
+    if mapping is None:
+        # Build mapping from scratch
+        symptom_diseases = load_symptom_network_diseases(data3_file)
+        gene_diseases = load_gene_network_diseases(gene_disease_file)
+        mapping, unmatched_genes = create_disease_mapping(mesh_dict, symptom_diseases, gene_diseases)
+        save_disease_mapping(mapping, mapping_file)
+    else:
+        print("Reusing existing disease_name_mapping.tsv (use --force-remap to rebuild)\n")
     
     # Create unified network
     if symptom_network_file.exists():
