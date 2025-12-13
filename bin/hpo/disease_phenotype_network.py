@@ -83,6 +83,13 @@ print("\nTop 10 most common phenotypes:")
 for hpo_id, degree in top_phenotypes:
     print(f"  {hpo_id}: {G.nodes[hpo_id]['name']} - {degree} diseases")
 
+# Save bipartite network for reference as TSV
+print("\nSaving bipartite disease-phenotype network to 'disease_phenotype_network.tsv'...")
+with open('disease_phenotype_network.tsv', 'w') as f:
+    f.write("Source\tTarget\n")
+    for u, v in G.edges():
+        f.write(f"{u}\t{v}\n")
+
 # -------------------------------
 # 5. Create disease-disease projection network (OPTIMIZED)
 # -------------------------------
@@ -129,6 +136,13 @@ for i in range(len(disease_list)):
         if shared >= min_shared:
             disease_disease_net.add_edge(disease1, disease2, weight=shared)
             edges_added += 1
+
+# save disease-disease network as TSV
+print("\nSaving disease-disease network to 'disease_disease_network.tsv'...")
+with open('disease_disease_network.tsv', 'w') as f:
+    f.write("disease1\tdisease2\tweight\n")
+    for u, v, data in disease_disease_net.edges(data=True):
+        f.write(f"{u}\t{v}\t{data['weight']}\n")
 
 print(f"\nDisease-disease network statistics:")
 print(f"  Diseases: {disease_disease_net.number_of_nodes()}")

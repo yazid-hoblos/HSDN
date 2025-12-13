@@ -1,3 +1,4 @@
+import argparse
 import pandas as pd
 import networkx as nx
 from pathlib import Path
@@ -5,31 +6,39 @@ import numpy as np
 from scipy import stats
 
 # ---------------------------
-# Config
+# Defaults (can be overridden via CLI)
 # ---------------------------
-INPUT_FILE = Path("data/article_data/data4.txt")
-OUTPUT_EDGELIST = Path("data/disease_network_edgelist.csv")
-OUTPUT_BACKBONE = Path("data/disease_network_backbone.csv")
-ALPHA = 0.05  # significance level for backbone filtering
+DEFAULT_INPUT = Path("data/article_data/data4.txt")
+DEFAULT_OUTPUT_EDGELIST = Path("data/disease_network_edgelist.csv")
+DEFAULT_OUTPUT_BACKBONE = Path("data/disease_network_backbone.csv")
+DEFAULT_ALPHA = 0.05  # significance level for backbone filtering
 
 # ---------------------------
 # 1. Load and standardize edge list
 # ---------------------------
-def load_and_convert_edgelist(input_path, output_path):
+def load_and_convert_edgelist(input_path, output_path, source_col=None, target_col=None, weight_col=None, sep='\t'):
     """
     Load edge list and convert to standard Gephi format.
     Standard format: Source,Target,Weight
     """
     print(f"Loading edge list from {input_path}...")
-    df = pd.read_csv(input_path, sep='\t')
+    df = pd.read_csv(input_path, sep=sep)
     print(f"Loaded {len(df)} edges")
     
-    # Rename columns to Gephi standard
-    df_gephi = df.rename(columns={
-        df.columns[0]: 'Source',
-        df.columns[1]: 'Target',
-        df.columns[2]: 'Weight'
-    })
+    # Determine columns
+    if source_col and target_col and weight_col:
+        rename_map = {source_col: 'Source', target_col: 'Target', weight_col: 'Weight'}
+        missing = [c for c in [source_col, target_col, weight_col] if c not in df.columns]
+        if missing:
+            raise ValueError(f"Missing required columns in input: {missing}")
+        df_gephi = df.rename(columns=rename_map)[['Source','Target','Weight']]
+    else:
+        # Fallback: use first three columns
+        df_gephi = df.rename(columns={
+            df.columns[0]: 'Source',
+            df.columns[1]: 'Target',
+            df.columns[2]: 'Weight'
+        })[['Source','Target','Weight']]
     
     # Save as CSV
     df_gephi.to_csv(output_path, index=False)
@@ -122,16 +131,34 @@ def export_backbone(G, output_path):
 # Main
 # ---------------------------
 def main():
+    parser = argparse.ArgumentParser(description="Standardize edge list and apply multiscale backbone filtering")
+    parser.add_argument('--input', type=Path, default=DEFAULT_INPUT, help='Input edge list path (TSV/CSV)')
+    parser.add_argument('--sep', type=str, default='\t', help='Input delimiter (default tab)')
+    parser.add_argument('--source-col', type=str, default=None, help='Column name for source (e.g., disease1)')
+    parser.add_argument('--target-col', type=str, default=None, help='Column name for target (e.g., disease2)')
+    parser.add_argument('--weight-col', type=str, default=None, help='Column name for weight (e.g., weight)')
+    parser.add_argument('--output-edgelist', type=Path, default=DEFAULT_OUTPUT_EDGELIST, help='Output standardized edge list CSV')
+    parser.add_argument('--output-backbone', type=Path, default=DEFAULT_OUTPUT_BACKBONE, help='Output backbone CSV')
+    parser.add_argument('--alpha', type=float, default=DEFAULT_ALPHA, help='Backbone significance alpha')
+    args = parser.parse_args()
+
     print("="*60)
     print("Disease Network Standardization & Backbone Filtering")
     print("="*60)
     
     # Step 1: Load and standardize
-    if not INPUT_FILE.exists():
-        print(f"ERROR: {INPUT_FILE} not found")
+    if not args.input.exists():
+        print(f"ERROR: {args.input} not found")
         return
     
-    df_edges = load_and_convert_edgelist(INPUT_FILE, OUTPUT_EDGELIST)
+    df_edges = load_and_convert_edgelist(
+        args.input,
+        args.output_edgelist,
+        source_col=args.source_col,
+        target_col=args.target_col,
+        weight_col=args.weight_col,
+        sep=args.sep,
+    )
     
     # Step 2: Build NetworkX graph
     print("\nBuilding network graph...")
@@ -152,19 +179,19 @@ def main():
     print(f"  Edges: {G.number_of_edges()}")
     
     # Step 3: Apply backbone filtering
-    backbone = disparity_filter(G, alpha=ALPHA)
+    backbone = disparity_filter(G, alpha=args.alpha)
     
     # Step 4: Export backbone
-    export_backbone(backbone, OUTPUT_BACKBONE)
+    export_backbone(backbone, args.output_backbone)
     
     # Optional: Export backbone as GEXF too
-    nx.write_gexf(backbone, OUTPUT_BACKBONE.with_suffix('.gexf'))
-    print(f"Also saved as {OUTPUT_BACKBONE.with_suffix('.gexf')}")
+    nx.write_gexf(backbone, args.output_backbone.with_suffix('.gexf'))
+    print(f"Also saved as {args.output_backbone.with_suffix('.gexf')}")
     
     print("\n" + "="*60)
     print("Summary:")
-    print(f"  Standardized edge list: {OUTPUT_EDGELIST}")
-    print(f"  Backbone (α={ALPHA}): {OUTPUT_BACKBONE}")
+    print(f"  Standardized edge list: {args.output_edgelist}")
+    print(f"  Backbone (α={args.alpha}): {args.output_backbone}")
     print(f"  Both can be opened in Gephi")
     print("="*60)
 
