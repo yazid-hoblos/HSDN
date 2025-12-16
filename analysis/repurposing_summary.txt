@@ -1,0 +1,34 @@
+=== DRUG REPURPOSING CANDIDATE SUMMARY ===
+
+Total candidates: 30835
+Similarity range: [0.300, 0.999]
+Shared genes range: [0, 25]
+
+TOP 20 CANDIDATES:
+------------------------------------------------------------------------------------------------------------------------
+ 1. Proteinuria                              <-> Nephrotic Syndrome                       | sim=0.994 | genes= 2 | score=0.810
+ 2. Idiopathic Pulmonary Fibrosis            <-> Pulmonary Fibrosis                       | sim=0.999 | genes= 1 | score=0.808
+ 3. Pseudohypoparathyroidism                 <-> Pseudopseudohypoparathyroidism           | sim=0.995 | genes= 1 | score=0.803
+ 4. Dystonia                                 <-> Dystonic Disorders                       | sim=0.999 | genes= 0 | score=0.800
+ 5. Proteinuria                              <-> Glomerulosclerosis, Focal Segmental      | sim=0.998 | genes= 0 | score=0.799
+ 6. Nephrocalcinosis                         <-> Nephrolithiasis                          | sim=0.956 | genes= 6 | score=0.798
+ 7. Glomerulosclerosis, Focal Segmental      <-> Lecithin Acyltransferase Deficiency      | sim=0.995 | genes= 0 | score=0.795
+ 8. Coronary Artery Disease                  <-> Coronary Disease                         | sim=0.995 | genes= 0 | score=0.795
+ 9. Proteinuria                              <-> Lecithin Acyltransferase Deficiency      | sim=0.995 | genes= 0 | score=0.795
+10. Glomerulosclerosis, Focal Segmental      <-> Nephrotic Syndrome                       | sim=0.994 | genes= 0 | score=0.794
+11. Microcephaly                             <-> Chromosome Aberrations                   | sim=0.993 | genes= 0 | score=0.794
+12. Lupus Nephritis                          <-> Nephrotic Syndrome                       | sim=0.993 | genes= 0 | score=0.793
+13. Glomerulonephritis                       <-> Glomerulonephritis, Membranoproliferative | sim=0.993 | genes= 0 | score=0.793
+14. Nephrotic Syndrome                       <-> Lecithin Acyltransferase Deficiency      | sim=0.992 | genes= 0 | score=0.792
+15. Diabetes Insipidus                       <-> Diabetes Insipidus, Neurogenic           | sim=0.992 | genes= 0 | score=0.792
+16. Glomerulonephritis                       <-> Nephrotic Syndrome                       | sim=0.985 | genes= 1 | score=0.792
+17. Insulin Resistance                       <-> Metabolic Syndrome X                     | sim=0.991 | genes= 0 | score=0.790
+18. Insulin Resistance                       <-> Hyperinsulinism                          | sim=0.990 | genes= 0 | score=0.790
+19. Syncope                                  <-> Long QT Syndrome                         | sim=0.990 | genes= 0 | score=0.790
+20. Cholelithiasis                           <-> Gallstones                               | sim=0.989 | genes= 0 | score=0.788
+
+INTERPRETATION:
+These disease pairs have high symptom overlap, suggesting shared
+biological pathways. Drugs effective for one disease may be
+repurposable for the other. Shared gene counts indicate mechanistic
+support (higher = more genes in common).

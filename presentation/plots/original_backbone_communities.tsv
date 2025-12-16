@@ -1,0 +1,1036 @@
+node_id	label	community	degree	strength
+Diabetes Mellitus	Diabetes Mellitus	0	24	21.941905636788217
+Hyperlipidemias	Hyperlipidemias	0	23	20.792516233878185
+Metabolic Diseases	Metabolic Diseases	0	21	18.828160598842164
+Insulin Resistance	Insulin Resistance	0	20	18.819408831778563
+Metabolic Syndrome X	Metabolic Syndrome X	0	20	18.81442328993017
+Hypertriglyceridemia	Hypertriglyceridemia	0	20	18.622101113653056
+Nephrotic Syndrome	Nephrotic Syndrome	0	21	18.438054796785643
+Obesity	Obesity	0	19	17.943819473724705
+Kidney Diseases	Kidney Diseases	0	23	17.82570748769928
+Glomerulonephritis	Glomerulonephritis	0	20	17.72860976727524
+Dyslipidemias	Dyslipidemias	0	19	17.250138713780544
+Endometrial Neoplasms	Endometrial Neoplasms	0	19	17.015398974832664
+Hyperlipoproteinemias	Hyperlipoproteinemias	0	19	17.00268430112598
+Glucose Intolerance	Glucose Intolerance	0	18	16.427316058766763
+Hyperinsulinism	Hyperinsulinism	0	17	15.94616536232936
+Hyperglycemia	Hyperglycemia	0	18	15.37155003286246
+Hypoalphalipoproteinemias	Hypoalphalipoproteinemias	0	16	14.902431487798543
+Fatty Liver	Fatty Liver	0	16	14.848383333138736
+Glomerulosclerosis, Focal Segmental	Glomerulosclerosis, Focal Segmental	0	17	14.553471678639283
+Renal Insufficiency	Renal Insufficiency	0	17	13.691371759395496
+Proteinuria	Proteinuria	0	15	13.003878135850039
+Bardet-Biedl Syndrome	Bardet-Biedl Syndrome	0	14	12.51570579287944
+Endometrial Hyperplasia	Endometrial Hyperplasia	0	13	11.529877164796568
+Amyloidosis	Amyloidosis	0	15	11.498653148214933
+Hyperlipidemia, Familial Combined	Hyperlipidemia, Familial Combined	0	12	11.460932190151706
+Lipid Metabolism Disorders	Lipid Metabolism Disorders	0	12	10.415268181943535
+Lupus Erythematosus, Systemic	Lupus Erythematosus, Systemic	0	15	10.30921055135062
+Glomerulonephritis, Membranoproliferative	Glomerulonephritis, Membranoproliferative	0	12	10.30363095384653
+Kidney Failure, Chronic	Kidney Failure, Chronic	0	12	9.874426458037362
+Hypercholesterolemia	Hypercholesterolemia	0	12	9.805062651053413
+Immune Complex Diseases	Immune Complex Diseases	0	11	9.60749257151268
+Gout	Gout	0	11	9.466139474610348
+Diabetes Mellitus, Type 1	Diabetes Mellitus, Type 1	0	10	8.269965877058238
+Nephritis, Interstitial	Nephritis, Interstitial	0	10	8.21106204833773
+Hypothalamic Diseases	Hypothalamic Diseases	0	10	8.155999323505057
+Alopecia	Alopecia	0	10	7.863725058026694
+Cushing Syndrome	Cushing Syndrome	0	9	7.3789513332788
+Nephrosis	Nephrosis	0	8	7.151908879767179
+Anemia, Macrocytic	Anemia, Macrocytic	0	9	6.872824214786458
+Hematuria	Hematuria	0	8	6.767459686650015
+Hypertension	Hypertension	0	8	6.7382350632880375
+Hypertension, Renal	Hypertension, Renal	0	8	6.551552986260367
+Diabetic Angiopathies	Diabetic Angiopathies	0	8	6.490860557816117
+Polycystic Kidney Diseases	Polycystic Kidney Diseases	0	9	6.476402546906028
+Lecithin Acyltransferase Deficiency	Lecithin Acyltransferase Deficiency	0	7	6.053105910324729
+Diabetes Mellitus, Type 2	Diabetes Mellitus, Type 2	0	7	6.025072290671828
+Glomerulonephritis, IGA	Glomerulonephritis, IGA	0	6	5.290868960862786
+Diabetic Nephropathies	Diabetic Nephropathies	0	6	5.061608920434443
+Acanthosis Nigricans	Acanthosis Nigricans	0	6	4.832035733424805
+Pre-Eclampsia	Pre-Eclampsia	0	6	4.4737066149147235
+Hypertrophy, Left Ventricular	Hypertrophy, Left Ventricular	0	5	4.273114796170881
+Amenorrhea	Amenorrhea	0	6	4.226441073967685
+Polycystic Kidney, Autosomal Dominant	Polycystic Kidney, Autosomal Dominant	0	5	4.099118890815964
+Hypertension, Pregnancy-Induced	Hypertension, Pregnancy-Induced	0	5	3.9478150629446596
+Anemia, Megaloblastic	Anemia, Megaloblastic	0	5	3.67447461715777
+Lupus Nephritis	Lupus Nephritis	0	4	3.573194227349482
+Acne Vulgaris	Acne Vulgaris	0	4	3.3542690033333846
+Fanconi Syndrome	Fanconi Syndrome	0	4	3.315342158412393
+Polycystic Ovary Syndrome	Polycystic Ovary Syndrome	0	4	3.245796983408659
+Adrenocortical Hyperfunction	Adrenocortical Hyperfunction	0	4	3.205521274922985
+Hyperuricemia	Hyperuricemia	0	3	2.7364700783126628
+Lipodystrophy	Lipodystrophy	0	3	2.330220780363864
+Hyperprolactinemia	Hyperprolactinemia	0	3	2.2120051064504813
+Diabetic Retinopathy	Diabetic Retinopathy	0	3	2.163134748964479
+Hyperlipoproteinemia Type IV	Hyperlipoproteinemia Type IV	0	2	1.818040690648302
+Dermatitis, Seborrheic	Dermatitis, Seborrheic	0	2	1.7622928717407031
+Pituitary ACTH Hypersecretion	Pituitary ACTH Hypersecretion	0	2	1.6937291280901954
+Kidney Diseases, Cystic	Kidney Diseases, Cystic	0	2	1.2124578691327628
+Urinary Calculi	Urinary Calculi	0	2	1.141848845650573
+Kidney Calculi	Kidney Calculi	0	2	1.1159964508627418
+Albuminuria	Albuminuria	0	1	0.9749552488681807
+Hirsutism	Hirsutism	0	1	0.9147609402407784
+Prader-Willi Syndrome	Prader-Willi Syndrome	0	1	0.8050530897607081
+Denys-Drash Syndrome	Denys-Drash Syndrome	0	1	0.7906011030501912
+Hair Diseases	Hair Diseases	0	1	0.748759920465095
+Oculocerebrorenal Syndrome	Oculocerebrorenal Syndrome	0	1	0.7377174320528067
+Lipodystrophy, Familial Partial	Lipodystrophy, Familial Partial	0	1	0.6853960671546354
+Urolithiasis	Urolithiasis	0	1	0.6334984906195741
+Nephritis	Nephritis	0	1	0.5332588306706618
+Ureteral Diseases	Ureteral Diseases	0	1	0.4113911195890052
+Lung Diseases	Lung Diseases	1	13	9.240945327940096
+Pulmonary Disease, Chronic Obstructive	Pulmonary Disease, Chronic Obstructive	1	11	9.061301848844915
+Pulmonary Fibrosis	Pulmonary Fibrosis	1	10	8.442045383850855
+Mesothelioma	Mesothelioma	1	10	7.62824788258556
+Hypertension, Pulmonary	Hypertension, Pulmonary	1	9	7.399762087275412
+Reperfusion Injury	Reperfusion Injury	1	9	6.9962938280763725
+Idiopathic Pulmonary Fibrosis	Idiopathic Pulmonary Fibrosis	1	8	6.968246780747231
+Heart Defects, Congenital	Heart Defects, Congenital	1	9	6.670156943613336
+Respiratory Distress Syndrome, Adult	Respiratory Distress Syndrome, Adult	1	8	6.191530349892192
+Pulmonary Embolism	Pulmonary Embolism	1	8	6.189244107805321
+Lung Neoplasms	Lung Neoplasms	1	9	6.028389842515843
+Lung Diseases, Interstitial	Lung Diseases, Interstitial	1	7	5.887324032729842
+Pulmonary Emphysema	Pulmonary Emphysema	1	7	5.761372654619152
+Hemangiosarcoma	Hemangiosarcoma	1	8	5.739733770957811
+Polycythemia	Polycythemia	1	6	5.273081365072515
+Pulmonary Alveolar Proteinosis	Pulmonary Alveolar Proteinosis	1	6	5.178356260705464
+Lung Diseases, Obstructive	Lung Diseases, Obstructive	1	6	5.13239886476378
+Neovascularization, Pathologic	Neovascularization, Pathologic	1	6	4.939099237865061
+Respiratory Insufficiency	Respiratory Insufficiency	1	6	4.824920943833748
+Lymphangioleiomyomatosis	Lymphangioleiomyomatosis	1	6	4.746222313957366
+Mitral Valve Prolapse	Mitral Valve Prolapse	1	6	4.581198973885681
+Heart Septal Defects, Atrial	Heart Septal Defects, Atrial	1	6	4.339554093710633
+Emphysema	Emphysema	1	5	3.925979463709453
+Heart Septal Defects	Heart Septal Defects	1	5	3.773692131072236
+Bronchiectasis	Bronchiectasis	1	5	3.6883353360634086
+Aneurysm, Dissecting	Aneurysm, Dissecting	1	5	3.415231785269361
+Acidosis	Acidosis	1	4	3.0470932786275458
+Pleural Diseases	Pleural Diseases	1	4	3.0368548750428586
+Pulmonary Veno-Occlusive Disease	Pulmonary Veno-Occlusive Disease	1	4	3.017095112868438
+Persistent Fetal Circulation Syndrome	Persistent Fetal Circulation Syndrome	1	4	3.0095496586278623
+Cystic Fibrosis	Cystic Fibrosis	1	4	2.9205700128158085
+Ductus Arteriosus, Patent	Ductus Arteriosus, Patent	1	4	2.8149077207701225
+Myocardial Reperfusion Injury	Myocardial Reperfusion Injury	1	3	2.747380402662546
+Behcet Syndrome	Behcet Syndrome	1	4	2.6486011194840193
+Tetralogy of Fallot	Tetralogy of Fallot	1	3	2.6462188882503215
+Pulmonary Valve Stenosis	Pulmonary Valve Stenosis	1	3	2.281328745060296
+Aortic Aneurysm, Thoracic	Aortic Aneurysm, Thoracic	1	3	2.1699865606857567
+Pneumonia	Pneumonia	1	3	2.0478683038539893
+Acidosis, Lactic	Acidosis, Lactic	1	3	2.045820211938177
+Transposition of Great Vessels	Transposition of Great Vessels	1	2	1.9423094786238613
+Raynaud Disease	Raynaud Disease	1	3	1.7595393519907445
+Aortic Aneurysm	Aortic Aneurysm	1	2	1.6041244720862446
+Methemoglobinemia	Methemoglobinemia	1	2	1.5807092511188143
+Pneumothorax	Pneumothorax	1	2	1.5295107330275746
+Pulmonary Blastoma	Pulmonary Blastoma	1	2	1.5288970135131172
+Coronary Aneurysm	Coronary Aneurysm	1	2	1.52100195818757
+Aneurysm	Aneurysm	1	2	1.4346710869595998
+Heart Septal Defects, Ventricular	Heart Septal Defects, Ventricular	1	1	0.8900632658159862
+Respiratory System Abnormalities	Respiratory System Abnormalities	1	1	0.7328400010463489
+Tietze's Syndrome	Tietze's Syndrome	1	1	0.7146742291753154
+Hemorrhage	Hemorrhage	1	1	0.6844339637220191
+Asphyxia	Asphyxia	1	1	0.678800639068895
+Cocaine-Related Disorders	Cocaine-Related Disorders	1	1	0.6324149892048525
+Histiocytoma	Histiocytoma	1	1	0.6299648007007088
+Hypoplastic Left Heart Syndrome	Hypoplastic Left Heart Syndrome	1	1	0.592450455712733
+Chilblains	Chilblains	1	1	0.5043541613812789
+Lithiasis	Lithiasis	1	1	0.217526595913443
+Rhabdomyosarcoma, Embryonal	Rhabdomyosarcoma, Embryonal	1	1	0.1147737062796561
+Immunologic Deficiency Syndromes	Immunologic Deficiency Syndromes	2	14	11.238029670200094
+Malaria	Malaria	2	14	10.902103019617577
+Neutropenia	Neutropenia	2	12	10.466417159742209
+Multiple Myeloma	Multiple Myeloma	2	11	8.20882886400034
+Lymphopenia	Lymphopenia	2	9	7.295215178198094
+Lymphoma	Lymphoma	2	8	5.998268232636217
+Job's Syndrome	Job's Syndrome	2	7	5.866353188157348
+Hypergammaglobulinemia	Hypergammaglobulinemia	2	7	5.849400395700968
+Leukemia	Leukemia	2	7	5.411271774817286
+Bacterial Infections	Bacterial Infections	2	6	5.003504628129285
+Lymphoproliferative Disorders	Lymphoproliferative Disorders	2	6	4.99067830854162
+Hereditary Autoinflammatory Diseases	Hereditary Autoinflammatory Diseases	2	6	4.954107256517356
+Blood Protein Disorders	Blood Protein Disorders	2	6	4.356552067089166
+Sepsis	Sepsis	2	6	4.313470479094651
+Leukemia, Myeloid, Acute	Leukemia, Myeloid, Acute	2	5	4.022780326494149
+Infection	Infection	2	5	3.9999138693884007
+Leukemia, Myeloid	Leukemia, Myeloid	2	5	3.9567312676995168
+Lymphoma, Non-Hodgkin	Lymphoma, Non-Hodgkin	2	5	3.7344900429070043
+Agranulocytosis	Agranulocytosis	2	4	3.414493032695058
+Bacteremia	Bacteremia	2	4	3.3778224972923656
+Leukocytosis	Leukocytosis	2	4	3.3342985238233025
+Leukemia, Lymphoid	Leukemia, Lymphoid	2	4	3.0789709477121363
+Dysgammaglobulinemia	Dysgammaglobulinemia	2	4	3.078137527683959
+Drug Hypersensitivity	Drug Hypersensitivity	2	4	3.0300382718614016
+Xanthomatosis	Xanthomatosis	2	4	2.8398790195332437
+Liddle Syndrome	Liddle Syndrome	2	3	2.624649963889553
+Hematologic Neoplasms	Hematologic Neoplasms	2	3	2.422733199614575
+Pancytopenia	Pancytopenia	2	3	2.3711247225548107
+Lymphoma, T-Cell	Lymphoma, T-Cell	2	3	2.280507888630266
+Familial Mediterranean Fever	Familial Mediterranean Fever	2	3	2.2741168623686847
+Malaria, Falciparum	Malaria, Falciparum	2	2	1.6756050938686786
+Candidiasis, Chronic Mucocutaneous	Candidiasis, Chronic Mucocutaneous	2	2	1.6509433363686092
+Protein S Deficiency	Protein S Deficiency	2	2	1.5943601546200208
+Mucocutaneous Lymph Node Syndrome	Mucocutaneous Lymph Node Syndrome	2	2	1.5747782892057227
+Lymphoma, Large B-Cell, Diffuse	Lymphoma, Large B-Cell, Diffuse	2	2	1.5601756318185154
+Lymphohistiocytosis, Hemophagocytic	Lymphohistiocytosis, Hemophagocytic	2	2	1.5203893186272412
+Hodgkin Disease	Hodgkin Disease	2	2	1.4824480502174051
+Protein C Deficiency	Protein C Deficiency	2	2	1.4308465630687426
+Skin Diseases, Vascular	Skin Diseases, Vascular	2	2	1.3544485523873582
+Sjogren's Syndrome	Sjogren's Syndrome	2	2	1.338108962739344
+Vasculitis	Vasculitis	2	2	1.328237412937598
+Meningococcal Infections	Meningococcal Infections	2	2	1.1576037941374409
+Communicable Diseases	Communicable Diseases	2	1	0.9483357370081608
+Mevalonate Kinase Deficiency	Mevalonate Kinase Deficiency	2	1	0.90082898416583
+Lymphoma, B-Cell	Lymphoma, B-Cell	2	1	0.8105073108994186
+Dengue	Dengue	2	1	0.7804117427618533
+Exanthema	Exanthema	2	1	0.780161614796563
+Shock, Septic	Shock, Septic	2	1	0.7760973617755607
+Lymphatic Diseases	Lymphatic Diseases	2	1	0.7636619219702224
+Severe Acute Respiratory Syndrome	Severe Acute Respiratory Syndrome	2	1	0.7593016241864399
+Measles	Measles	2	1	0.7470174343343151
+Anaphylaxis	Anaphylaxis	2	1	0.7266554576360528
+Pneumococcal Infections	Pneumococcal Infections	2	1	0.7058426059569228
+Coagulation Protein Disorders	Coagulation Protein Disorders	2	1	0.7045178746597243
+Mycobacterium Infections	Mycobacterium Infections	2	1	0.6813076692424617
+Gaucher Disease	Gaucher Disease	2	1	0.6404515528410683
+Leishmaniasis	Leishmaniasis	2	1	0.634116721152805
+Arrhythmias, Cardiac	Arrhythmias, Cardiac	3	20	16.776294803015315
+Atrial Fibrillation	Atrial Fibrillation	3	20	14.633970219780977
+Death, Sudden, Cardiac	Death, Sudden, Cardiac	3	15	13.471803582189006
+Ventricular Fibrillation	Ventricular Fibrillation	3	15	12.845253118853643
+Torsades de Pointes	Torsades de Pointes	3	14	12.495622732952821
+Tachycardia	Tachycardia	3	13	10.983596839907097
+Heart Block	Heart Block	3	11	9.882169484221937
+Tachycardia, Ventricular	Tachycardia, Ventricular	3	10	8.920851233415062
+Heart Diseases	Heart Diseases	3	12	8.754388436313311
+Long QT Syndrome	Long QT Syndrome	3	10	8.7161974295471
+Coronary Artery Disease	Coronary Artery Disease	3	10	8.55657787509872
+Cardiomyopathies	Cardiomyopathies	3	10	7.140825475795055
+Cardiomyopathy, Hypertrophic	Cardiomyopathy, Hypertrophic	3	9	6.835489115660513
+Coronary Disease	Coronary Disease	3	8	6.823655506602014
+Myocardial Ischemia	Myocardial Ischemia	3	7	6.286906350959515
+Arrhythmogenic Right Ventricular Dysplasia	Arrhythmogenic Right Ventricular Dysplasia	3	7	6.0968371288639505
+Sick Sinus Syndrome	Sick Sinus Syndrome	3	7	5.997067831223795
+Brugada Syndrome	Brugada Syndrome	3	7	5.830742748086234
+Hypotension, Orthostatic	Hypotension, Orthostatic	3	7	5.764700412864511
+Myocardial Infarction	Myocardial Infarction	3	6	5.41295737052654
+Ischemia	Ischemia	3	7	5.23234847875705
+Bundle-Branch Block	Bundle-Branch Block	3	6	5.197401737554344
+Syncope	Syncope	3	6	5.180736719928955
+Coronary Restenosis	Coronary Restenosis	3	5	4.5534138460925675
+Cardiomyopathy, Dilated	Cardiomyopathy, Dilated	3	6	4.498552711152033
+Vascular Diseases	Vascular Diseases	3	6	4.407848650565633
+Hyperlipoproteinemia Type II	Hyperlipoproteinemia Type II	3	6	4.352092645103464
+Bradycardia	Bradycardia	3	6	4.293251796427341
+Arteriosclerosis	Arteriosclerosis	3	6	4.2307805027536425
+Cardiomyopathy, Hypertrophic, Familial	Cardiomyopathy, Hypertrophic, Familial	3	6	4.11228665605625
+Myocardial Stunning	Myocardial Stunning	3	4	3.455461955715104
+Aortic Valve Stenosis	Aortic Valve Stenosis	3	4	3.2478315184123594
+Heart Failure	Heart Failure	3	5	3.209204809049904
+Thromboembolism	Thromboembolism	3	4	2.821346111152981
+Coronary Stenosis	Coronary Stenosis	3	3	2.6876783384951626
+Angina Pectoris	Angina Pectoris	3	3	2.686824751651974
+Atrioventricular Block	Atrioventricular Block	3	3	2.658914498492263
+Peripheral Vascular Diseases	Peripheral Vascular Diseases	3	3	2.3812390830571912
+Heart Valve Diseases	Heart Valve Diseases	3	3	2.341775571132737
+Hypotension	Hypotension	3	4	2.2776180279647322
+Thoracic Diseases	Thoracic Diseases	3	3	2.2345847386676168
+Cardiomyopathy, Restrictive	Cardiomyopathy, Restrictive	3	3	2.130452871395054
+Thrombosis	Thrombosis	3	3	2.0053187696430865
+Cysts	Cysts	3	3	1.9952139199305976
+Wolff-Parkinson-White Syndrome	Wolff-Parkinson-White Syndrome	3	2	1.842740217019831
+Ventricular Dysfunction, Left	Ventricular Dysfunction, Left	3	2	1.6107588248115203
+Sinoatrial Block	Sinoatrial Block	3	2	1.5505520886968738
+Death, Sudden	Death, Sudden	3	2	1.5111175442411873
+Hyperemia	Hyperemia	3	2	1.4466240343481085
+Arteritis	Arteritis	3	2	1.4346054687522478
+Myxoma	Myxoma	3	2	1.381208985514869
+Cardiovascular Abnormalities	Cardiovascular Abnormalities	3	2	1.1602447845985573
+Angina, Unstable	Angina, Unstable	3	1	0.8275844273651491
+Coffin-Lowry Syndrome	Coffin-Lowry Syndrome	3	1	0.7468529824136494
+Sleep Apnea, Central	Sleep Apnea, Central	3	1	0.5466732900684326
+Anuria	Anuria	3	1	0.1666990300270354
+Celiac Disease	Celiac Disease	4	21	16.958876067428367
+Crohn Disease	Crohn Disease	4	20	15.955973710664729
+Inflammatory Bowel Diseases	Inflammatory Bowel Diseases	4	18	14.752957609914937
+Acquired Immunodeficiency Syndrome	Acquired Immunodeficiency Syndrome	4	16	12.22058732333328
+AIDS-Related Opportunistic Infections	AIDS-Related Opportunistic Infections	4	14	11.061539867011334
+Rectal Neoplasms	Rectal Neoplasms	4	13	10.254615634688356
+Colorectal Neoplasms	Colorectal Neoplasms	4	11	8.695166410142804
+Entamoebiasis	Entamoebiasis	4	10	8.184068400751297
+Carcinoma, Small Cell	Carcinoma, Small Cell	4	11	7.8345437228120485
+HIV Infections	HIV Infections	4	10	7.820999572972319
+Vipoma	Vipoma	4	8	6.467825464780098
+Adenocarcinoma	Adenocarcinoma	4	8	6.009820495174488
+Colitis, Ulcerative	Colitis, Ulcerative	4	8	5.8408209188276485
+Gastrinoma	Gastrinoma	4	7	5.765333280641701
+Neoplasm Recurrence, Local	Neoplasm Recurrence, Local	4	8	5.666777769542863
+Colitis	Colitis	4	7	5.559412543844005
+Intestinal Neoplasms	Intestinal Neoplasms	4	7	5.500144858820695
+Carcinoma, Non-Small-Cell Lung	Carcinoma, Non-Small-Cell Lung	4	7	5.395569350110858
+Carcinoma, Squamous Cell	Carcinoma, Squamous Cell	4	7	5.113502836807648
+Carcinoma, Medullary	Carcinoma, Medullary	4	7	5.0823695066736025
+Gram-Negative Bacterial Infections	Gram-Negative Bacterial Infections	4	6	4.906382981292487
+Salmonella Infections, Animal	Salmonella Infections, Animal	4	6	4.7161467087243425
+Agammaglobulinemia	Agammaglobulinemia	4	6	4.458574543316474
+Thyroid Neoplasms	Thyroid Neoplasms	4	7	4.31667953914426
+Colonic Polyps	Colonic Polyps	4	6	4.238247698974758
+Exocrine Pancreatic Insufficiency	Exocrine Pancreatic Insufficiency	4	5	3.910413956417233
+Sarcoma	Sarcoma	4	5	3.84579437356256
+Colonic Neoplasms	Colonic Neoplasms	4	4	3.141382215113351
+Intestinal Polyps	Intestinal Polyps	4	4	3.137406259306174
+Carcinoma, Transitional Cell	Carcinoma, Transitional Cell	4	4	2.7326319769087775
+Melanoma	Melanoma	4	4	2.647422419173879
+Malabsorption Syndromes	Malabsorption Syndromes	4	4	2.6190543644358093
+Gastrointestinal Neoplasms	Gastrointestinal Neoplasms	4	3	2.4806657228438187
+Intestinal Diseases	Intestinal Diseases	4	3	2.4193889131194486
+HIV Seropositivity	HIV Seropositivity	4	3	2.3035292185721596
+Enterocolitis	Enterocolitis	4	2	1.6769114721198024
+Mucositis	Mucositis	4	2	1.6246230719124541
+Graft vs Host Disease	Graft vs Host Disease	4	2	1.5987016693694815
+Lactose Intolerance	Lactose Intolerance	4	2	1.4846164589217121
+Uterine Cervical Neoplasms	Uterine Cervical Neoplasms	4	2	1.3910351418753892
+Genital Neoplasms, Female	Genital Neoplasms, Female	4	2	1.3431445266876405
+Caliciviridae Infections	Caliciviridae Infections	4	1	0.7289050402306638
+Carcinoma	Carcinoma	4	1	0.7287227676159947
+Neoplasms, Germ Cell and Embryonal	Neoplasms, Germ Cell and Embryonal	4	1	0.6642132681521503
+Thyroid Diseases	Thyroid Diseases	4	1	0.6527121536387627
+Leukemia, T-Cell	Leukemia, T-Cell	4	1	0.6396094472217991
+Adenocarcinoma, Follicular	Adenocarcinoma, Follicular	4	1	0.508778870998116
+Uveal Neoplasms	Uveal Neoplasms	4	1	0.4353597215121251
+Cystinuria	Cystinuria	4	1	0.1173327599287712
+Liver Diseases	Liver Diseases	5	20	16.082177752978257
+Drug-Induced Liver Injury	Drug-Induced Liver Injury	5	18	14.442397284721661
+Hepatitis B	Hepatitis B	5	11	8.515621029144425
+Gallbladder Neoplasms	Gallbladder Neoplasms	5	11	8.33722279287005
+Liver Neoplasms	Liver Neoplasms	5	8	6.202209590706719
+Liver Failure	Liver Failure	5	8	5.893927034030975
+Pancreatic Diseases	Pancreatic Diseases	5	6	4.727643551260507
+Pancreatitis	Pancreatitis	5	6	4.524478065778702
+Carcinoma, Pancreatic Ductal	Carcinoma, Pancreatic Ductal	5	6	4.486128328283906
+Liver Failure, Acute	Liver Failure, Acute	5	6	4.378627954690145
+Hepatitis	Hepatitis	5	5	4.353057925553041
+Liver Cirrhosis	Liver Cirrhosis	5	6	4.253366889340839
+Spherocytosis, Hereditary	Spherocytosis, Hereditary	5	5	4.144008038500354
+Pancreatic Neoplasms	Pancreatic Neoplasms	5	5	4.038187566038413
+Hepatitis B, Chronic	Hepatitis B, Chronic	5	5	3.913504691283272
+Jaundice, Chronic Idiopathic	Jaundice, Chronic Idiopathic	5	4	3.6889188480578445
+Angioedema	Angioedema	5	5	3.5533359630753822
+Cecal Neoplasms	Cecal Neoplasms	5	4	3.1034039434839964
+Fibromatosis, Abdominal	Fibromatosis, Abdominal	5	4	3.0919612688874274
+Abdominal Neoplasms	Abdominal Neoplasms	5	4	2.992456639386642
+Peritonitis	Peritonitis	5	3	2.658232452017245
+Bile Duct Neoplasms	Bile Duct Neoplasms	5	3	2.496134670388309
+Carcinoma, Hepatocellular	Carcinoma, Hepatocellular	5	3	2.4733795020565164
+Hepatic Veno-Occlusive Disease	Hepatic Veno-Occlusive Disease	5	3	2.4294643482200535
+Hypertension, Portal	Hypertension, Portal	5	3	2.3358215687255672
+Cholestasis	Cholestasis	5	3	2.2891809123373634
+Cholangitis, Sclerosing	Cholangitis, Sclerosing	5	3	2.2411845629744924
+Cholelithiasis	Cholelithiasis	5	3	2.2392669482911347
+Pancreatitis, Chronic	Pancreatitis, Chronic	5	3	2.217239835746664
+Gastrointestinal Stromal Tumors	Gastrointestinal Stromal Tumors	5	3	2.2036210690542437
+Hepatomegaly	Hepatomegaly	5	3	2.100351139604812
+Cholecystitis	Cholecystitis	5	3	2.0434652339840085
+Hepatic Encephalopathy	Hepatic Encephalopathy	5	3	1.96133541211559
+Splenomegaly	Splenomegaly	5	3	1.9586068599458784
+Peptic Ulcer Hemorrhage	Peptic Ulcer Hemorrhage	5	2	1.7979249909717967
+Gastrointestinal Hemorrhage	Gastrointestinal Hemorrhage	5	2	1.7868399283783325
+Cholangiocarcinoma	Cholangiocarcinoma	5	2	1.7594454449518229
+Hyperbilirubinemia	Hyperbilirubinemia	5	2	1.7455168950862605
+Intestinal Perforation	Intestinal Perforation	5	2	1.7136663351632633
+Gallstones	Gallstones	5	2	1.6690746751330328
+Hereditary Angioedema Type III	Hereditary Angioedema Type III	5	2	1.5890937337764404
+Budd-Chiari Syndrome	Budd-Chiari Syndrome	5	2	1.2719226464016122
+Ureteral Neoplasms	Ureteral Neoplasms	5	2	1.1322992954997377
+Appendicitis	Appendicitis	5	1	0.94652975635198
+Pancreatic Cyst	Pancreatic Cyst	5	1	0.8440537389638989
+Protoporphyria, Erythropoietic	Protoporphyria, Erythropoietic	5	1	0.8385568919623856
+Angioedemas, Hereditary	Angioedemas, Hereditary	5	1	0.7459428402028229
+Porphyria, Acute Intermittent	Porphyria, Acute Intermittent	5	1	0.7297543446682216
+Muscular Dystrophy, Facioscapulohumeral	Muscular Dystrophy, Facioscapulohumeral	6	15	10.997064876426268
+Muscular Diseases	Muscular Diseases	6	13	8.95842738080986
+Neuromuscular Diseases	Neuromuscular Diseases	6	12	8.93487402991041
+Myositis	Myositis	6	11	8.057514683220345
+Muscular Atrophy, Spinal	Muscular Atrophy, Spinal	6	11	7.235137086079934
+Dermatomyositis	Dermatomyositis	6	9	6.328561934309678
+Amyotrophic Lateral Sclerosis	Amyotrophic Lateral Sclerosis	6	9	6.086417154200445
+Charcot-Marie-Tooth Disease	Charcot-Marie-Tooth Disease	6	7	5.510718008491554
+Myositis, Inclusion Body	Myositis, Inclusion Body	6	7	5.496191026246006
+Muscular Dystrophies	Muscular Dystrophies	6	7	5.35182914599416
+Muscular Dystrophy, Duchenne	Muscular Dystrophy, Duchenne	6	8	5.344327261518733
+Muscular Atrophy	Muscular Atrophy	6	7	5.337093398141632
+Muscular Dystrophies, Limb-Girdle	Muscular Dystrophies, Limb-Girdle	6	7	4.946789397018162
+Myopathies, Structural, Congenital	Myopathies, Structural, Congenital	6	6	4.262915483447265
+Myopathies, Nemaline	Myopathies, Nemaline	6	5	3.789684555302001
+Muscle Hypotonia	Muscle Hypotonia	6	4	2.923626168309824
+Myotonic Dystrophy	Myotonic Dystrophy	6	4	2.9070790470943924
+Motor Neuron Disease	Motor Neuron Disease	6	4	2.8821209492115942
+Hypertrophy	Hypertrophy	6	4	2.669939298748049
+Glycogen Storage Disease Type II	Glycogen Storage Disease Type II	6	3	2.2327520356683537
+Muscle Weakness	Muscle Weakness	6	3	2.220087565425691
+Muscular Dystrophy, Oculopharyngeal	Muscular Dystrophy, Oculopharyngeal	6	3	2.16265238418552
+Muscular Dystrophy, Emery-Dreifuss	Muscular Dystrophy, Emery-Dreifuss	6	3	2.060002346518181
+Mental Retardation, X-Linked	Mental Retardation, X-Linked	6	3	1.9229203209604566
+Contracture	Contracture	6	3	1.887757213591494
+West Nile Fever	West Nile Fever	6	3	1.8686594350730994
+Glycogen Storage Disease	Glycogen Storage Disease	6	3	1.857944743176052
+Myopathy, Central Core	Myopathy, Central Core	6	2	1.741252406298082
+Pyruvate Metabolism, Inborn Errors	Pyruvate Metabolism, Inborn Errors	6	2	1.6208381379929189
+Spinal Muscular Atrophies of Childhood	Spinal Muscular Atrophies of Childhood	6	2	1.4933609115043438
+Scleroderma, Localized	Scleroderma, Localized	6	2	1.3845228475090243
+Bulbo-Spinal Atrophy, X-Linked	Bulbo-Spinal Atrophy, X-Linked	6	2	1.3669442457203367
+Glycogen Storage Disease Type IIb	Glycogen Storage Disease Type IIb	6	2	1.334058819994938
+Myotonia Congenita	Myotonia Congenita	6	1	0.8246064000556796
+Multiple Acyl Coenzyme A Dehydrogenase Deficiency	Multiple Acyl Coenzyme A Dehydrogenase Deficiency	6	1	0.7496592145457432
+Osteochondrodysplasias	Osteochondrodysplasias	6	1	0.7072586152994699
+Andersen Syndrome	Andersen Syndrome	6	1	0.6658163607466017
+Distal Myopathies	Distal Myopathies	6	1	0.6539591838458677
+Hereditary Sensory and Autonomic Neuropathies	Hereditary Sensory and Autonomic Neuropathies	6	1	0.6535711145652462
+Hypokalemia	Hypokalemia	6	1	0.5840089394107545
+Myasthenia Gravis, Neonatal	Myasthenia Gravis, Neonatal	6	1	0.3832093697359744
+Vocal Cord Paralysis	Vocal Cord Paralysis	6	1	0.1793119680000068
+Osteoarthritis	Osteoarthritis	7	13	10.044824656669427
+Joint Diseases	Joint Diseases	7	12	9.008586619139964
+Arthritis	Arthritis	7	11	7.939767548370661
+Arthritis, Experimental	Arthritis, Experimental	7	8	6.069794496758272
+Leishmaniasis, Cutaneous	Leishmaniasis, Cutaneous	7	7	5.185829854660251
+Hyperalgesia	Hyperalgesia	7	6	5.020061331739768
+Osteolysis	Osteolysis	7	7	4.708803247004546
+Inflammation	Inflammation	7	6	4.469000064764531
+Pain	Pain	7	6	4.457716865160107
+Femur Head Necrosis	Femur Head Necrosis	7	6	4.399018905044224
+Breast Diseases	Breast Diseases	7	6	4.272820367650678
+Sciatic Neuropathy	Sciatic Neuropathy	7	5	4.21277253873559
+Arthritis, Rheumatoid	Arthritis, Rheumatoid	7	6	3.985599250408808
+Peripheral Nervous System Diseases	Peripheral Nervous System Diseases	7	6	3.9116128698262194
+Legg-Perthes Disease	Legg-Perthes Disease	7	5	3.679646647397346
+Arthritis, Psoriatic	Arthritis, Psoriatic	7	5	3.5689070210805784
+Osteonecrosis	Osteonecrosis	7	5	3.529433666160855
+Osteoarthritis, Hip	Osteoarthritis, Hip	7	4	3.2395171809635173
+Osteochondritis Dissecans	Osteochondritis Dissecans	7	4	2.98183695260521
+Hypoproteinemia	Hypoproteinemia	7	4	2.9628754378067717
+Bone Neoplasms	Bone Neoplasms	7	4	2.954995067217779
+Opioid-Related Disorders	Opioid-Related Disorders	7	4	2.8355734941015758
+Burns	Burns	7	4	2.6119117297510783
+Synovitis	Synovitis	7	3	2.402939975732945
+Soft Tissue Neoplasms	Soft Tissue Neoplasms	7	3	2.1158658217165307
+Neoplasm Metastasis	Neoplasm Metastasis	7	3	2.104537658577572
+Testicular Diseases	Testicular Diseases	7	3	1.958430248035254
+Neurogenic Inflammation	Neurogenic Inflammation	7	2	1.7100071097531504
+Osteoarthritis, Knee	Osteoarthritis, Knee	7	2	1.6426753041943902
+Osteosarcoma	Osteosarcoma	7	2	1.4223422758710282
+Genital Diseases, Male	Genital Diseases, Male	7	2	1.3894222272575787
+Lymphedema	Lymphedema	7	2	1.3789865782450006
+Anemia, Sickle Cell	Anemia, Sickle Cell	7	2	1.3549468007364922
+Bone Marrow Diseases	Bone Marrow Diseases	7	1	0.9173836751800604
+Joint Instability	Joint Instability	7	1	0.7935382883204019
+Cartilage Diseases	Cartilage Diseases	7	1	0.6971232617660746
+Lymphangiectasis, Intestinal	Lymphangiectasis, Intestinal	7	1	0.690998541444443
+Bone Diseases	Bone Diseases	7	1	0.6823880715060411
+Polyneuropathies	Polyneuropathies	7	1	0.6427528831164057
+Mastitis	Mastitis	7	1	0.4273971690147266
+Brain Neoplasms	Brain Neoplasms	8	15	11.277023766326714
+Glioblastoma	Glioblastoma	8	9	6.375670049138473
+Brain Diseases	Brain Diseases	8	7	5.199022268174679
+Cerebral Hemorrhage	Cerebral Hemorrhage	8	7	4.765070279535938
+Astrocytoma	Astrocytoma	8	6	4.2938857458478505
+Hypoglycemia	Hypoglycemia	8	6	4.266832409970666
+Meningioma	Meningioma	8	6	4.085713560122437
+Glioma	Glioma	8	5	3.8113256773273445
+Intracranial Arteriovenous Malformations	Intracranial Arteriovenous Malformations	8	5	3.632678206826651
+Migraine Disorders	Migraine Disorders	8	5	3.5265836517804856
+Intracranial Aneurysm	Intracranial Aneurysm	8	5	3.461682352558767
+Brain Ischemia	Brain Ischemia	8	5	3.450881690152028
+Stroke	Stroke	8	4	3.1194395856303134
+Sinus Thrombosis, Intracranial	Sinus Thrombosis, Intracranial	8	4	3.0841967260988046
+Cerebral Infarction	Cerebral Infarction	8	4	2.940337346733465
+Craniocerebral Trauma	Craniocerebral Trauma	8	3	2.0585206959441376
+Cerebrovascular Disorders	Cerebrovascular Disorders	8	3	1.9117498535815054
+Carotid Artery Diseases	Carotid Artery Diseases	8	3	1.7574935078551448
+Citrullinemia	Citrullinemia	8	2	1.7226305753104998
+Hyperammonemia	Hyperammonemia	8	2	1.565918680951276
+Headache	Headache	8	2	1.5629754316808295
+Central Nervous System Diseases	Central Nervous System Diseases	8	2	1.5629579046579058
+Poisoning	Poisoning	8	2	1.3763011740354987
+Migraine with Aura	Migraine with Aura	8	2	1.292314640222906
+Carotid Artery, Internal, Dissection	Carotid Artery, Internal, Dissection	8	2	1.1831257446415753
+Carotid Stenosis	Carotid Stenosis	8	2	1.0494200619038496
+Carbamoyl-Phosphate Synthase I Deficiency Disease	Carbamoyl-Phosphate Synthase I Deficiency Disease	8	1	0.9470266338533044
+Infarction, Middle Cerebral Artery	Infarction, Middle Cerebral Artery	8	1	0.877989701129969
+Brain Injuries	Brain Injuries	8	1	0.8242100047219217
+Ornithine Carbamoyltransferase Deficiency Disease	Ornithine Carbamoyltransferase Deficiency Disease	8	1	0.8145672590792132
+Ischemic Attack, Transient	Ischemic Attack, Transient	8	1	0.6859892875859506
+Supratentorial Neoplasms	Supratentorial Neoplasms	8	1	0.6857911332065562
+Hemangioma, Cavernous, Central Nervous System	Hemangioma, Cavernous, Central Nervous System	8	1	0.6845796030394375
+Hypopituitarism	Hypopituitarism	8	1	0.661092520887404
+Heart Arrest	Heart Arrest	8	1	0.6604976364753601
+CADASIL	CADASIL	8	1	0.631347013040358
+Hypoxia-Ischemia, Brain	Hypoxia-Ischemia, Brain	8	1	0.6268084690710006
+Carotid Artery Thrombosis	Carotid Artery Thrombosis	8	1	0.5906152397619161
+Vertebral Artery Dissection	Vertebral Artery Dissection	8	1	0.5569251036822864
+Thrombophilia	Thrombophilia	8	1	0.5422933719348212
+Skin Diseases	Skin Diseases	9	25	19.955716451670074
+Psoriasis	Psoriasis	9	23	18.174358713033566
+Keratosis	Keratosis	9	19	15.206645581847496
+Drug Eruptions	Drug Eruptions	9	18	14.943017344948505
+Cholestasis, Intrahepatic	Cholestasis, Intrahepatic	9	14	11.531193836186981
+Urticaria	Urticaria	9	13	11.324354278034662
+Dermatitis, Atopic	Dermatitis, Atopic	9	13	11.19714665033126
+Keloid	Keloid	9	13	10.828960562425104
+Polycythemia Vera	Polycythemia Vera	9	13	9.430311783628463
+Liver Cirrhosis, Biliary	Liver Cirrhosis, Biliary	9	9	7.049211454564886
+Dermatitis	Dermatitis	9	7	6.061942600150881
+Pruritus	Pruritus	9	6	5.295772329217533
+Dermatitis, Contact	Dermatitis, Contact	9	6	5.066576709374268
+Lymphoma, T-Cell, Cutaneous	Lymphoma, T-Cell, Cutaneous	9	6	4.816466902905946
+Photosensitivity Disorders	Photosensitivity Disorders	9	7	4.713420587147811
+Candidiasis, Vulvovaginal	Candidiasis, Vulvovaginal	9	5	4.293157546773077
+Dermatitis, Allergic Contact	Dermatitis, Allergic Contact	9	5	4.201565073532741
+Porokeratosis	Porokeratosis	9	5	4.167384280739241
+Eczema	Eczema	9	5	3.9582196606194433
+Parapsoriasis	Parapsoriasis	9	5	3.8751450777651497
+Staphylococcal Skin Infections	Staphylococcal Skin Infections	9	5	3.801786018677412
+Folliculitis	Folliculitis	9	4	3.4575523217949558
+Vulvar Neoplasms	Vulvar Neoplasms	9	4	3.2726926898415183
+Uremia	Uremia	9	3	2.3911558342146946
+Erythrokeratodermia Variabilis	Erythrokeratodermia Variabilis	9	2	1.584378400199176
+Lichenoid Eruptions	Lichenoid Eruptions	9	2	1.5465053746382131
+Alagille Syndrome	Alagille Syndrome	9	2	1.5369658864918856
+Facial Dermatoses	Facial Dermatoses	9	2	1.4848750942350364
+Epidermolysis Bullosa Dystrophica	Epidermolysis Bullosa Dystrophica	9	2	1.2426716453461808
+Dermatitis, Exfoliative	Dermatitis, Exfoliative	9	1	0.8445684859994271
+Erythema	Erythema	9	1	0.7500202944557987
+Skin Diseases, Vesiculobullous	Skin Diseases, Vesiculobullous	9	1	0.5815295249892568
+Epilepsy, Reflex	Epilepsy, Reflex	9	1	0.2363845016560673
+Depressive Disorder	Depressive Disorder	10	8	5.73252178512635
+Schizophrenia	Schizophrenia	10	8	5.5202643019233015
+Bipolar Disorder	Bipolar Disorder	10	8	5.437140103269444
+Alzheimer Disease	Alzheimer Disease	10	6	5.179213918659797
+Substance-Related Disorders	Substance-Related Disorders	10	8	5.061935622198864
+Psychotic Disorders	Psychotic Disorders	10	6	4.8402096297229775
+Dementia	Dementia	10	6	4.83804639421057
+Anxiety Disorders	Anxiety Disorders	10	7	4.501713663045592
+Atrophy	Atrophy	10	6	4.477503451496654
+Depressive Disorder, Major	Depressive Disorder, Major	10	6	4.401931507891378
+Cognition Disorders	Cognition Disorders	10	5	4.108015914107318
+Mood Disorders	Mood Disorders	10	5	3.628866684259633
+Erectile Dysfunction	Erectile Dysfunction	10	5	3.3632832964207084
+Psychoses, Substance-Induced	Psychoses, Substance-Induced	10	4	3.3495806622221
+Amphetamine-Related Disorders	Amphetamine-Related Disorders	10	4	2.757492780140056
+Lewy Body Disease	Lewy Body Disease	10	3	2.6652736789947156
+Dementia, Vascular	Dementia, Vascular	10	3	2.566304272291662
+Depression, Postpartum	Depression, Postpartum	10	4	2.4583469124549437
+Memory Disorders	Memory Disorders	10	3	2.449794280588562
+Alcohol Withdrawal Delirium	Alcohol Withdrawal Delirium	10	3	2.0925069298461434
+Sexual Dysfunctions, Psychological	Sexual Dysfunctions, Psychological	10	3	2.027767417064951
+Panic Disorder	Panic Disorder	10	2	1.5317796647006956
+Infertility	Infertility	10	2	1.4420417123784481
+Neurotic Disorders	Neurotic Disorders	10	2	1.4354654889241147
+Infertility, Male	Infertility, Male	10	2	1.3631567908493238
+Alopecia Areata	Alopecia Areata	10	2	1.3562694019249197
+Dyssomnias	Dyssomnias	10	2	1.3140465285026957
+Hyperventilation	Hyperventilation	10	1	0.9000165620757975
+Myoclonic Epilepsy, Juvenile	Myoclonic Epilepsy, Juvenile	10	1	0.6059736058345582
+Sleep Disorders, Circadian Rhythm	Sleep Disorders, Circadian Rhythm	10	1	0.5994661902313967
+Personality Disorders	Personality Disorders	10	1	0.5867520726036229
+Schizophrenia, Catatonic	Schizophrenia, Catatonic	10	1	0.2653461598576534
+Neurodegenerative Diseases	Neurodegenerative Diseases	11	9	7.493243362170457
+Parkinsonian Disorders	Parkinsonian Disorders	11	7	5.497042269809299
+Spinocerebellar Ataxias	Spinocerebellar Ataxias	11	7	5.037056660613309
+Nerve Degeneration	Nerve Degeneration	11	7	4.913833032131687
+Multiple System Atrophy	Multiple System Atrophy	11	5	4.219999322021175
+Parkinson Disease	Parkinson Disease	11	6	3.898278130378381
+Cerebellar Diseases	Cerebellar Diseases	11	5	3.6507460462367094
+Parkinson Disease, Secondary	Parkinson Disease, Secondary	11	4	3.0169557905264557
+Tauopathies	Tauopathies	11	3	2.5954572506176854
+Supranuclear Palsy, Progressive	Supranuclear Palsy, Progressive	11	3	2.4879479678626826
+Hepatolenticular Degeneration	Hepatolenticular Degeneration	11	4	2.4490553514460505
+Tremor	Tremor	11	4	2.394995140073436
+Striatonigral Degeneration	Striatonigral Degeneration	11	3	2.3881030660885254
+Spinocerebellar Degenerations	Spinocerebellar Degenerations	11	3	2.327500145641203
+Movement Disorders	Movement Disorders	11	3	2.116399506114125
+Myoclonic Epilepsies, Progressive	Myoclonic Epilepsies, Progressive	11	3	2.0705870518750937
+Machado-Joseph Disease	Machado-Joseph Disease	11	3	2.067538802459284
+Pick Disease of the Brain	Pick Disease of the Brain	11	2	1.7857018056016207
+Frontotemporal Dementia	Frontotemporal Dementia	11	2	1.7443345244336872
+Essential Tremor	Essential Tremor	11	2	1.6818177453466454
+Niemann-Pick Disease, Type C	Niemann-Pick Disease, Type C	11	2	1.636663097597496
+Huntington Disease	Huntington Disease	11	2	1.4755117613302016
+Ataxia Telangiectasia	Ataxia Telangiectasia	11	2	1.3858147062281851
+Friedreich Ataxia	Friedreich Ataxia	11	2	1.3239083915813912
+Cerebellar Ataxia	Cerebellar Ataxia	11	1	0.7819756828331191
+Chorea	Chorea	11	1	0.7559500333190261
+Basal Ganglia Diseases	Basal Ganglia Diseases	11	1	0.7344771855246248
+Dyskinesia, Drug-Induced	Dyskinesia, Drug-Induced	11	1	0.715028280931653
+Heredodegenerative Disorders, Nervous System	Heredodegenerative Disorders, Nervous System	11	1	0.6586183159140004
+Vitamin E Deficiency	Vitamin E Deficiency	11	1	0.6307134297252884
+Jaw Diseases	Jaw Diseases	11	1	0.1534513743856295
+Olfaction Disorders	Olfaction Disorders	11	1	0.1335229494290104
+Retinal Degeneration	Retinal Degeneration	12	14	10.59452581146996
+Retinal Diseases	Retinal Diseases	12	9	7.615057540870866
+Uveitis	Uveitis	12	8	5.773549892423208
+Glaucoma	Glaucoma	12	7	5.296734460520966
+Macular Degeneration	Macular Degeneration	12	5	3.9864650314577985
+Retinal Vein Occlusion	Retinal Vein Occlusion	12	5	3.964881764123663
+Glaucoma, Open-Angle	Glaucoma, Open-Angle	12	5	3.870722496956575
+Choroidal Neovascularization	Choroidal Neovascularization	12	4	3.4185843826180307
+Choroid Diseases	Choroid Diseases	12	4	3.265920403535222
+Optic Atrophy	Optic Atrophy	12	4	3.2422216099418373
+Optic Nerve Diseases	Optic Nerve Diseases	12	4	3.238494401454953
+Pituitary Neoplasms	Pituitary Neoplasms	12	4	2.8202112268030337
+Night Blindness	Night Blindness	12	3	2.5570347559484214
+Retinal Dystrophies	Retinal Dystrophies	12	3	2.35961718532592
+Optic Atrophy, Hereditary, Leber	Optic Atrophy, Hereditary, Leber	12	3	2.239827776977123
+Optic Neuropathy, Ischemic	Optic Neuropathy, Ischemic	12	2	1.7654707516458688
+Leber Congenital Amaurosis	Leber Congenital Amaurosis	12	2	1.7052129452036204
+Optic Atrophies, Hereditary	Optic Atrophies, Hereditary	12	2	1.523847327700347
+Corneal Dystrophies, Hereditary	Corneal Dystrophies, Hereditary	12	2	1.5174114886380137
+Color Vision Defects	Color Vision Defects	12	2	1.5008341930211944
+Low Tension Glaucoma	Low Tension Glaucoma	12	1	0.9497903973082816
+Retinitis Pigmentosa	Retinitis Pigmentosa	12	2	0.894674761116397
+Retinal Drusen	Retinal Drusen	12	1	0.8846957690657306
+Blindness	Blindness	12	1	0.8549193101088358
+Optic Disk Drusen	Optic Disk Drusen	12	1	0.8529170838858167
+Keratoconus	Keratoconus	12	1	0.8235958790387771
+Eye Diseases, Hereditary	Eye Diseases, Hereditary	12	1	0.7881909565683006
+Iris Diseases	Iris Diseases	12	1	0.2759155000433625
+Usher Syndromes	Usher Syndromes	12	1	0.2193749424460732
+Epilepsy	Epilepsy	13	12	9.85332887072458
+Classical Lissencephalies and Subcortical Band Heterotopias	Classical Lissencephalies and Subcortical Band Heterotopias	13	10	8.258826797833557
+Seizures	Seizures	13	9	7.351857701506099
+Epilepsy, Generalized	Epilepsy, Generalized	13	9	7.325684400342464
+Incontinentia Pigmenti	Incontinentia Pigmenti	13	8	6.802065988909491
+Substance Withdrawal Syndrome	Substance Withdrawal Syndrome	13	7	4.812628390007237
+Hyponatremia	Hyponatremia	13	7	4.5338685944264006
+Seizures, Febrile	Seizures, Febrile	13	5	4.416695617777547
+Malformations of Cortical Development	Malformations of Cortical Development	13	6	4.3810636009320385
+Epilepsies, Partial	Epilepsies, Partial	13	5	4.039965595556565
+Neuroblastoma	Neuroblastoma	13	6	3.9337384581941697
+Epilepsy, Absence	Epilepsy, Absence	13	4	3.0786379646145963
+Myoclonus	Myoclonus	13	3	2.5331228142420037
+Creutzfeldt-Jakob Syndrome	Creutzfeldt-Jakob Syndrome	13	3	2.2966519682430335
+Epilepsies, Myoclonic	Epilepsies, Myoclonic	13	3	2.275318182783681
+Epilepsy, Benign Neonatal	Epilepsy, Benign Neonatal	13	3	2.172861466742897
+Neurotoxicity Syndromes	Neurotoxicity Syndromes	13	3	2.0961652350922795
+Alcoholism	Alcoholism	13	3	1.862391292087467
+Unverricht-Lundborg Syndrome	Unverricht-Lundborg Syndrome	13	2	1.7024946353180996
+Epilepsy, Complex Partial	Epilepsy, Complex Partial	13	1	0.7866816058739253
+Hamartoma	Hamartoma	13	1	0.7289260135527801
+Insulinoma	Insulinoma	13	1	0.6232605354147617
+Lipidoses	Lipidoses	13	1	0.5181917343050152
+Alcohol-Related Disorders	Alcohol-Related Disorders	13	1	0.5065697275189631
+Neuronal Migration Disorders	Neuronal Migration Disorders	13	1	0.3026341848808294
+Spondylitis, Ankylosing	Spondylitis, Ankylosing	14	8	5.66136861943667
+Osteoporosis	Osteoporosis	14	8	5.3088016677637535
+Female Urogenital Diseases	Female Urogenital Diseases	14	6	4.417816570963778
+Prostatic Neoplasms	Prostatic Neoplasms	14	5	3.4136271621006133
+Prostatic Intraepithelial Neoplasia	Prostatic Intraepithelial Neoplasia	14	4	2.9349251376929657
+Scoliosis	Scoliosis	14	4	2.898260674394847
+Urinary Incontinence	Urinary Incontinence	14	3	2.4151845052704264
+Spinal Diseases	Spinal Diseases	14	3	2.3719877863038974
+Breast Neoplasms	Breast Neoplasms	14	3	1.9343375212054712
+Kyphosis	Kyphosis	14	2	1.4711233162700585
+Osteoporosis, Postmenopausal	Osteoporosis, Postmenopausal	14	2	1.444484355918974
+Sarcoma, Ewing's	Sarcoma, Ewing's	14	2	1.3774865793969262
+Rectal Fistula	Rectal Fistula	14	2	1.2258964493068318
+Fractures, Compression	Fractures, Compression	14	1	0.8040429024623851
+Intervertebral Disk Displacement	Intervertebral Disk Displacement	14	1	0.7619855435352163
+Vaginal Diseases	Vaginal Diseases	14	1	0.7545430709303992
+Back Pain	Back Pain	14	1	0.7398301237498061
+Vaginal Neoplasms	Vaginal Neoplasms	14	1	0.6811036949526356
+Spondylarthropathies	Spondylarthropathies	14	1	0.6678934325026482
+Pseudarthrosis	Pseudarthrosis	14	1	0.6457736435141503
+Aortic Aneurysm, Abdominal	Aortic Aneurysm, Abdominal	14	1	0.6360256353092201
+Chondrocalcinosis	Chondrocalcinosis	14	1	0.1113378981779976
+Keratitis	Keratitis	15	6	4.622749145253199
+Osteogenesis Imperfecta	Osteogenesis Imperfecta	15	6	4.409043802877675
+Deafness	Deafness	15	5	4.270779229213078
+Ear Diseases	Ear Diseases	15	4	2.700585196294681
+Osteitis Deformans	Osteitis Deformans	15	4	2.6883399837158866
+Fractures, Bone	Fractures, Bone	15	3	1.9956626693638257
+Waardenburg's Syndrome	Waardenburg's Syndrome	15	2	1.7273158059446052
+Ichthyosiform Erythroderma, Congenital	Ichthyosiform Erythroderma, Congenital	15	2	1.6656800389025594
+Hearing Loss, Sensorineural	Hearing Loss, Sensorineural	15	2	1.580157297404971
+Osteosclerosis	Osteosclerosis	15	2	1.4775801811281601
+Camurati-Engelmann Syndrome	Camurati-Engelmann Syndrome	15	2	1.3518675509157385
+Ossification, Heterotopic	Ossification, Heterotopic	15	2	1.1961775580317369
+Vestibular Diseases	Vestibular Diseases	15	2	1.1843362407718523
+Goiter	Goiter	15	1	0.9130793623109068
+Cogan Syndrome	Cogan Syndrome	15	1	0.8840457124484169
+Mandibulofacial Dysostosis	Mandibulofacial Dysostosis	15	1	0.8085775630914707
+Femoral Fractures	Femoral Fractures	15	1	0.7695132413027554
+Branchio-Oto-Renal Syndrome	Branchio-Oto-Renal Syndrome	15	1	0.7665461810695354
+Keratoderma, Palmoplantar	Keratoderma, Palmoplantar	15	1	0.7605884748043072
+Neurilemmoma	Neurilemmoma	15	1	0.7066553918925843
+Acro-Osteolysis	Acro-Osteolysis	15	1	0.700093829113391
+von Hippel-Lindau Disease	von Hippel-Lindau Disease	15	1	0.5427804192010985
+Neural Tube Defects	Neural Tube Defects	16	11	8.17520685093881
+Spinal Dysraphism	Spinal Dysraphism	16	8	6.637248193551574
+Urinary Tract Infections	Urinary Tract Infections	16	8	6.357831860174014
+Urinary Bladder Neoplasms	Urinary Bladder Neoplasms	16	8	5.9996735940748
+Spina Bifida Cystica	Spina Bifida Cystica	16	7	5.622656780217474
+Hirschsprung Disease	Hirschsprung Disease	16	7	5.395458588226944
+Vesico-Ureteral Reflux	Vesico-Ureteral Reflux	16	6	4.950073136855597
+Anus, Imperforate	Anus, Imperforate	16	7	4.65743844846432
+Intestinal Pseudo-Obstruction	Intestinal Pseudo-Obstruction	16	6	4.201309100733198
+Urologic Diseases	Urologic Diseases	16	5	3.958716461567776
+Anus Diseases	Anus Diseases	16	3	2.238244321256009
+Urogenital Abnormalities	Urogenital Abnormalities	16	3	1.986534345533892
+Megacolon	Megacolon	16	2	1.6822306513641592
+Multiple Endocrine Neoplasia Type 2b	Multiple Endocrine Neoplasia Type 2b	16	2	1.5408593479368209
+Multiple Endocrine Neoplasia	Multiple Endocrine Neoplasia	16	2	1.3908347147320006
+Cystadenocarcinoma, Serous	Cystadenocarcinoma, Serous	16	2	1.3352808870813142
+Meningomyelocele	Meningomyelocele	16	1	0.9361521013043252
+Urinary Bladder Diseases	Urinary Bladder Diseases	16	1	0.7591789727599444
+Ulcer	Ulcer	16	1	0.6583702461535574
+Prostatic Diseases	Prostatic Diseases	16	1	0.6052812931380218
+Chordoma	Chordoma	16	1	0.2018299147241117
+Fetal Growth Retardation	Fetal Growth Retardation	17	12	9.618611142478626
+Pregnancy Complications	Pregnancy Complications	17	11	8.019888321965093
+Hernia, Umbilical	Hernia, Umbilical	17	10	7.436283170045755
+Premature Birth	Premature Birth	17	9	7.175692254232173
+Abortion, Spontaneous	Abortion, Spontaneous	17	9	7.063676094072506
+Abnormalities, Drug-Induced	Abnormalities, Drug-Induced	17	8	5.357385571394834
+Congenital Abnormalities	Congenital Abnormalities	17	7	4.9897166029819315
+Fetal Death	Fetal Death	17	5	3.937234952602318
+Respiratory Distress Syndrome, Newborn	Respiratory Distress Syndrome, Newborn	17	5	3.8873935812184026
+Abortion, Habitual	Abortion, Habitual	17	4	2.862038322088086
+Wilms Tumor	Wilms Tumor	17	3	2.407518518797282
+Fetal Membranes, Premature Rupture	Fetal Membranes, Premature Rupture	17	2	1.5538150078594313
+Hyaline Membrane Disease	Hyaline Membrane Disease	17	2	1.5485501111065822
+Bronchopulmonary Dysplasia	Bronchopulmonary Dysplasia	17	2	1.4750817775021812
+Abruptio Placentae	Abruptio Placentae	17	2	1.2925262583689903
+Esophageal Atresia	Esophageal Atresia	17	2	1.2281111049017284
+Anemia, Neonatal	Anemia, Neonatal	17	1	0.8130039405668548
+Dwarfism	Dwarfism	17	1	0.7980457308121488
+Phenylketonurias	Phenylketonurias	17	1	0.7824999575064657
+Enterocolitis, Necrotizing	Enterocolitis, Necrotizing	17	1	0.746381259450199
+Prenatal Exposure Delayed Effects	Prenatal Exposure Delayed Effects	17	1	0.6957216254823498
+Liver Cirrhosis, Experimental	Liver Cirrhosis, Experimental	18	12	9.160101981117238
+Mammary Neoplasms, Experimental	Mammary Neoplasms, Experimental	18	7	5.507077929559205
+Bone Diseases, Metabolic	Bone Diseases, Metabolic	18	7	4.8641612154784015
+Liver Neoplasms, Experimental	Liver Neoplasms, Experimental	18	5	4.007147128128012
+Precancerous Conditions	Precancerous Conditions	18	5	3.6322020663567405
+Neoplasms, Experimental	Neoplasms, Experimental	18	4	3.1878553115064454
+Dwarfism, Pituitary	Dwarfism, Pituitary	18	4	2.918773670964134
+Cardiomegaly	Cardiomegaly	18	4	2.90274324685227
+Deficiency Diseases	Deficiency Diseases	18	3	2.2255302665270182
+Melanoma, Experimental	Melanoma, Experimental	18	3	2.1717239513276385
+Fibrosarcoma	Fibrosarcoma	18	2	1.6064477333301466
+Bone Resorption	Bone Resorption	18	2	1.5200544375270035
+Diabetes Mellitus, Experimental	Diabetes Mellitus, Experimental	18	2	1.4521528465757887
+Growth Disorders	Growth Disorders	18	2	1.4089789860303412
+Mammary Neoplasms, Animal	Mammary Neoplasms, Animal	18	1	0.8175252956663491
+Diabetic Cardiomyopathies	Diabetic Cardiomyopathies	18	1	0.7238845631655024
+Carbon Tetrachloride Poisoning	Carbon Tetrachloride Poisoning	18	1	0.6993128445183695
+Tuberculosis, Bovine	Tuberculosis, Bovine	18	1	0.6903377682499088
+Failure to Thrive	Failure to Thrive	18	1	0.6427033388113234
+Cataract	Cataract	19	8	6.1464911010219145
+Myopia	Myopia	19	7	5.647104087933822
+Refractive Errors	Refractive Errors	19	4	3.4935127713937564
+Corneal Opacity	Corneal Opacity	19	4	3.1360579142141702
+Anisometropia	Anisometropia	19	3	2.6122993471462213
+Retinal Detachment	Retinal Detachment	19	3	2.5110966816437257
+Hemangioma, Capillary	Hemangioma, Capillary	19	3	2.26767509262895
+Eye Abnormalities	Eye Abnormalities	19	2	1.6731826603665643
+Microphthalmos	Microphthalmos	19	2	1.6622551935796002
+Retinoblastoma	Retinoblastoma	19	2	1.6228275648393726
+Vitreoretinopathy, Proliferative	Vitreoretinopathy, Proliferative	19	2	1.5502165643995962
+Amblyopia	Amblyopia	19	1	0.9047246761870644
+Hyperopia	Hyperopia	19	1	0.8791477815090565
+Myopia, Degenerative	Myopia, Degenerative	19	1	0.8391226369840553
+Fuchs' Endothelial Dystrophy	Fuchs' Endothelial Dystrophy	19	1	0.7788854845465196
+Gyrate Atrophy	Gyrate Atrophy	19	1	0.7689955412503672
+Aphakia	Aphakia	19	1	0.7524876646348827
+Ectopia Lentis	Ectopia Lentis	19	1	0.7262551815458383
+Hemangioma	Hemangioma	19	1	0.5975575690646139
+Leukemia, Lymphocytic, Chronic, B-Cell	Leukemia, Lymphocytic, Chronic, B-Cell	20	8	6.174605976581508
+Thrombocytopenia	Thrombocytopenia	20	7	5.6958762089991755
+Anemia, Aplastic	Anemia, Aplastic	20	6	4.462903528334446
+Common Variable Immunodeficiency	Common Variable Immunodeficiency	20	5	3.894702075111306
+Autoimmune Diseases	Autoimmune Diseases	20	5	3.83076663224988
+Hematologic Diseases	Hematologic Diseases	20	4	3.4431862847456953
+Anemia, Hemolytic, Autoimmune	Anemia, Hemolytic, Autoimmune	20	4	3.319780897431201
+Autoimmune Lymphoproliferative Syndrome	Autoimmune Lymphoproliferative Syndrome	20	4	3.259247004428193
+Blood Platelet Disorders	Blood Platelet Disorders	20	4	3.128540211134013
+Myelodysplastic Syndromes	Myelodysplastic Syndromes	20	4	3.0243032188793313
+Bernard-Soulier Syndrome	Bernard-Soulier Syndrome	20	3	2.3351795435719094
+Hepatitis C	Hepatitis C	20	3	2.232432141299413
+Hepatitis C, Chronic	Hepatitis C, Chronic	20	2	1.4885927449975993
+IgA Deficiency	IgA Deficiency	20	2	1.4135686528749052
+Thrombocytosis	Thrombocytosis	20	2	1.2595406911928713
+Primary Myelofibrosis	Primary Myelofibrosis	20	1	0.6682890107062737
+Sea-Blue Histiocyte Syndrome	Sea-Blue Histiocyte Syndrome	20	1	0.6437705849295415
+Thrombocythemia, Essential	Thrombocythemia, Essential	20	1	0.6183967966536498
+Disorders of Sex Development	Disorders of Sex Development	21	9	7.789019082653184
+Ovarian Neoplasms	Ovarian Neoplasms	21	9	7.5842189046133885
+Adenoma	Adenoma	21	6	3.879892935046526
+Adrenal Hyperplasia, Congenital	Adrenal Hyperplasia, Congenital	21	3	2.41411391309198
+Leydig Cell Tumor	Leydig Cell Tumor	21	2	1.8540679083671932
+Adrenocortical Carcinoma	Adrenocortical Carcinoma	21	2	1.7844871563869258
+46, XY Disorders of Sex Development	46, XY Disorders of Sex Development	21	2	1.7335395945087684
+46, XX Disorders of Sex Development	46, XX Disorders of Sex Development	21	2	1.7335395945087684
+Antley-Bixler Syndrome Phenotype	Antley-Bixler Syndrome Phenotype	21	2	1.7335395945087684
+Prolactinoma	Prolactinoma	21	3	1.6548758749434387
+Gonadal Dysgenesis, 46,XX	Gonadal Dysgenesis, 46,XX	21	2	1.6543169668526365
+Androgen-Insensitivity Syndrome	Androgen-Insensitivity Syndrome	21	1	0.803916385937147
+Hydrocephalus	Hydrocephalus	21	2	0.792990642371814
+Pituitary Diseases	Pituitary Diseases	21	1	0.6727353060768279
+Acromegaly	Acromegaly	21	1	0.6329129385688134
+Hydranencephaly	Hydranencephaly	21	1	0.2380638481568375
+Asthma	Asthma	22	11	8.106978875802803
+Hypersensitivity	Hypersensitivity	22	8	5.80928202875195
+Respiratory Hypersensitivity	Respiratory Hypersensitivity	22	6	4.595781350537701
+Hypersensitivity, Immediate	Hypersensitivity, Immediate	22	5	3.906745572388053
+Asbestosis	Asbestosis	22	5	3.6595518677290233
+Bronchial Hyperreactivity	Bronchial Hyperreactivity	22	4	3.2551652667888415
+Rhinitis	Rhinitis	22	3	2.07495864572748
+Rhinitis, Allergic, Seasonal	Rhinitis, Allergic, Seasonal	22	2	1.6014719386216665
+Respiratory Tract Infections	Respiratory Tract Infections	22	2	1.5935494532388552
+Pallister-Hall Syndrome	Pallister-Hall Syndrome	22	2	1.5188619992310912
+Sinusitis	Sinusitis	22	2	1.3424132400720328
+Rhinitis, Allergic, Perennial	Rhinitis, Allergic, Perennial	22	1	0.9763129958956274
+Nose Neoplasms	Nose Neoplasms	22	1	0.630923627932337
+Respiration Disorders	Respiration Disorders	22	1	0.5953659808854947
+Asthma, Exercise-Induced	Asthma, Exercise-Induced	22	1	0.5360245912137398
+Bronchial Diseases	Bronchial Diseases	22	1	0.4233494255989652
+Blood Coagulation Disorders	Blood Coagulation Disorders	23	10	7.002953235076166
+Hemorrhagic Disorders	Hemorrhagic Disorders	23	6	4.781968981554122
+Hemophilia A	Hemophilia A	23	5	3.913735242872147
+Tongue Neoplasms	Tongue Neoplasms	23	5	3.185878656997485
+von Willebrand Diseases	von Willebrand Diseases	23	3	2.626950116005688
+Factor VII Deficiency	Factor VII Deficiency	23	3	2.049971421763074
+Thrombasthenia	Thrombasthenia	23	2	1.5681314603860403
+Afibrinogenemia	Afibrinogenemia	23	2	1.4967730819208462
+Hypoprothrombinemias	Hypoprothrombinemias	23	2	1.4141911167852914
+Enchondromatosis	Enchondromatosis	23	2	1.2042521867271936
+Disseminated Intravascular Coagulation	Disseminated Intravascular Coagulation	23	1	0.7064353267036533
+Hemophilia B	Hemophilia B	23	1	0.6937853520974366
+Factor XI Deficiency	Factor XI Deficiency	23	1	0.6821609588837441
+Blister	Blister	23	1	0.6150216892624887
+Neurofibromatosis 1	Neurofibromatosis 1	24	8	6.39372351615938
+Fibrous Dysplasia, Polyostotic	Fibrous Dysplasia, Polyostotic	24	7	5.926802164126868
+Cafe-au-Lait Spots	Cafe-au-Lait Spots	24	6	5.0117145421516485
+Hyperpigmentation	Hyperpigmentation	24	7	4.572366721245421
+Port-Wine Stain	Port-Wine Stain	24	6	4.4640062156292295
+Colorectal Neoplasms, Hereditary Nonpolyposis	Colorectal Neoplasms, Hereditary Nonpolyposis	24	5	4.377990092836648
+Neurofibromatoses	Neurofibromatoses	24	4	3.2775748164188263
+Breast Neoplasms, Male	Breast Neoplasms, Male	24	4	2.502667777616611
+Fanconi Anemia	Fanconi Anemia	24	2	1.4743680909547845
+Neurocutaneous Syndromes	Neurocutaneous Syndromes	24	2	1.4191242675037286
+Noonan Syndrome	Noonan Syndrome	24	1	0.8387979313759677
+Skin Neoplasms	Skin Neoplasms	24	1	0.6153165945587754
+Hypertrichosis	Hypertrichosis	24	1	0.2449314452625058
+Stomach Neoplasms	Stomach Neoplasms	25	8	6.179769576658608
+Stomach Ulcer	Stomach Ulcer	25	4	3.479052141075905
+Duodenal Ulcer	Duodenal Ulcer	25	4	3.428314111748067
+Helicobacter Infections	Helicobacter Infections	25	3	2.499466196534188
+Esophageal Neoplasms	Esophageal Neoplasms	25	4	2.458803710219722
+Gastrointestinal Diseases	Gastrointestinal Diseases	25	3	2.141759140039321
+Stomach Diseases	Stomach Diseases	25	2	1.7779300173158648
+Peptic Ulcer	Peptic Ulcer	25	2	1.4883240145612031
+Hernia, Diaphragmatic	Hernia, Diaphragmatic	25	2	1.2521859436808642
+Gastroesophageal Reflux	Gastroesophageal Reflux	25	2	1.2263390557816927
+Barrett Esophagus	Barrett Esophagus	25	2	1.1482003413203439
+Duodenal Diseases	Duodenal Diseases	25	1	0.7474451027478691
+Asperger Syndrome	Asperger Syndrome	26	4	3.098805630960333
+Developmental Disabilities	Developmental Disabilities	26	3	2.3735696667315573
+Autistic Disorder	Autistic Disorder	26	3	2.2302691126775516
+Attention Deficit Disorder with Hyperactivity	Attention Deficit Disorder with Hyperactivity	26	3	2.2071114474496696
+DiGeorge Syndrome	DiGeorge Syndrome	26	2	1.6150182099223953
+Williams Syndrome	Williams Syndrome	26	2	1.5135874566167535
+Motor Skills Disorders	Motor Skills Disorders	26	2	1.3805833207458587
+Learning Disorders	Learning Disorders	26	1	0.8231203452920384
+Periventricular Nodular Heterotopia	Periventricular Nodular Heterotopia	26	1	0.7452335655594501
+Fetal Alcohol Syndrome	Fetal Alcohol Syndrome	26	1	0.637997616603481
+Myeloproliferative Disorders	Myeloproliferative Disorders	27	8	5.943123310396093
+Fetal Diseases	Fetal Diseases	27	7	4.798685961899093
+Anemia, Diamond-Blackfan	Anemia, Diamond-Blackfan	27	5	4.07505925016067
+alpha-Thalassemia	alpha-Thalassemia	27	4	3.3909712593067445
+Hydrops Fetalis	Hydrops Fetalis	27	4	3.319217972726296
+Anemia, Hemolytic, Congenital	Anemia, Hemolytic, Congenital	27	4	2.9892063550635717
+Anemia, Dyserythropoietic, Congenital	Anemia, Dyserythropoietic, Congenital	27	3	2.394036954553979
+Leukemia, Megakaryoblastic, Acute	Leukemia, Megakaryoblastic, Acute	27	1	0.6886946293626316
+Limb Deformities, Congenital	Limb Deformities, Congenital	27	1	0.6489634186046632
+Pelger-Huet Anomaly	Pelger-Huet Anomaly	27	1	0.6455583620969939
+Oral Submucous Fibrosis	Oral Submucous Fibrosis	28	3	2.3697431406279863
+Ankylosis	Ankylosis	28	3	2.3025405808743997
+Myositis Ossificans	Myositis Ossificans	28	3	2.287996490833573
+Head and Neck Neoplasms	Head and Neck Neoplasms	28	3	2.026472474706356
+Nasopharyngeal Neoplasms	Nasopharyngeal Neoplasms	28	3	1.8178545863045241
+Mandibular Diseases	Mandibular Diseases	28	2	1.324183397108948
+Maxillary Diseases	Maxillary Diseases	28	2	1.2113845133008132
+Periodontitis	Periodontitis	28	2	1.1827903767988528
+Mouth Neoplasms	Mouth Neoplasms	28	1	0.6900680284337882
+Tooth Diseases	Tooth Diseases	28	1	0.6034703070475844
+Li-Fraumeni Syndrome	Li-Fraumeni Syndrome	29	7	4.738819824842085
+Progeria	Progeria	29	5	4.3227802861973315
+Dyskeratosis Congenita	Dyskeratosis Congenita	29	5	3.9834370639071204
+Bloom Syndrome	Bloom Syndrome	29	5	3.9633378667159547
+Werner Syndrome	Werner Syndrome	29	3	2.650724555029108
+Cutis Laxa	Cutis Laxa	29	3	2.209758048735437
+Cockayne Syndrome	Cockayne Syndrome	29	2	1.509233760149885
+DNA Repair-Deficiency Disorders	DNA Repair-Deficiency Disorders	29	1	0.6663816535256789
+Cell Transformation, Neoplastic	Cell Transformation, Neoplastic	29	1	0.6181790504398937
+Rickets	Rickets	30	6	4.95100711427863
+Hyperparathyroidism	Hyperparathyroidism	30	5	3.925969795331102
+Hypocalcemia	Hypocalcemia	30	3	2.750987006742113
+Hypoparathyroidism	Hypoparathyroidism	30	3	2.72195933265782
+Magnesium Deficiency	Magnesium Deficiency	30	2	1.8091264096315074
+Parathyroid Neoplasms	Parathyroid Neoplasms	30	2	1.5514472695847952
+Hypophosphatemia, Familial	Hypophosphatemia, Familial	30	2	1.111627922167069
+Tetany	Tetany	30	1	0.878784450781017
+Metabolism, Inborn Errors	Metabolism, Inborn Errors	31	4	3.6863994714030026
+Amino Acid Metabolism, Inborn Errors	Amino Acid Metabolism, Inborn Errors	31	3	2.104798368331089
+Abnormalities, Multiple	Abnormalities, Multiple	31	2	1.7723273565224584
+Microcephaly	Microcephaly	31	1	0.9143685224977064
+Chromosome Disorders	Chromosome Disorders	31	1	0.913981406043038
+Genetic Diseases, Inborn	Genetic Diseases, Inborn	31	1	0.8618321812823627
+Homocystinuria	Homocystinuria	31	1	0.8614824783158312
+Hartnup Disease	Hartnup Disease	31	1	0.2957615223930954
+Leiomyoma	Leiomyoma	32	4	2.8418719680840647
+Uterine Neoplasms	Uterine Neoplasms	32	4	2.80531737330649
+Infertility, Female	Infertility, Female	32	2	1.562328601268804
+Fallopian Tube Neoplasms	Fallopian Tube Neoplasms	32	2	1.2851485535581115
+Varicose Veins	Varicose Veins	32	2	1.111713685928518
+Endometriosis	Endometriosis	32	1	0.7437684512589481
+Uterine Diseases	Uterine Diseases	32	1	0.6738379799746603
+Neuroectodermal Tumors	Neuroectodermal Tumors	33	3	2.0020100813496304
+Fibromatosis, Aggressive	Fibromatosis, Aggressive	33	2	1.2812289992240093
+Fibroma	Fibroma	33	1	0.6466835593690412
+Dislocations	Dislocations	33	1	0.6210048806397985
+Dystonia Musculorum Deformans	Dystonia Musculorum Deformans	33	1	0.5469073578832189
+Salivary Gland Neoplasms	Salivary Gland Neoplasms	34	4	2.548708450113266
+Carcinoma, Adenoid Cystic	Carcinoma, Adenoid Cystic	34	3	1.9001113274154462
+Facial Nerve Diseases	Facial Nerve Diseases	34	2	1.4247726194668602
+Lacrimal Apparatus Diseases	Lacrimal Apparatus Diseases	34	2	1.066287808625903
+Osteopetrosis	Osteopetrosis	34	1	0.5899798635202677
+Anemia, Hemolytic	Anemia, Hemolytic	35	3	1.8368829695723092
+beta-Thalassemia	beta-Thalassemia	35	2	1.229905720381354
+Thalassemia	Thalassemia	35	1	0.6702471550315713
+Hemolytic-Uremic Syndrome	Hemolytic-Uremic Syndrome	35	1	0.6526803864359819
+Glucosephosphate Dehydrogenase Deficiency	Glucosephosphate Dehydrogenase Deficiency	35	1	0.6245440177865447
+Mitochondrial Myopathies	Mitochondrial Myopathies	36	4	3.619340751745545
+Mitochondrial Encephalomyopathies	Mitochondrial Encephalomyopathies	36	3	2.799956898490508
+Ophthalmoplegia, Chronic Progressive External	Ophthalmoplegia, Chronic Progressive External	36	3	2.7320091887630076
+Mitochondrial Diseases	Mitochondrial Diseases	36	3	2.638532066597163
+MELAS Syndrome	MELAS Syndrome	36	1	0.7832332976008393
+Dystonia	Dystonia	37	4	3.4376745302194425
+Dystonic Disorders	Dystonic Disorders	37	3	2.8802493670777856
+Pantothenate Kinase-Associated Neurodegeneration	Pantothenate Kinase-Associated Neurodegeneration	37	2	1.9112474070585024
+X-Linked Combined Immunodeficiency Diseases	X-Linked Combined Immunodeficiency Diseases	37	2	1.851272214890616
+Tay-Sachs Disease	Tay-Sachs Disease	37	1	0.5570940776190257
+Atherosclerosis	Atherosclerosis	38	3	2.334970873746657
+Venous Thromboembolism	Venous Thromboembolism	38	2	1.55209660898054
+Acute Coronary Syndrome	Acute Coronary Syndrome	38	1	0.7039951934077547
+Hyperhomocysteinemia	Hyperhomocysteinemia	38	1	0.6665248676695541
+Ophthalmoplegia	Ophthalmoplegia	39	3	2.3127488544782357
+Duane Retraction Syndrome	Duane Retraction Syndrome	39	2	1.6521278750223387
+ACTH-Secreting Pituitary Adenoma	ACTH-Secreting Pituitary Adenoma	39	2	1.440277793724292
+Myasthenia Gravis	Myasthenia Gravis	39	1	0.6187858201097038
+Hypogonadism	Hypogonadism	40	3	2.3246140727846587
+Kallmann Syndrome	Kallmann Syndrome	40	1	0.9139483489816442
+Eunuchism	Eunuchism	40	1	0.8120446106577496
+Nose Diseases	Nose Diseases	40	1	0.598621113145265
+Ciliary Motility Disorders	Ciliary Motility Disorders	41	2	1.6425102875673256
+Cough	Cough	41	2	1.5210167212554033
+Kartagener Syndrome	Kartagener Syndrome	41	1	0.8259554070155734
+Tracheoesophageal Fistula	Tracheoesophageal Fistula	41	1	0.7044618407036511
+Albinism, Ocular	Albinism, Ocular	42	2	1.3232461479753108
+Nystagmus, Congenital	Nystagmus, Congenital	42	1	0.7954985445285652
+Migraine without Aura	Migraine without Aura	42	1	0.5277476034467457
+Multiple Sclerosis, Chronic Progressive	Multiple Sclerosis, Chronic Progressive	43	2	1.5594567359381266
+Multiple Sclerosis, Relapsing-Remitting	Multiple Sclerosis, Relapsing-Remitting	43	2	1.5384855192379898
+Multiple Sclerosis	Multiple Sclerosis	43	2	1.4462335611388477
+Tourette Syndrome	Tourette Syndrome	44	2	1.5207257330723558
+Obsessive-Compulsive Disorder	Obsessive-Compulsive Disorder	44	1	0.8117674154490397
+Tic Disorders	Tic Disorders	44	1	0.7089583176233162
+Diabetes Insipidus	Diabetes Insipidus	45	2	1.9750463672767813
+Diabetes Insipidus, Neurogenic	Diabetes Insipidus, Neurogenic	45	2	1.9697461585150364
+Diabetes Insipidus, Nephrogenic	Diabetes Insipidus, Nephrogenic	45	2	1.9604060918766648
+Cleft Palate	Cleft Palate	46	2	1.7697499914686858
+Cleft Lip	Cleft Lip	46	2	1.7073485469037069
+Speech Disorders	Speech Disorders	46	2	1.5355877066354648
+Pseudohypoaldosteronism	Pseudohypoaldosteronism	47	2	1.4263603680526864
+Hypophosphatemic Rickets, X-Linked Dominant	Hypophosphatemic Rickets, X-Linked Dominant	47	1	0.783368644394118
+Bartter Syndrome	Bartter Syndrome	47	1	0.6429917236585684
+Rhabdomyolysis	Rhabdomyolysis	48	2	1.0476673067453088
+Acute Kidney Injury	Acute Kidney Injury	48	1	0.553568010942427
+Myoglobinuria	Myoglobinuria	48	1	0.4940992958028818
+Adrenal Gland Diseases	Adrenal Gland Diseases	49	2	1.2696626670296842
+Hyperandrogenism	Hyperandrogenism	49	1	0.7649690377629128
+Adrenogenital Syndrome	Adrenogenital Syndrome	49	1	0.5046936292667713
+Restless Legs Syndrome	Restless Legs Syndrome	50	1	0.7427181491032981
+Aspartylglucosaminuria	Aspartylglucosaminuria	50	1	0.7427181491032981
+Prion Diseases	Prion Diseases	51	1	0.6475029542964618
+Sleep Disorders	Sleep Disorders	51	1	0.6475029542964618
+Primary Ovarian Insufficiency	Primary Ovarian Insufficiency	52	1	0.9852348779919292
+Gonadal Dysgenesis	Gonadal Dysgenesis	52	1	0.9852348779919292
+Paraganglioma	Paraganglioma	53	1	0.5817276447279005
+Chondrosarcoma	Chondrosarcoma	53	1	0.5817276447279005
+Epidermal Necrolysis, Toxic	Epidermal Necrolysis, Toxic	54	1	0.6951445411000332
+Stevens-Johnson Syndrome	Stevens-Johnson Syndrome	54	1	0.6951445411000332
+Anemia, Iron-Deficiency	Anemia, Iron-Deficiency	55	1	0.7228612245391616
+Anemia, Hypochromic	Anemia, Hypochromic	55	1	0.7228612245391616
+Kidney Neoplasms	Kidney Neoplasms	56	1	0.8002347778412328
+Carcinoma, Renal Cell	Carcinoma, Renal Cell	56	1	0.8002347778412328
+Hip Fractures	Hip Fractures	57	1	0.5705571129333593
+Drug Toxicity	Drug Toxicity	57	1	0.5705571129333593
+Pseudopseudohypoparathyroidism	Pseudopseudohypoparathyroidism	58	1	0.994824191284266
+Pseudohypoparathyroidism	Pseudohypoparathyroidism	58	1	0.994824191284266
+Hereditary Central Nervous System Demyelinating Diseases	Hereditary Central Nervous System Demyelinating Diseases	59	1	0.8520366408797243
+Ataxia	Ataxia	59	1	0.8520366408797243
+Purine-Pyrimidine Metabolism, Inborn Errors	Purine-Pyrimidine Metabolism, Inborn Errors	60	1	0.8690293356551476
+Athetosis	Athetosis	60	1	0.8690293356551476
+Bulimia Nervosa	Bulimia Nervosa	61	1	0.8796040134443415
+Anorexia Nervosa	Anorexia Nervosa	61	1	0.8796040134443415
+Goldenhar Syndrome	Goldenhar Syndrome	62	1	0.3191185395563728
+Facial Asymmetry	Facial Asymmetry	62	1	0.3191185395563728
+Myasthenic Syndromes, Congenital	Myasthenic Syndromes, Congenital	63	1	0.7998313607395621
+Apnea	Apnea	63	1	0.7998313607395621
+Graves Disease	Graves Disease	64	1	0.7695680379464106
+Exophthalmos	Exophthalmos	64	1	0.7695680379464106
+Muscle Spasticity	Muscle Spasticity	65	1	0.8581969176178298
+Cerebral Palsy	Cerebral Palsy	65	1	0.8581969176178298
+Fecal Incontinence	Fecal Incontinence	66	1	0.174328346764805
+Encopresis	Encopresis	66	1	0.174328346764805
+Vitiligo	Vitiligo	67	1	0.6208076190697386
+Skin Diseases, Genetic	Skin Diseases, Genetic	67	1	0.6208076190697386
+Brucellosis	Brucellosis	68	1	0.7517434258064529
+Staphylococcal Infections	Staphylococcal Infections	68	1	0.7517434258064529
+Hypoalbuminemia	Hypoalbuminemia	69	1	0.5837954225943109
+Apraxias	Apraxias	69	1	0.5837954225943109
+Esophagitis	Esophagitis	70	1	0.6041673575769003
+Eosinophilic Esophagitis	Eosinophilic Esophagitis	70	1	0.6041673575769003
+Diabetes, Gestational	Diabetes, Gestational	71	1	0.8554936686696125
+Persistent Hyperinsulinemia Hypoglycemia of Infancy	Persistent Hyperinsulinemia Hypoglycemia of Infancy	71	1	0.8554936686696125
+Psychomotor Disorders	Psychomotor Disorders	72	1	0.6148415867414947
+Jacobsen Distal 11q Deletion Syndrome	Jacobsen Distal 11q Deletion Syndrome	72	1	0.6148415867414947
+Renal Tubular Transport, Inborn Errors	Renal Tubular Transport, Inborn Errors	73	1	0.8684840711274121
+Nephrocalcinosis	Nephrocalcinosis	73	1	0.8684840711274121
+Paralysis	Paralysis	74	1	0.5203382296798624
+Hereditary Sensory and Motor Neuropathy	Hereditary Sensory and Motor Neuropathy	74	1	0.5203382296798624
+Paralysis, Hyperkalemic Periodic	Paralysis, Hyperkalemic Periodic	75	1	0.949702896789603
+Paralyses, Familial Periodic	Paralyses, Familial Periodic	75	1	0.949702896789603
+Esophageal Achalasia	Esophageal Achalasia	76	1	0.1472334719619443
+Adrenal Insufficiency	Adrenal Insufficiency	76	1	0.1472334719619443
+Orthostatic Intolerance	Orthostatic Intolerance	77	1	0.4356573717841449
+Heat Stress Disorders	Heat Stress Disorders	77	1	0.4356573717841449
+Hearing Loss, Sudden	Hearing Loss, Sudden	78	1	0.2881153434777339
+Leukemia, Myelogenous, Chronic, BCR-ABL Positive	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	78	1	0.2881153434777339
+Scalp Dermatoses	Scalp Dermatoses	79	1	0.3392456261018514
+Ectodermal Dysplasia	Ectodermal Dysplasia	79	1	0.3392456261018514
+Fucosidosis	Fucosidosis	80	1	0.2656993428301574
+Isolated Noncompaction of the Ventricular Myocardium	Isolated Noncompaction of the Ventricular Myocardium	80	1	0.2656993428301574
+Prostatitis	Prostatitis	81	1	0.1389309972637547
+Neoplasm Invasiveness	Neoplasm Invasiveness	81	1	0.1389309972637547
+Eyelid Diseases	Eyelid Diseases	82	1	0.1653534019457197
+Nail Diseases	Nail Diseases	82	1	0.1653534019457197
+Scurvy	Scurvy	83	1	0.4870767436419485
+Ascorbic Acid Deficiency	Ascorbic Acid Deficiency	83	1	0.4870767436419485
+Enuresis	Enuresis	84	1	0.487597299358262
+Nocturnal Enuresis	Nocturnal Enuresis	84	1	0.487597299358262
+Xanthomatosis, Cerebrotendinous	Xanthomatosis, Cerebrotendinous	85	1	0.2241014295030972
+Hypercalcemia	Hypercalcemia	85	1	0.2241014295030972
+Torticollis	Torticollis	86	1	0.104461797078314
+Cryptorchidism	Cryptorchidism	86	1	0.104461797078314

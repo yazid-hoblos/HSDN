@@ -1,0 +1,116 @@
+Source	Target	weight	alpha
+Meningioma	Astrocytoma	0.5925537059480485	0.0239067055184748
+Meningioma	Brain Neoplasms	0.7960091474338505	0.0101729847265523
+Scoliosis	Kyphosis	0.8669265648201878	0.0035270958080118
+Sarcoma	Melanoma	0.7607043667167022	0.0094783579347106
+Pancreatitis	Gastrointestinal Stromal Tumors	0.733915170092979	4.798480410657374e-05
+Pancreatitis	Pancreatitis, Chronic	0.7814498057926775	0.0008475314816672
+Mesothelioma	Pulmonary Blastoma	0.7734020744914568	0.0015368831852256
+Mesothelioma	Pneumothorax	0.8191010269763567	0.0010410915454305
+Mesothelioma	Pulmonary Fibrosis	0.672452532187928	0.0036234675157504
+Contracture	Neuromuscular Diseases	0.5953768802594619	0.0433780740902641
+Cystic Fibrosis	Bronchiectasis	0.6791680513599734	0.0090285005500507
+Pulmonary Fibrosis	Pulmonary Alveolar Proteinosis	0.913647976710305	0.0004432109623745
+Pulmonary Fibrosis	Idiopathic Pulmonary Fibrosis	0.99884397593565	0.0002121186569018
+Hypertrophy	Muscular Dystrophies	0.5671442615713961	0.0126062430728433
+Polycystic Kidney Diseases	Hematuria	0.7176463675312615	0.0233711622011768
+Polycystic Kidney Diseases	Nephrotic Syndrome	0.7223624378638022	0.0227957697013412
+Polycystic Kidney Diseases	Glomerulonephritis	0.7039892393710686	0.0251202095246826
+Myositis	Muscular Dystrophies	0.7117797240508724	0.0345304383206495
+Muscular Dystrophies	Neuromuscular Diseases	0.8753091384284735	0.0040321075273926
+Muscular Dystrophies	Charcot-Marie-Tooth Disease	0.7885825403899488	0.0070104605059124
+Glioma	Astrocytoma	0.7219605717290025	0.0104953634657682
+Glioma	Brain Neoplasms	0.8244305576185403	0.0124249767973114
+Glioma	Glioblastoma	0.8129990946308919	0.0132110080632085
+Glioblastoma	Astrocytoma	0.6150474884062385	0.0207235029608966
+Glioblastoma	Brain Neoplasms	0.8153849461474587	0.007577555287401
+Neurofibromatosis 1	Fanconi Anemia	0.6103411342398205	0.0034528210604212
+Neurofibromatosis 1	Neurofibromatoses	0.8933427516257393	0.000234959860847
+Noonan Syndrome	Fanconi Anemia	0.8117394564547692	0.0143565684148794
+Myopia	Hyperopia	0.8648398457314206	0.0009449432539756
+Myopia	Ectopia Lentis	0.6658778591030942	0.0047905912011222
+Myopia	Cataract	0.8393890260349852	0.0011638520552173
+Glaucoma	Optic Atrophy	0.843043682418729	0.0012697043507297
+Optic Atrophy	Macular Degeneration	0.7610609934025447	0.0024523969700864
+Optic Atrophy	Retinal Degeneration	0.7401997481225266	0.002898605929383
+Retinoblastoma	Microphthalmos	0.7648438083931697	0.0100197350602717
+Cataract	Aphakia	0.7289858040437883	0.0021945957527216
+Rhabdomyolysis	Myoglobinuria	0.5084500666600982	0.0262206752024382
+Malaria	Neutropenia	0.8192401497922267	2.2990725990714405e-07
+Gout	Diabetes Mellitus	0.8852351161100637	0.0003309674886355
+Gout	Hypercholesterolemia	0.7673599616316953	0.0025624206596306
+Diabetes Mellitus	Hypercholesterolemia	0.7893848984482984	0.0008007894705269
+Diabetes Mellitus	Hyperinsulinism	0.972066219534384	0.0001481385021071
+Diabetes Mellitus	Insulin Resistance	0.9636550568671914	0.0001601580103997
+Diabetes Mellitus	Hypertension	0.8047921520060156	0.0006949473835504
+Diabetes Mellitus	Bardet-Biedl Syndrome	0.8932493636169857	0.0003073423924892
+Hypertension	Hypercholesterolemia	0.8096649080398837	0.001833865746923
+Hypercholesterolemia	Dyslipidemias	0.7345626254007482	0.0033197457521939
+beta-Thalassemia	Thalassemia	0.6696263043492147	0.003683794871596
+Dwarfism	Wilms Tumor	0.7887543408313267	0.0338782858354425
+Atrophy	Amphetamine-Related Disorders	0.6486643438101123	0.0022891033698404
+Hyperinsulinism	Insulin Resistance	0.9872231529841208	0.0158914300999935
+Essential Tremor	Parkinson Disease	0.7657758441298553	1.1123241845604938e-07
+Parkinson Disease	Parkinsonian Disorders	0.7814383458929799	2.391089288903246e-05
+Hematuria	Glomerulonephritis	0.9546158211717106	0.0469125583084333
+Nephrotic Syndrome	Nephrosis	0.9881004677093403	1.7213201246991517e-06
+Nephrotic Syndrome	Glomerulonephritis	0.98728183475776	1.7410078923274066e-06
+Dementia	Alzheimer Disease	0.9759742981417878	0.0006353087303354
+Amyotrophic Lateral Sclerosis	Neuromuscular Diseases	0.7521175962462736	0.0007157874862543
+Amyotrophic Lateral Sclerosis	Charcot-Marie-Tooth Disease	0.660414401998406	0.0017576242247636
+Amyotrophic Lateral Sclerosis	Motor Neuron Disease	0.8393851075246929	0.0003032115831022
+Charcot-Marie-Tooth Disease	Neuromuscular Diseases	0.872140428423504	1.6299689051943642e-06
+Colonic Neoplasms	Adenocarcinoma	0.8929739766880153	0.0009868353282142
+Astrocytoma	Brain Neoplasms	0.8081293372232289	0.0060568206027284
+Bradycardia	Long QT Syndrome	0.7243990858842994	0.0002070240868272
+Night Blindness	Leber Congenital Amaurosis	0.8575192030409403	5.335344300953104e-05
+Night Blindness	Retinal Degeneration	0.8797909637567611	0.0003368685940816
+Leukemia	Hematologic Neoplasms	0.657069055954493	0.0115917470201544
+Leukemia	Pancytopenia	0.6642760718081703	0.0110343073522588
+Ovarian Neoplasms	Adenoma	0.6703379608287892	0.0004123547105801
+Ovarian Neoplasms	Adrenocortical Carcinoma	0.8641115678409025	4.123696458547989e-05
+Ovarian Neoplasms	Disorders of Sex Development	0.8768338090676239	3.5422894532263435e-05
+Li-Fraumeni Syndrome	Dyskeratosis Congenita	0.55787647316348	0.0132479112133898
+Adrenocortical Carcinoma	Disorders of Sex Development	0.984536313122036	1.717391808639325e-10
+Disorders of Sex Development	46, XX Disorders of Sex Development	0.9078347506799964	6.683605073383803e-06
+Disorders of Sex Development	Androgen-Insensitivity Syndrome	0.8236598687037157	2.08462485071448e-05
+MELAS Syndrome	Mitochondrial Myopathies	0.7705581357532127	0.0005354130537339
+Mitochondrial Myopathies	Mitochondrial Diseases	0.9065005741351598	0.0003275831651365
+Mitochondrial Diseases	Mitochondrial Encephalomyopathies	0.8702913700048464	0.0004540955099255
+Retinitis Pigmentosa	Retinal Degeneration	0.6849661155622263	0.0236183835616161
+Cardiomyopathies	Cardiomyopathy, Hypertrophic	0.6862467040200122	0.0192492435159031
+Cardiomyopathies	Cardiomyopathy, Dilated	0.7840232252749332	0.0109002997986207
+Cardiomyopathies	Cardiomyopathy, Restrictive	0.6312499672363073	0.0264880187727337
+Cardiomyopathies	Atrial Fibrillation	0.6985823249358984	0.0179180300215769
+Cardiomyopathies	Heart Failure	0.6551277274136382	0.0230612701334908
+Cardiomyopathies	Cardiomyopathy, Hypertrophic, Familial	0.740171993721325	0.0140696167296731
+Amphetamine-Related Disorders	Alzheimer Disease	0.7627400362689789	0.0001336068637499
+Cleft Palate	Cleft Lip	0.980604867254991	1.902329783541489e-05
+Cutis Laxa	Dyskeratosis Congenita	0.845927316060073	0.0043653554006783
+Cockayne Syndrome	Dyskeratosis Congenita	0.8385906001176945	0.0005020011830075
+Osteoarthritis	Osteochondritis Dissecans	0.7652126291627389	0.0123852162083751
+Atrial Fibrillation	Arrhythmogenic Right Ventricular Dysplasia	0.7714007872609174	6.634527820278422e-05
+Atrial Fibrillation	Long QT Syndrome	0.710664126205144	0.0002439619048979
+Atrial Fibrillation	Tachycardia	0.7903187033786002	0.0001134489573417
+Retinal Degeneration	Leber Congenital Amaurosis	0.8466528502953754	6.070179566957024e-05
+Retinal Degeneration	Retinal Dystrophies	0.7247312637132496	0.0001830157020907
+Thrombocytopenia	Bernard-Soulier Syndrome	0.7796278732247094	1.043652022658945e-05
+Dermatitis	Dermatitis, Atopic	0.8946140181754512	0.0006205363201998
+Dermatitis	Psoriasis	0.8208007241580214	0.0011894026462558
+Arrhythmogenic Right Ventricular Dysplasia	Ventricular Fibrillation	0.8294193177752159	3.149849639777964e-05
+Arrhythmogenic Right Ventricular Dysplasia	Tachycardia	0.8824973318748688	1.5890397879108772e-05
+Arrhythmogenic Right Ventricular Dysplasia	Wolff-Parkinson-White Syndrome	0.9006804424384952	1.256248661426598e-05
+Ventricular Fibrillation	Long QT Syndrome	0.8635677793552756	3.8930961849988446e-05
+Ventricular Fibrillation	Tachycardia	0.9141594560106154	2.6244921965669192e-05
+Cardiomyopathy, Dilated	Heart Failure	0.7210894081742513	0.0006014813710736
+Tachycardia	Long QT Syndrome	0.8949912692901779	2.664405981106256e-05
+Heart Block	Long QT Syndrome	0.9577540946858856	1.2466030483764571e-05
+Atrioventricular Block	Long QT Syndrome	0.9566476090835891	1.2634393872311646e-05
+Hirschsprung Disease	Multiple Endocrine Neoplasia Type 2b	0.8610556222509691	0.0157207318003702
+Hirschsprung Disease	Megacolon	0.9771780597079454	0.0080634662397687
+Hypoparathyroidism	Hyperparathyroidism	0.8345436833915107	1.5832172771886418e-05
+Hyperparathyroidism	Hypocalcemia	0.8405060196299166	0.0332107802135999
+Pseudopseudohypoparathyroidism	Pseudohypoparathyroidism	0.9946853265535076	0.0016726896344325
+Hereditary Angioedema Type III	Angioedema	0.7416483468010586	0.0005196824776759
+Hyperammonemia	Ornithine Carbamoyltransferase Deficiency Disease	0.7753602717001916	0.0007210712794083
+Diabetes Insipidus, Nephrogenic	Diabetes Insipidus	0.980996123894604	2.4520156574502365e-06

@@ -1,0 +1,10 @@
+drug	approved_for	disease	similarity	shared_genes	target_overlap	fda_approved_for_indication	evidence_strength	evidence_w	proximity	composite_score
+Lisinopril	Heart Failure	Pulmonary Fibrosis	0.4546008388692105	0	1	1	Low	0.3	11.987048559740199	0.5596202461087341
+Thalidomide	Multiple Myeloma	Proteinuria	0.596394656869653	0	1	1	Low	0.3	2.5377372911396163	0.721924828143073
+Atorvastatin	Hypertension	Proteinuria	0.3667682005197085	0	1	1	Low	0.3	3.8482314638579105	0.6049326445076744
+Lisinopril	Hypertension	Proteinuria	0.3667682005197085	0	1	1	Low	0.3	3.8482314638579105	0.6049326445076744
+Ibuprofen	Arthritis, Rheumatoid	Proteinuria	0.3915944094153187	0	1	1	Low	0.3	19.186932301901727	0.45621748423689346
+Metformin	Obesity	Metabolic Syndrome X	0.988339130131947	0	1	0	High	1.0	1.0117984500588337	0.9842058631585123
+Metformin	Diabetes Mellitus, Type 2	Metabolic Syndrome X	0.800637269170307	0	1	1	Medium	0.6	2.1785093623207326	0.8475785098158417
+Atorvastatin	Hypertension	Metabolic Syndrome X	0.7120864691980856	0	1	1	Low	0.3	2.2683981959824857	0.7767936700939335
+Lisinopril	Hypertension	Metabolic Syndrome X	0.7120864691980856	0	1	1	Low	0.3	2.2683981959824857	0.7767936700939335

@@ -1,0 +1,68 @@
+GENE-BASED MECHANISTIC BRIDGES FOR TOP CANDIDATES
+========================================================================================================================
+
+1. Idiopathic Pulmonary Fibrosis <-> Pulmonary Fibrosis
+   Similarity Score: 0.999
+   Genes in Idiopathic Pulmonary Fibrosis: 1
+   Genes in Pulmonary Fibrosis: 14
+   Shared genes: 1
+   Shared genes list: TERT
+
+2. Pseudohypoparathyroidism <-> Pseudopseudohypoparathyroidism
+   Similarity Score: 0.995
+   Genes in Pseudohypoparathyroidism: 5
+   Genes in Pseudopseudohypoparathyroidism: 1
+   Shared genes: 1
+   Shared genes list: GNAS
+
+3. Coronary Artery Disease <-> Coronary Disease
+   Similarity Score: 0.995
+   Genes in Coronary Artery Disease: 5
+   Genes in Coronary Disease: 0
+   Shared genes: 0
+
+4. Insulin Resistance <-> Metabolic Syndrome X
+   Similarity Score: 0.991
+   Genes in Insulin Resistance: 2
+   Genes in Metabolic Syndrome X: 1
+   Shared genes: 0
+
+5. Cholelithiasis <-> Gallstones
+   Similarity Score: 0.989
+   Genes in Cholelithiasis: 1
+   Genes in Gallstones: 0
+   Shared genes: 0
+
+6. Primary Ovarian Insufficiency <-> Gonadal Dysgenesis
+   Similarity Score: 0.985
+   Genes in Primary Ovarian Insufficiency: 0
+   Genes in Gonadal Dysgenesis: 6
+   Shared genes: 0
+
+7. Cleft Palate <-> Cleft Lip
+   Similarity Score: 0.971
+   Genes in Cleft Palate: 19
+   Genes in Cleft Lip: 16
+   Shared genes: 5
+   Shared genes list: ARHGAP29, MEIS2, SETD5, CTNND1, CDH1
+
+8. Rhinitis, Allergic, Seasonal <-> Rhinitis, Allergic, Perennial
+   Similarity Score: 0.976
+   Genes in Rhinitis, Allergic, Seasonal: 0
+   Genes in Rhinitis, Allergic, Perennial: 0
+   Shared genes: 0
+
+9. Glomerulonephritis <-> Nephrotic Syndrome
+   Similarity Score: 0.985
+   Genes in Glomerulonephritis: 4
+   Genes in Nephrotic Syndrome: 46
+   Shared genes: 2
+   Shared genes list: COL4A4, DGKE
+
+10. Insulin Resistance <-> Hyperinsulinism
+   Similarity Score: 0.990
+   Genes in Insulin Resistance: 2
+   Genes in Hyperinsulinism: 8
+   Shared genes: 1
+   Shared genes list: INSR
+

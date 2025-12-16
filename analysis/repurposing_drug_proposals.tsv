@@ -1,0 +1,996 @@
+drug	known_disease	repurposing_candidate	similarity	shared_genes	target_overlap	fda_approved_for_indication	evidence_strength
+Metformin	Diabetes Mellitus, Type 2	Hypertension	0.9409964076959102	0	1	1	Medium
+Metformin	Diabetes Mellitus, Type 2	Hyperuricemia	0.9529474666304248	0	1	1	Medium
+Metformin	Diabetes Mellitus, Type 2	Hypertrophy, Left Ventricular	0.9210332296929004	0	1	1	Medium
+Metformin	Diabetes Mellitus, Type 2	Diabetes Mellitus	0.8608789480168311	0	1	1	Medium
+Metformin	Diabetes Mellitus, Type 2	Metabolic Syndrome X	0.800637269170307	0	1	1	Medium
+Metformin	Diabetes Mellitus, Type 2	Glucose Intolerance	0.7834311592741433	0	1	1	Medium
+Metformin	Diabetes Mellitus, Type 2	Hypertriglyceridemia	0.7889109648751073	0	1	1	Medium
+Metformin	Diabetes Mellitus, Type 2	Insulin Resistance	0.7493686211348581	0	1	1	Medium
+Metformin	Diabetes Mellitus, Type 2	Dyslipidemias	0.7482494325100425	0	1	1	Medium
+Metformin	Diabetes Mellitus, Type 2	Hyperlipidemias	0.7819143048298441	0	1	1	Medium
+Metformin	Diabetes Mellitus, Type 2	Diabetes Mellitus, Type 1	0.7786607508662817	0	1	1	Medium
+Metformin	Diabetes Mellitus, Type 2	Hyperinsulinism	0.7531869557449578	0	1	1	Medium
+Metformin	Diabetes Mellitus, Type 2	Diabetic Angiopathies	0.8116180401632738	0	1	1	Medium
+Metformin	Diabetes Mellitus, Type 2	Obesity	0.7157596049424083	0	1	1	Medium
+Metformin	Diabetes Mellitus, Type 2	Hyperglycemia	0.7589374476062055	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Fatty Liver	0.7088399103058013	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Atherosclerosis	0.7426261726372543	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Albuminuria	0.6941924031682312	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Hypercholesterolemia	0.7171726807090069	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Metabolic Diseases	0.716552188707403	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Hyperlipidemia, Familial Combined	0.7025284605063775	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Diabetic Nephropathies	0.7038658922478472	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Gout	0.7079606470380282	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Endometrial Neoplasms	0.6820270453964054	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Diabetes Mellitus, Experimental	0.6407966761604158	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Lipid Metabolism Disorders	0.6639177211272215	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Endometrial Hyperplasia	0.6619146557505321	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Diabetes Complications	0.6461867745992275	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Hyperlipoproteinemias	0.6730200809384024	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Renal Insufficiency	0.6004476265225333	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Hypoalphalipoproteinemias	0.6909369866731648	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Hypertension, Renal	0.5973934482552361	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Hypothalamic Diseases	0.6118153201747408	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Obesity, Abdominal	0.5158170460246436	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Bardet-Biedl Syndrome	0.65373762028812	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Pituitary ACTH Hypersecretion	0.6025864135756105	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Glycogen Storage Disease Type I	0.6008373266567724	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Cushing Syndrome	0.5576595788978262	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Polycystic Kidney, Autosomal Dominant	0.5780525717636912	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Arteriosclerosis	0.5533021237005377	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Prader-Willi Syndrome	0.5495763504462633	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Lipodystrophy	0.5457489210913377	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Kidney Failure, Chronic	0.5098666677045315	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Diabetic Retinopathy	0.5508876621169987	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Venous Thromboembolism	0.5077718328368278	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Hyperlipoproteinemia Type II	0.514547937850334	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Acanthosis Nigricans	0.5074550718867689	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Iron Overload	0.4693687247380121	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Polycystic Ovary Syndrome	0.3914287449101651	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Hyperhomocysteinemia	0.4548781449811347	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Acromegaly	0.4777089637626339	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Hypertension, Pregnancy-Induced	0.4221885176332392	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Uterine Neoplasms	0.4912680447828764	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Fibrosis	0.4166515074792381	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Malnutrition	0.3680616720931386	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Infertility, Male	0.4476170895942353	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	WAGR Syndrome	0.4608561810601361	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Bone Diseases, Metabolic	0.3874016644591084	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Kidney Diseases	0.4052904675431762	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Bulimia Nervosa	0.3515971411234894	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Infertility, Female	0.3973524027574563	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Lipomatosis	0.4416323630319662	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Diabetic Cardiomyopathies	0.4059742124233145	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Thyroiditis, Autoimmune	0.4438526890415128	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Hepatitis C, Chronic	0.3961521764235433	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Dwarfism, Pituitary	0.3710417961475389	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Hypopituitarism	0.409460319150965	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Liver Diseases, Alcoholic	0.3686500943835525	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Oligospermia	0.3680642802629734	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Cholelithiasis	0.3636205790332958	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Adenoma, Liver Cell	0.3309795003819045	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Puberty, Precocious	0.329992725697541	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Tobacco Use Disorder	0.3528896767024047	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Inflammation	0.3712302747948542	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Thrombophilia	0.3404868845273663	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Bone Resorption	0.3156893410534918	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Thromboembolism	0.336378129515709	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Gallstones	0.3360649786096335	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Kidney Neoplasms	0.3312006925150976	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Nephrosis	0.3075269444313079	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Panniculitis, Nodular Nonsuppurative	0.3539956266120835	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Genetic Predisposition to Disease	0.3741886648977097	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Venous Thrombosis	0.3428239217492704	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Carcinoma, Renal Cell	0.3393946323073509	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Nesidioblastosis	0.3323984460659455	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Breast Neoplasms	0.30778469209403	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Diabetic Neuropathies	0.3444574463163522	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Hypothyroidism	0.3108883193934139	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Psoriasis	0.3076947945606472	0	1	1	Low
+Metformin	Diabetes Mellitus, Type 2	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.3103268490427491	0	1	1	Low
+Metformin	Obesity	Metabolic Syndrome X	0.988339130131947	0	1	0	High
+Metformin	Obesity	Insulin Resistance	0.9883096947800896	0	1	0	High
+Metformin	Obesity	Fatty Liver	0.9624189791733968	0	1	0	High
+Metformin	Obesity	Hyperinsulinism	0.9794431248619562	0	1	0	High
+Metformin	Obesity	Glucose Intolerance	0.9392919055854394	0	1	0	High
+Metformin	Obesity	Hypertriglyceridemia	0.9703290787606432	0	1	0	Medium
+Metformin	Obesity	Hyperlipidemia, Familial Combined	0.9874969866405624	0	1	0	Medium
+Metformin	Obesity	Diabetes Mellitus	0.9631282143380686	0	1	0	Medium
+Metformin	Obesity	Dyslipidemias	0.9451049760218054	0	1	0	Medium
+Metformin	Obesity	Metabolic Diseases	0.9418219197746917	0	1	0	Medium
+Metformin	Obesity	Endometrial Neoplasms	0.9439223751278628	0	1	0	Medium
+Metformin	Obesity	Hyperlipidemias	0.9305713738113444	0	1	0	Medium
+Metformin	Obesity	Endometrial Hyperplasia	0.9289485798315658	0	1	0	Medium
+Metformin	Obesity	Hypoalphalipoproteinemias	0.9881073252859508	0	1	0	Medium
+Metformin	Obesity	Lipid Metabolism Disorders	0.8939676944395104	0	1	0	Medium
+Metformin	Obesity	Bardet-Biedl Syndrome	0.9287619130904188	0	1	0	Medium
+Metformin	Obesity	Hyperlipoproteinemias	0.923090327686424	0	1	0	Medium
+Metformin	Obesity	Hyperglycemia	0.8666835138267561	0	1	0	Medium
+Metformin	Obesity	Gout	0.8740823605562702	0	1	0	Medium
+Metformin	Obesity	Diabetes Mellitus, Type 2	0.7157596049424083	0	1	0	Medium
+Metformin	Obesity	Prader-Willi Syndrome	0.7646601725403926	0	1	0	Low
+Metformin	Obesity	Hypercholesterolemia	0.7826399044515189	0	1	0	Low
+Metformin	Obesity	Cushing Syndrome	0.7650239467360531	0	1	0	Low
+Metformin	Obesity	Atherosclerosis	0.7399421614035357	0	1	0	Low
+Metformin	Obesity	Hyperuricemia	0.7328623433619117	0	1	0	Low
+Metformin	Obesity	Acanthosis Nigricans	0.7196260427015433	0	1	0	Low
+Metformin	Obesity	Lipodystrophy	0.6903273785940784	0	1	0	Low
+Metformin	Obesity	WAGR Syndrome	0.6583951005415012	0	1	0	Low
+Metformin	Obesity	Polycystic Ovary Syndrome	0.5404466212278973	0	1	0	Low
+Metformin	Obesity	Hypertension	0.6296333950333792	0	1	0	Low
+Metformin	Obesity	Uterine Neoplasms	0.67465261843773	0	1	0	Low
+Metformin	Obesity	Venous Thromboembolism	0.61600755366186	0	1	0	Low
+Metformin	Obesity	Pituitary ACTH Hypersecretion	0.6390999635141041	0	1	0	Low
+Metformin	Obesity	Obesity, Abdominal	0.521088974489465	0	1	0	Low
+Metformin	Obesity	Infertility, Male	0.6009504733937031	0	1	0	Low
+Metformin	Obesity	Bulimia Nervosa	0.4758440660391526	0	1	0	Low
+Metformin	Obesity	Lipomatosis	0.6052818989264546	0	1	0	Low
+Metformin	Obesity	Hypertrophy, Left Ventricular	0.5405210555479504	0	1	0	Low
+Metformin	Obesity	Infertility, Female	0.5392862887830356	0	1	0	Low
+Metformin	Obesity	Arteriosclerosis	0.5745143667487312	0	1	0	Low
+Metformin	Obesity	Puberty, Delayed	0.5164408256734752	0	1	0	Low
+Metformin	Obesity	Hypopituitarism	0.5437512862875349	0	1	0	Low
+Metformin	Obesity	Diabetic Cardiomyopathies	0.5178817880974799	0	1	0	Low
+Metformin	Obesity	Malnutrition	0.4153351299035934	0	1	0	Low
+Metformin	Obesity	Thyroiditis, Autoimmune	0.5531909038150247	0	1	0	Low
+Metformin	Obesity	Cholelithiasis	0.4842524758592342	0	1	0	Low
+Metformin	Obesity	Oligospermia	0.4763760145709411	0	1	0	Low
+Metformin	Obesity	Hyperlipoproteinemia Type II	0.4957536473347584	0	1	0	Low
+Metformin	Obesity	Puberty, Precocious	0.4361338919463159	0	1	0	Low
+Metformin	Obesity	Diabetes Complications	0.4746183762559418	0	1	0	Low
+Metformin	Obesity	Gallstones	0.4476555508448941	0	1	0	Low
+Metformin	Obesity	Hepatitis C, Chronic	0.470779088280303	0	1	0	Low
+Metformin	Obesity	Iron Overload	0.4343723253654984	0	1	0	Low
+Metformin	Obesity	Inflammation	0.4562358835462298	0	1	0	Low
+Metformin	Obesity	Panniculitis, Nodular Nonsuppurative	0.4752333995105279	0	1	0	Low
+Metformin	Obesity	Infertility	0.3723340177715151	0	1	0	Low
+Metformin	Obesity	Adenoma, Liver Cell	0.3911075106251988	0	1	0	Low
+Metformin	Obesity	Genetic Predisposition to Disease	0.4530392271445821	0	1	0	Low
+Metformin	Obesity	Nesidioblastosis	0.4293854883875642	0	1	0	Low
+Metformin	Obesity	Acromegaly	0.428035875214672	0	1	0	Low
+Metformin	Obesity	Dwarfism, Pituitary	0.3756440506562793	0	1	0	Low
+Metformin	Obesity	Venous Thrombosis	0.4151676120991351	0	1	0	Low
+Metformin	Obesity	Breast Neoplasms	0.3876763727134172	0	1	0	Low
+Metformin	Obesity	Bone Diseases, Metabolic	0.3378898765874022	0	1	0	Low
+Metformin	Obesity	Fibrosis	0.3446602729513627	0	1	0	Low
+Metformin	Obesity	Mammary Neoplasms, Animal	0.3429561968718122	0	1	0	Low
+Metformin	Obesity	Tobacco Use Disorder	0.3639619278757484	0	1	0	Low
+Metformin	Obesity	Hyperprolactinemia	0.3196669784346868	0	1	0	Low
+Metformin	Obesity	Diabetes Mellitus, Experimental	0.3194075146238898	0	1	0	Low
+Metformin	Obesity	Osteoarthritis, Knee	0.3394598755329998	0	1	0	Low
+Metformin	Obesity	Osteoarthritis	0.3621587947147451	0	1	0	Low
+Metformin	Obesity	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.3801775022240571	0	1	0	Low
+Metformin	Obesity	Thromboembolism	0.3517579314529952	0	1	0	Low
+Metformin	Obesity	Hyperhomocysteinemia	0.351628665313428	0	1	0	Low
+Metformin	Obesity	Thyroid Diseases	0.3515461830557405	0	1	0	Low
+Metformin	Obesity	Precancerous Conditions	0.3032143173091304	0	1	0	Low
+Metformin	Obesity	Colorectal Neoplasms	0.3703479956394429	0	1	0	Low
+Metformin	Obesity	Adrenocortical Hyperfunction	0.3455628232435765	0	1	0	Low
+Metformin	Obesity	Liver Cirrhosis	0.3431088258480169	0	1	0	Low
+Metformin	Obesity	Carcinoma, Renal Cell	0.3659488001355068	0	1	0	Low
+Metformin	Obesity	Thrombophilia	0.3248362945400644	0	1	0	Low
+Metformin	Obesity	Prostatic Neoplasms	0.3213672579647443	0	1	0	Low
+Metformin	Obesity	Breast Neoplasms, Male	0.3152789821201393	0	1	0	Low
+Metformin	Obesity	Hypothyroidism	0.3089521907976803	0	1	0	Low
+Metformin	Obesity	Hypobetalipoproteinemias	0.3274927136037408	0	1	0	Low
+Metformin	Obesity	Psoriasis	0.3185013927223339	0	1	0	Low
+Metformin	Obesity	Neoplasms, Second Primary	0.3027748061926588	0	1	0	Low
+Aspirin	Myocardial Infarction	Myocardial Ischemia	0.946315764822516	0	1	1	High
+Aspirin	Myocardial Infarction	Coronary Stenosis	0.9063332997631488	0	1	1	Medium
+Aspirin	Myocardial Infarction	Coronary Restenosis	0.943375318530261	0	1	1	Medium
+Aspirin	Myocardial Infarction	Myocardial Stunning	0.9401056062350998	0	1	1	Medium
+Aspirin	Myocardial Infarction	Angina, Unstable	0.8275844273651491	0	1	1	Medium
+Aspirin	Myocardial Infarction	Coronary Artery Disease	0.8492429538103647	0	1	1	Medium
+Aspirin	Myocardial Infarction	Coronary Disease	0.8092357064096614	0	1	1	Medium
+Aspirin	Myocardial Infarction	Coronary Aneurysm	0.8189029507708369	0	1	1	Medium
+Aspirin	Myocardial Infarction	Angina Pectoris	0.6856011148818884	0	1	1	Low
+Aspirin	Myocardial Infarction	Thromboembolism	0.6094103532795104	0	1	1	Low
+Aspirin	Myocardial Infarction	Heart Diseases	0.5727416868640556	0	1	1	Low
+Aspirin	Myocardial Infarction	Hyperlipoproteinemia Type II	0.6124424609528951	0	1	1	Low
+Aspirin	Myocardial Infarction	Death, Sudden	0.5421207411277268	0	1	1	Low
+Aspirin	Myocardial Infarction	Cardiomyopathies	0.4822765381778644	0	1	1	Low
+Aspirin	Myocardial Infarction	Thrombocythemia, Essential	0.5456418642280696	0	1	1	Low
+Aspirin	Myocardial Infarction	Thoracic Diseases	0.5110480703569352	0	1	1	Low
+Aspirin	Myocardial Infarction	Thrombosis	0.4625819848170423	0	1	1	Low
+Aspirin	Myocardial Infarction	Calcinosis	0.4812293635244732	0	1	1	Low
+Aspirin	Myocardial Infarction	Coronary Vasospasm	0.3864539854551576	0	1	1	Low
+Aspirin	Myocardial Infarction	Ventricular Dysfunction, Left	0.3792266151020971	0	1	1	Low
+Aspirin	Myocardial Infarction	Death, Sudden, Cardiac	0.3647647741454431	0	1	1	Low
+Aspirin	Myocardial Infarction	Dextrocardia	0.4544434835071321	0	1	1	Low
+Aspirin	Myocardial Infarction	Aortic Valve Stenosis	0.4301145672199494	0	1	1	Low
+Aspirin	Myocardial Infarction	Aneurysm, Dissecting	0.4232063645845671	0	1	1	Low
+Aspirin	Myocardial Infarction	Arrhythmias, Cardiac	0.3690570146819977	0	1	1	Low
+Aspirin	Myocardial Infarction	Isolated Noncompaction of the Ventricular Myocardium	0.4363991331762208	0	1	1	Low
+Aspirin	Myocardial Infarction	Thrombophilia	0.390260895394715	0	1	1	Low
+Aspirin	Myocardial Infarction	Cardiomyopathy, Hypertrophic	0.3646585814041097	0	1	1	Low
+Aspirin	Myocardial Infarction	Bundle-Branch Block	0.3209648533872772	0	1	1	Low
+Aspirin	Myocardial Infarction	Acute-Phase Reaction	0.3950774033157367	0	1	1	Low
+Aspirin	Myocardial Infarction	Hyperhomocysteinemia	0.3660420680140184	0	1	1	Low
+Aspirin	Myocardial Infarction	Pseudoxanthoma Elasticum	0.3614499640774378	0	1	1	Low
+Aspirin	Myocardial Infarction	Aortic Aneurysm	0.3330655986963203	0	1	1	Low
+Aspirin	Myocardial Infarction	Arteriosclerosis	0.3055536061715362	0	1	1	Low
+Aspirin	Coronary Artery Disease	Coronary Disease	0.9951636066466584	0	1	1	High
+Aspirin	Coronary Artery Disease	Myocardial Ischemia	0.9435872771131114	0	1	1	High
+Aspirin	Coronary Artery Disease	Coronary Stenosis	0.911562652904532	0	1	1	Medium
+Aspirin	Coronary Artery Disease	Angina Pectoris	0.9568062978201204	0	1	1	Medium
+Aspirin	Coronary Artery Disease	Coronary Restenosis	0.9165942932455088	0	1	1	Medium
+Aspirin	Coronary Artery Disease	Myocardial Infarction	0.8492429538103647	0	1	1	Medium
+Aspirin	Coronary Artery Disease	Myocardial Stunning	0.7923539216499161	0	1	1	Medium
+Aspirin	Coronary Artery Disease	Coronary Aneurysm	0.7910310580068071	0	1	1	Medium
+Aspirin	Coronary Artery Disease	Heart Diseases	0.7000300543676312	0	1	1	Low
+Aspirin	Coronary Artery Disease	Hyperlipoproteinemia Type II	0.7598427069202252	0	1	1	Low
+Aspirin	Coronary Artery Disease	Thoracic Diseases	0.7313941106206506	0	1	1	Low
+Aspirin	Coronary Artery Disease	Death, Sudden	0.6062881184568165	0	1	1	Low
+Aspirin	Coronary Artery Disease	Dextrocardia	0.6379865070356695	0	1	1	Low
+Aspirin	Coronary Artery Disease	Coronary Vasospasm	0.5103822273375888	0	1	1	Low
+Aspirin	Coronary Artery Disease	Isolated Noncompaction of the Ventricular Myocardium	0.6263134874958426	0	1	1	Low
+Aspirin	Coronary Artery Disease	Cardiomyopathies	0.5555712666418097	0	1	1	Low
+Aspirin	Coronary Artery Disease	Aortic Valve Stenosis	0.5991265380132628	0	1	1	Low
+Aspirin	Coronary Artery Disease	Thromboembolism	0.5392240404585366	0	1	1	Low
+Aspirin	Coronary Artery Disease	Arrhythmias, Cardiac	0.4862421943781677	0	1	1	Low
+Aspirin	Coronary Artery Disease	Angina, Unstable	0.4349244716674811	0	1	1	Low
+Aspirin	Coronary Artery Disease	Cardiomyopathy, Hypertrophic	0.4980913180904795	0	1	1	Low
+Aspirin	Coronary Artery Disease	Calcinosis	0.5147927378044378	0	1	1	Low
+Aspirin	Coronary Artery Disease	Ventricular Dysfunction, Left	0.3596065304640039	0	1	1	Low
+Aspirin	Coronary Artery Disease	Bundle-Branch Block	0.392769578936547	0	1	1	Low
+Aspirin	Coronary Artery Disease	Arteriosclerosis	0.3920284347942915	0	1	1	Low
+Aspirin	Coronary Artery Disease	Thrombocythemia, Essential	0.4324896855792798	0	1	1	Low
+Aspirin	Coronary Artery Disease	Death, Sudden, Cardiac	0.3304741603991645	0	1	1	Low
+Aspirin	Coronary Artery Disease	Thrombophilia	0.3732078921665555	0	1	1	Low
+Aspirin	Coronary Artery Disease	Thrombosis	0.3887667034081578	0	1	1	Low
+Aspirin	Coronary Artery Disease	Aneurysm, Dissecting	0.3499482288810319	0	1	1	Low
+Aspirin	Coronary Artery Disease	Hypercholesterolemia	0.3446448588110919	0	1	1	Low
+Aspirin	Coronary Artery Disease	Wolff-Parkinson-White Syndrome	0.3324172760699064	0	1	1	Low
+Aspirin	Coronary Artery Disease	Ventricular Fibrillation	0.3079884233924229	0	1	1	Low
+Aspirin	Coronary Artery Disease	Glycogen Storage Disease Type VII	0.371087874856135	0	1	1	Low
+Aspirin	Coronary Artery Disease	Tachycardia	0.3092562695004726	0	1	1	Low
+Aspirin	Coronary Artery Disease	Cardiomyopathy, Dilated	0.3041021047068762	0	1	1	Low
+Aspirin	Coronary Artery Disease	Heart Valve Diseases	0.3010063494504777	0	1	1	Low
+Aspirin	Coronary Artery Disease	Pseudoxanthoma Elasticum	0.3227863721885799	0	1	1	Low
+Aspirin	Coronary Artery Disease	Thrombocytosis	0.3028667728937431	0	1	1	Low
+Aspirin	Coronary Artery Disease	Arteritis	0.3012309138847536	0	1	1	Low
+Aspirin	Pain	Breast Diseases	0.869456448688654	0	1	1	Medium
+Aspirin	Pain	Opioid-Related Disorders	0.7659402571647164	0	1	1	Low
+Aspirin	Pain	Bone Neoplasms	0.7080925259660517	0	1	1	Low
+Aspirin	Pain	Osteoarthritis	0.7283318469683191	0	1	1	Low
+Aspirin	Pain	Testicular Diseases	0.6962354516457777	0	1	1	Low
+Aspirin	Pain	Arthritis	0.6457854361921733	0	1	1	Low
+Aspirin	Pain	Joint Diseases	0.5994405422047395	0	1	1	Low
+Aspirin	Pain	Anemia, Sickle Cell	0.6896603347265875	0	1	1	Low
+Aspirin	Pain	Arthritis, Rheumatoid	0.6312848665324743	0	1	1	Low
+Aspirin	Pain	Osteoarthritis, Knee	0.6039621410860156	0	1	1	Low
+Aspirin	Pain	Bone Diseases	0.6099475247142898	0	1	1	Low
+Aspirin	Pain	Burns	0.5635197622050891	0	1	1	Low
+Aspirin	Pain	Osteolysis	0.5268238574288318	0	1	1	Low
+Aspirin	Pain	Cartilage Diseases	0.5336940619845801	0	1	1	Low
+Aspirin	Pain	Neoplasm Metastasis	0.4777513651508441	0	1	1	Low
+Aspirin	Pain	Osteosarcoma	0.4755923755776037	0	1	1	Low
+Aspirin	Pain	Foot Deformities	0.5277077374152113	0	1	1	Low
+Aspirin	Pain	Leiomyomatosis	0.5039022383252643	0	1	1	Low
+Aspirin	Pain	Femur Head Necrosis	0.4757118394576701	0	1	1	Low
+Aspirin	Pain	Legg-Perthes Disease	0.4808293002808547	0	1	1	Low
+Aspirin	Pain	Fractures, Closed	0.495333720473384	0	1	1	Low
+Aspirin	Pain	Soft Tissue Neoplasms	0.4423998922527644	0	1	1	Low
+Aspirin	Pain	Fractures, Bone	0.4656775257582821	0	1	1	Low
+Aspirin	Pain	Diabetic Neuropathies	0.4377791400996143	0	1	1	Low
+Aspirin	Pain	Pain Insensitivity, Congenital	0.4347121549412894	0	1	1	Low
+Aspirin	Pain	Arthritis, Psoriatic	0.4545486305625875	0	1	1	Low
+Aspirin	Pain	Osteonecrosis	0.3923022642733685	0	1	1	Low
+Aspirin	Pain	Peripheral Nervous System Diseases	0.4053543869415608	0	1	1	Low
+Aspirin	Pain	Prostatic Diseases	0.4362348751797326	0	1	1	Low
+Aspirin	Pain	Arthritis, Juvenile Rheumatoid	0.4207051114964692	0	1	1	Low
+Aspirin	Pain	Sarcoma, Ewing's	0.3490785136504647	0	1	1	Low
+Aspirin	Pain	Cluster Headache	0.3425544403684054	0	1	1	Low
+Aspirin	Pain	Warts	0.3881329386778483	0	1	1	Low
+Aspirin	Pain	Osteitis Deformans	0.3836938408855025	0	1	1	Low
+Aspirin	Pain	Neurogenic Inflammation	0.3342960994751045	0	1	1	Low
+Aspirin	Pain	Skin Ulcer	0.4031511587646261	0	1	1	Low
+Aspirin	Pain	Thoracic Diseases	0.3967449457491473	0	1	1	Low
+Aspirin	Pain	Arthritis, Experimental	0.3646422430058758	0	1	1	Low
+Aspirin	Pain	Genital Diseases, Male	0.3562073065387345	0	1	1	Low
+Aspirin	Pain	Inflammation	0.3516605853826119	0	1	1	Low
+Aspirin	Pain	Pancreatitis, Chronic	0.3020971477227829	0	1	1	Low
+Aspirin	Pain	Spondylitis, Ankylosing	0.3231834639937939	0	1	1	Low
+Aspirin	Pain	Muscular Diseases	0.3391049024854654	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Arthritis, Psoriatic	0.7364315921915717	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Arthritis	0.7473746067137094	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Osteoarthritis	0.7172806034191269	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Joint Diseases	0.6841845333136873	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Osteoarthritis, Hip	0.6739559124572769	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Breast Diseases	0.6729307457559863	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Femur Head Necrosis	0.6337496971590217	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Soft Tissue Neoplasms	0.617749105557056	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Arthritis, Juvenile Rheumatoid	0.6390986454602456	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Bone Diseases	0.6475737550028228	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Osteoarthritis, Knee	0.6226949180742746	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Femoral Fractures	0.5893495237940488	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Scleroderma, Systemic	0.5881175935524822	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Pain	0.6312848665324743	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Anemia, Sickle Cell	0.6261764870481498	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Carcinoma, Renal Cell	0.5664997340209875	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Cartilage Diseases	0.5773187919659871	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Osteolysis	0.5971660402354186	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Bone Neoplasms	0.5570840306899291	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Legg-Perthes Disease	0.5525911428040732	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Testicular Diseases	0.5740264520313707	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Osteosarcoma	0.5441103929769922	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Multiple Myeloma	0.5187846877537559	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Burns	0.5588252362173322	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Osteomalacia	0.5329538624167449	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Kidney Neoplasms	0.5296020258692415	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Fabry Disease	0.5515592058363902	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Osteonecrosis	0.5251683293040957	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Persian Gulf Syndrome	0.470411723341307	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Fractures, Bone	0.5394142418504859	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Spondylitis, Ankylosing	0.4880622041186025	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Kidney Failure, Chronic	0.5111096989620844	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Lupus Erythematosus, Systemic	0.509686575552892	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Genital Neoplasms, Female	0.4795052879399206	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Hepatitis C	0.4792985843973671	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Amyloidosis	0.5246234600531084	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Osteochondritis Dissecans	0.4930401000937523	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Eosinophilia	0.4689991069854337	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Lymphoma, Non-Hodgkin	0.4909840047326179	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Skin Ulcer	0.481062719786661	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Scleroderma, Localized	0.457083631141769	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Synovitis	0.4561076877690562	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Hepatitis C, Chronic	0.4763922200480769	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Genital Diseases, Male	0.4714917596282124	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Opioid-Related Disorders	0.5130952561229927	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Neoplasm Metastasis	0.4890602413801245	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Spondylarthropathies	0.4140794499205397	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	0.4550637389906192	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Fanconi Syndrome	0.4498412336453181	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Fractures, Closed	0.4688849296602128	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Anemia, Macrocytic	0.4432494180165077	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Pyoderma Gangrenosum	0.4419833469758188	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Connective Tissue Diseases	0.4390287390494203	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Fatigue Syndrome, Chronic	0.4315342890771207	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Lupus Nephritis	0.4070433149291543	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Nail-Patella Syndrome	0.4294366550822202	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Mastitis	0.4273971690147266	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Nephritis, Interstitial	0.4505010822664442	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	HIV Infections	0.4476486765240524	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Muscular Diseases	0.4219539247883306	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Hemochromatosis	0.4451126555430926	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Nephrotic Syndrome	0.4202538737982	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Skin Neoplasms	0.4185384914589458	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Hodgkin Disease	0.416298097662057	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Leukemia, Lymphoid	0.4148331210877014	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Anus Neoplasms	0.4148008781967474	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Breast Neoplasms	0.4146835957010662	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Leukemia, Myeloid	0.4132021438812145	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Gout	0.3889218037820564	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Warts	0.4119700760059655	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Hematuria	0.4327568217241964	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Sarcoma	0.4321352492697407	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Melanoma	0.4313715774691011	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Glomerulonephritis	0.4074828494855476	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Carcinoma	0.4269528166444565	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Sarcoidosis	0.4261238786626811	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Glomerulosclerosis, Focal Segmental	0.4009237413171231	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Psoriasis	0.3745262913026222	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Adenocarcinoma	0.443875527946427	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Joint Instability	0.4199776790300401	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Schistosomiasis	0.442100486830727	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Diabetic Neuropathies	0.4185452014243624	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Glomus Tumor	0.4171806769001115	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Polycystic Kidney Diseases	0.4400423731933681	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Immune Complex Diseases	0.4164959342803698	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Primary Myelofibrosis	0.4154310117627075	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Foot Deformities	0.389981856700482	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Myositis	0.366273912231194	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Lymphoma, B-Cell	0.4358943338541121	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Hernia, Inguinal	0.4123801358552682	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Bone Resorption	0.4107634505614208	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Nephrosis	0.4068051727889237	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Sjogren's Syndrome	0.4054001479755813	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.4038360641223101	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Glomerulonephritis, Membranoproliferative	0.4007779222910836	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Lecithin Acyltransferase Deficiency	0.3966986024430415	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Polycystic Kidney, Autosomal Dominant	0.3964028523138204	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Carcinoma, Non-Small-Cell Lung	0.3963132213804088	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Prostatic Diseases	0.3958632547281345	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Osteitis Deformans	0.4188765609969439	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Gaucher Disease	0.3699130121942661	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Proteinuria	0.3915944094153187	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Renal Insufficiency	0.4141287343332885	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Fibrosis	0.4129729173394865	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Neoplasm Recurrence, Local	0.3884373255945284	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Crohn Disease	0.3639925698827707	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Venous Thrombosis	0.386605809805793	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Iron Overload	0.3590712327286016	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Schnitzler Syndrome	0.3584158129976232	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Lymphatic Metastasis	0.3808986069271169	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Lymphoma, Large B-Cell, Diffuse	0.4039572799602989	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Lymphoma	0.3800949259368148	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Familial Mediterranean Fever	0.3560910750568689	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Hypertension, Renal	0.3788629755909667	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Inflammatory Bowel Diseases	0.3319372221174779	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Leiomyomatosis	0.4018417078830028	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Anemia, Megaloblastic	0.3753089989994216	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Sarcoma, Synovial	0.3738414211014282	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Graft vs Host Disease	0.3726506860083428	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Kidney Diseases	0.3958005144914887	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Carcinoma, Squamous Cell	0.3938112148315975	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Blood Protein Disorders	0.369544318312688	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Pancreatitis	0.3687586316930216	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Lymphatic Diseases	0.3685458408902504	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Leukemia, Myeloid, Acute	0.3670983683392626	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Uterine Cervical Neoplasms	0.3884356028046051	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Colitis, Ulcerative	0.3375924147109625	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Prostatic Neoplasms	0.3362966261650528	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Glomerulonephritis, IGA	0.3588299904044483	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Pre-Eclampsia	0.3579548774789186	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Sarcoma, Kaposi	0.3578173489758053	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Stomach Ulcer	0.3111823494978602	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Hypoproteinemia	0.332366585099874	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Kidney Diseases, Cystic	0.3777206945697786	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Inflammation	0.3529866025976551	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Hypercalcemia	0.3292560030309104	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Head and Neck Neoplasms	0.3745091173155708	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Arthritis, Experimental	0.3277253648478254	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Sarcoma, Ewing's	0.37347154830663	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Staphylococcal Infections	0.3732404436763607	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Alopecia Areata	0.3016340617699471	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Addison Disease	0.369745765529779	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Denys-Drash Syndrome	0.3687710948009396	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Gastrointestinal Diseases	0.3220289758215379	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Sexual Dysfunctions, Psychological	0.3439413620411581	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Carcinoma, Basal Cell	0.3648088345201123	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Hypersensitivity	0.3181123588901951	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Granuloma	0.3412322478591672	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Osteoporosis	0.3391362672628735	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Carcinoma, Transitional Cell	0.3378882937172086	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Lung Neoplasms	0.3357771048979137	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Myelodysplastic Syndromes	0.3116976831010066	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Oculocerebrorenal Syndrome	0.3554498760730294	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Lipoma	0.3553381801329616	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Leukemia, T-Cell	0.3079100117600188	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Carcinoma, Small Cell	0.3290616006961878	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Splenomegaly	0.3053815926900955	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Multiple Sclerosis, Relapsing-Remitting	0.3513758377519013	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Esophageal Neoplasms	0.3279373211263233	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Thyroiditis, Autoimmune	0.349847283880952	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Mucositis	0.325785018867556	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Penile Diseases	0.3003545594564465	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Ehlers-Danlos Syndrome	0.3447073437622689	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Multiple Sclerosis	0.3439045876636607	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Adenoma, Oxyphilic	0.3204967411062837	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Ulcer	0.3203008340301749	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Heroin Dependence	0.3435042065760825	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Gastrointestinal Neoplasms	0.319707412503137	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Hypertension, Pregnancy-Induced	0.3425370895923447	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Leukemia, Monocytic, Acute	0.3185506612605549	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Acquired Immunodeficiency Syndrome	0.3415107055435321	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Brachial Plexus Neuritis	0.3175159084755153	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Peripheral Nervous System Diseases	0.3170656191233855	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Urinary Bladder Neoplasms	0.3163587593711586	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Lupus Erythematosus, Cutaneous	0.3162874636455271	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Anxiety Disorders	0.3156018818832729	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Nail Diseases	0.3138437324793841	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Coxsackievirus Infections	0.3370407992553962	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Testicular Neoplasms	0.311096462295223	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Syringomyelia	0.3094612596962035	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Pancreatic Neoplasms	0.3092016695022369	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Niemann-Pick Disease, Type B	0.3088001215894852	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Colorectal Neoplasms	0.3085262276162933	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Collagen Diseases	0.3071843633476676	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Leukemia	0.3061640701773958	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Hypereosinophilic Syndrome	0.3288266646984026	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	HIV Seropositivity	0.3261153691283369	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Panniculitis, Nodular Nonsuppurative	0.3027184100104165	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Schistosomiasis mansoni	0.325732892859624	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Lipodystrophy, Congenital Generalized	0.301290328120203	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Lymphedema	0.3009151063968038	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Anemia	0.3218911303254044	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Cluster Headache	0.3198689716721186	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Dysautonomia, Familial	0.3196588313079799	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Brucellosis	0.319559380259202	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Fibroma	0.3179390026501477	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Colonic Neoplasms	0.316630821006953	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Calcinosis	0.3393318811375794	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Wounds, Penetrating	0.314325706261699	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Lymphoma, T-Cell	0.3137059347519579	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Adrenal Insufficiency	0.3115327028661534	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Multiple Sclerosis, Chronic Progressive	0.309403665765038	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Nephritis, Hereditary	0.3084224377934822	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Hypophosphatemia, Familial	0.3026568493879785	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Anemia, Iron-Deficiency	0.3011427461410636	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Thrombocytosis	0.3072467851231125	0	1	1	Low
+Ibuprofen	Arthritis, Rheumatoid	Acromegaly	0.3008676075540261	0	1	1	Low
+Ibuprofen	Pain	Breast Diseases	0.869456448688654	0	1	1	Medium
+Ibuprofen	Pain	Opioid-Related Disorders	0.7659402571647164	0	1	1	Low
+Ibuprofen	Pain	Bone Neoplasms	0.7080925259660517	0	1	1	Low
+Ibuprofen	Pain	Osteoarthritis	0.7283318469683191	0	1	1	Low
+Ibuprofen	Pain	Testicular Diseases	0.6962354516457777	0	1	1	Low
+Ibuprofen	Pain	Arthritis	0.6457854361921733	0	1	1	Low
+Ibuprofen	Pain	Joint Diseases	0.5994405422047395	0	1	1	Low
+Ibuprofen	Pain	Anemia, Sickle Cell	0.6896603347265875	0	1	1	Low
+Ibuprofen	Pain	Arthritis, Rheumatoid	0.6312848665324743	0	1	1	Low
+Ibuprofen	Pain	Osteoarthritis, Knee	0.6039621410860156	0	1	1	Low
+Ibuprofen	Pain	Bone Diseases	0.6099475247142898	0	1	1	Low
+Ibuprofen	Pain	Burns	0.5635197622050891	0	1	1	Low
+Ibuprofen	Pain	Osteolysis	0.5268238574288318	0	1	1	Low
+Ibuprofen	Pain	Cartilage Diseases	0.5336940619845801	0	1	1	Low
+Ibuprofen	Pain	Neoplasm Metastasis	0.4777513651508441	0	1	1	Low
+Ibuprofen	Pain	Osteosarcoma	0.4755923755776037	0	1	1	Low
+Ibuprofen	Pain	Foot Deformities	0.5277077374152113	0	1	1	Low
+Ibuprofen	Pain	Leiomyomatosis	0.5039022383252643	0	1	1	Low
+Ibuprofen	Pain	Femur Head Necrosis	0.4757118394576701	0	1	1	Low
+Ibuprofen	Pain	Legg-Perthes Disease	0.4808293002808547	0	1	1	Low
+Ibuprofen	Pain	Fractures, Closed	0.495333720473384	0	1	1	Low
+Ibuprofen	Pain	Soft Tissue Neoplasms	0.4423998922527644	0	1	1	Low
+Ibuprofen	Pain	Fractures, Bone	0.4656775257582821	0	1	1	Low
+Ibuprofen	Pain	Diabetic Neuropathies	0.4377791400996143	0	1	1	Low
+Ibuprofen	Pain	Pain Insensitivity, Congenital	0.4347121549412894	0	1	1	Low
+Ibuprofen	Pain	Arthritis, Psoriatic	0.4545486305625875	0	1	1	Low
+Ibuprofen	Pain	Osteonecrosis	0.3923022642733685	0	1	1	Low
+Ibuprofen	Pain	Peripheral Nervous System Diseases	0.4053543869415608	0	1	1	Low
+Ibuprofen	Pain	Prostatic Diseases	0.4362348751797326	0	1	1	Low
+Ibuprofen	Pain	Arthritis, Juvenile Rheumatoid	0.4207051114964692	0	1	1	Low
+Ibuprofen	Pain	Sarcoma, Ewing's	0.3490785136504647	0	1	1	Low
+Ibuprofen	Pain	Cluster Headache	0.3425544403684054	0	1	1	Low
+Ibuprofen	Pain	Warts	0.3881329386778483	0	1	1	Low
+Ibuprofen	Pain	Osteitis Deformans	0.3836938408855025	0	1	1	Low
+Ibuprofen	Pain	Neurogenic Inflammation	0.3342960994751045	0	1	1	Low
+Ibuprofen	Pain	Skin Ulcer	0.4031511587646261	0	1	1	Low
+Ibuprofen	Pain	Thoracic Diseases	0.3967449457491473	0	1	1	Low
+Ibuprofen	Pain	Arthritis, Experimental	0.3646422430058758	0	1	1	Low
+Ibuprofen	Pain	Genital Diseases, Male	0.3562073065387345	0	1	1	Low
+Ibuprofen	Pain	Inflammation	0.3516605853826119	0	1	1	Low
+Ibuprofen	Pain	Pancreatitis, Chronic	0.3020971477227829	0	1	1	Low
+Ibuprofen	Pain	Spondylitis, Ankylosing	0.3231834639937939	0	1	1	Low
+Ibuprofen	Pain	Muscular Diseases	0.3391049024854654	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Coronary Disease	0.9951636066466584	0	1	1	High
+Atorvastatin	Coronary Artery Disease	Myocardial Ischemia	0.9435872771131114	0	1	1	High
+Atorvastatin	Coronary Artery Disease	Coronary Stenosis	0.911562652904532	0	1	1	Medium
+Atorvastatin	Coronary Artery Disease	Angina Pectoris	0.9568062978201204	0	1	1	Medium
+Atorvastatin	Coronary Artery Disease	Coronary Restenosis	0.9165942932455088	0	1	1	Medium
+Atorvastatin	Coronary Artery Disease	Myocardial Infarction	0.8492429538103647	0	1	1	Medium
+Atorvastatin	Coronary Artery Disease	Myocardial Stunning	0.7923539216499161	0	1	1	Medium
+Atorvastatin	Coronary Artery Disease	Coronary Aneurysm	0.7910310580068071	0	1	1	Medium
+Atorvastatin	Coronary Artery Disease	Heart Diseases	0.7000300543676312	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Hyperlipoproteinemia Type II	0.7598427069202252	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Thoracic Diseases	0.7313941106206506	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Death, Sudden	0.6062881184568165	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Dextrocardia	0.6379865070356695	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Coronary Vasospasm	0.5103822273375888	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Isolated Noncompaction of the Ventricular Myocardium	0.6263134874958426	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Cardiomyopathies	0.5555712666418097	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Aortic Valve Stenosis	0.5991265380132628	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Thromboembolism	0.5392240404585366	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Arrhythmias, Cardiac	0.4862421943781677	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Angina, Unstable	0.4349244716674811	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Cardiomyopathy, Hypertrophic	0.4980913180904795	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Calcinosis	0.5147927378044378	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Ventricular Dysfunction, Left	0.3596065304640039	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Bundle-Branch Block	0.392769578936547	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Arteriosclerosis	0.3920284347942915	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Thrombocythemia, Essential	0.4324896855792798	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Death, Sudden, Cardiac	0.3304741603991645	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Thrombophilia	0.3732078921665555	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Thrombosis	0.3887667034081578	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Aneurysm, Dissecting	0.3499482288810319	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Hypercholesterolemia	0.3446448588110919	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Wolff-Parkinson-White Syndrome	0.3324172760699064	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Ventricular Fibrillation	0.3079884233924229	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Glycogen Storage Disease Type VII	0.371087874856135	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Tachycardia	0.3092562695004726	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Cardiomyopathy, Dilated	0.3041021047068762	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Heart Valve Diseases	0.3010063494504777	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Pseudoxanthoma Elasticum	0.3227863721885799	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Thrombocytosis	0.3028667728937431	0	1	1	Low
+Atorvastatin	Coronary Artery Disease	Arteritis	0.3012309138847536	0	1	1	Low
+Atorvastatin	Hypertension	Hypertrophy, Left Ventricular	0.9243573772126852	0	1	1	Medium
+Atorvastatin	Hypertension	Diabetes Mellitus, Type 2	0.9409964076959102	0	1	1	Medium
+Atorvastatin	Hypertension	Hyperuricemia	0.9186470485138184	0	1	1	Medium
+Atorvastatin	Hypertension	Diabetic Angiopathies	0.8179986521613404	0	1	1	Medium
+Atorvastatin	Hypertension	Diabetes Mellitus	0.7990460446784591	0	1	1	Medium
+Atorvastatin	Hypertension	Hyperlipidemias	0.7864466029662471	0	1	1	Medium
+Atorvastatin	Hypertension	Hypercholesterolemia	0.7833111302945002	0	1	1	Medium
+Atorvastatin	Hypertension	Hypertension, Renal	0.7313491084593936	0	1	1	Medium
+Atorvastatin	Hypertension	Diabetes Mellitus, Type 1	0.7674317997650769	0	1	1	Medium
+Atorvastatin	Hypertension	Diabetes Mellitus, Experimental	0.7384440367764499	0	1	1	Low
+Atorvastatin	Hypertension	Hyperglycemia	0.7263035589421194	0	1	1	Low
+Atorvastatin	Hypertension	Hypertriglyceridemia	0.7228365029661623	0	1	1	Low
+Atorvastatin	Hypertension	Glucose Intolerance	0.721626122982013	0	1	1	Low
+Atorvastatin	Hypertension	Diabetic Nephropathies	0.7148437225835196	0	1	1	Low
+Atorvastatin	Hypertension	Metabolic Syndrome X	0.7120864691980856	0	1	1	Low
+Atorvastatin	Hypertension	Atherosclerosis	0.7078414457330398	0	1	1	Low
+Atorvastatin	Hypertension	Hyperinsulinism	0.6866391524075758	0	1	1	Low
+Atorvastatin	Hypertension	Renal Insufficiency	0.7065430292901113	0	1	1	Low
+Atorvastatin	Hypertension	Gout	0.7008330270572757	0	1	1	Low
+Atorvastatin	Hypertension	Dyslipidemias	0.6768833393707684	0	1	1	Low
+Atorvastatin	Hypertension	Albuminuria	0.6656357447209748	0	1	1	Low
+Atorvastatin	Hypertension	Insulin Resistance	0.6645790685249435	0	1	1	Low
+Atorvastatin	Hypertension	Metabolic Diseases	0.6635954128487126	0	1	1	Low
+Atorvastatin	Hypertension	Kidney Failure, Chronic	0.6588104154181361	0	1	1	Low
+Atorvastatin	Hypertension	Arteriosclerosis	0.5993350348487514	0	1	1	Low
+Atorvastatin	Hypertension	Hyperlipoproteinemias	0.6667267712641839	0	1	1	Low
+Atorvastatin	Hypertension	Glycogen Storage Disease Type I	0.663240910960549	0	1	1	Low
+Atorvastatin	Hypertension	Polycystic Kidney, Autosomal Dominant	0.6566196283155865	0	1	1	Low
+Atorvastatin	Hypertension	Obesity	0.6296333950333792	0	1	1	Low
+Atorvastatin	Hypertension	Diabetes Complications	0.6040178043922378	0	1	1	Low
+Atorvastatin	Hypertension	Fatty Liver	0.624396649504295	0	1	1	Low
+Atorvastatin	Hypertension	Hyperlipoproteinemia Type IV	0.6448711178511203	0	1	1	Low
+Atorvastatin	Hypertension	Hyperlipoproteinemia Type II	0.6196037881725693	0	1	1	Low
+Atorvastatin	Hypertension	Hyperlipidemia, Familial Combined	0.6284898961420368	0	1	1	Low
+Atorvastatin	Hypertension	Lipid Metabolism Disorders	0.5841172762063327	0	1	1	Low
+Atorvastatin	Hypertension	Endometrial Hyperplasia	0.5946603073416008	0	1	1	Low
+Atorvastatin	Hypertension	Diabetic Retinopathy	0.5676247760313297	0	1	1	Low
+Atorvastatin	Hypertension	Endometrial Neoplasms	0.6077566803454528	0	1	1	Low
+Atorvastatin	Hypertension	Hypertension, Pregnancy-Induced	0.559164202449441	0	1	1	Low
+Atorvastatin	Hypertension	Acromegaly	0.5392710575208032	0	1	1	Low
+Atorvastatin	Hypertension	Hypothalamic Diseases	0.5566465393400296	0	1	1	Low
+Atorvastatin	Hypertension	Hypoalphalipoproteinemias	0.5981940860217562	0	1	1	Low
+Atorvastatin	Hypertension	Kidney Diseases	0.527341950778091	0	1	1	Low
+Atorvastatin	Hypertension	Fibrosis	0.5122216535750808	0	1	1	Low
+Atorvastatin	Hypertension	Lipodystrophy	0.532523175480151	0	1	1	Low
+Atorvastatin	Hypertension	Bardet-Biedl Syndrome	0.5678045533646525	0	1	1	Low
+Atorvastatin	Hypertension	Pituitary ACTH Hypersecretion	0.5431413133201342	0	1	1	Low
+Atorvastatin	Hypertension	Infertility, Male	0.4947500068042146	0	1	1	Low
+Atorvastatin	Hypertension	Hyperhomocysteinemia	0.4883872836242058	0	1	1	Low
+Atorvastatin	Hypertension	Pre-Eclampsia	0.4564322192691231	0	1	1	Low
+Atorvastatin	Hypertension	Obesity, Abdominal	0.4759263402711067	0	1	1	Low
+Atorvastatin	Hypertension	Prader-Willi Syndrome	0.4958872866910835	0	1	1	Low
+Atorvastatin	Hypertension	Iron Overload	0.4897399687430266	0	1	1	Low
+Atorvastatin	Hypertension	Nephritis, Interstitial	0.4372443385722783	0	1	1	Low
+Atorvastatin	Hypertension	Cushing Syndrome	0.5055496511105161	0	1	1	Low
+Atorvastatin	Hypertension	Nephrosis	0.4513249630962113	0	1	1	Low
+Atorvastatin	Hypertension	Dwarfism, Pituitary	0.4745404760841496	0	1	1	Low
+Atorvastatin	Hypertension	Cardiomegaly	0.4238086621788924	0	1	1	Low
+Atorvastatin	Hypertension	Thromboembolism	0.434047158317023	0	1	1	Low
+Atorvastatin	Hypertension	Diabetic Cardiomyopathies	0.4773533341624671	0	1	1	Low
+Atorvastatin	Hypertension	Uterine Neoplasms	0.4769148126304866	0	1	1	Low
+Atorvastatin	Hypertension	Bone Diseases, Metabolic	0.453051713345948	0	1	1	Low
+Atorvastatin	Hypertension	Infertility, Female	0.4021855431473119	0	1	1	Low
+Atorvastatin	Hypertension	Oligospermia	0.4218127449427659	0	1	1	Low
+Atorvastatin	Hypertension	Venous Thromboembolism	0.4674008499865151	0	1	1	Low
+Atorvastatin	Hypertension	Polycystic Kidney Diseases	0.4197303595408288	0	1	1	Low
+Atorvastatin	Hypertension	Glomerulosclerosis, Focal Segmental	0.3963942412801752	0	1	1	Low
+Atorvastatin	Hypertension	Proteinuria	0.3667682005197085	0	1	1	Low
+Atorvastatin	Hypertension	Thrombophilia	0.4124188425006519	0	1	1	Low
+Atorvastatin	Hypertension	Hypothyroidism	0.4353617406351131	0	1	1	Low
+Atorvastatin	Hypertension	Mammary Neoplasms, Animal	0.4092010958501473	0	1	1	Low
+Atorvastatin	Hypertension	Hypopituitarism	0.4265691822563984	0	1	1	Low
+Atorvastatin	Hypertension	Acanthosis Nigricans	0.449571471177937	0	1	1	Low
+Atorvastatin	Hypertension	Kidney Neoplasms	0.4108136359862218	0	1	1	Low
+Atorvastatin	Hypertension	Hepatitis C, Chronic	0.4064823533959532	0	1	1	Low
+Atorvastatin	Hypertension	Thyroiditis, Autoimmune	0.446004399015417	0	1	1	Low
+Atorvastatin	Hypertension	Bone Resorption	0.3977106967208147	0	1	1	Low
+Atorvastatin	Hypertension	Puberty, Delayed	0.3949887304993177	0	1	1	Low
+Atorvastatin	Hypertension	Nail-Patella Syndrome	0.4153055844535487	0	1	1	Low
+Atorvastatin	Hypertension	Nephrotic Syndrome	0.368216991764359	0	1	1	Low
+Atorvastatin	Hypertension	Fanconi Syndrome	0.4092641504143345	0	1	1	Low
+Atorvastatin	Hypertension	Malnutrition	0.3615827941512019	0	1	1	Low
+Atorvastatin	Hypertension	Infertility	0.3374870988570189	0	1	1	Low
+Atorvastatin	Hypertension	Liver Diseases, Alcoholic	0.3817407685829196	0	1	1	Low
+Atorvastatin	Hypertension	Carcinoma, Renal Cell	0.3797485097760921	0	1	1	Low
+Atorvastatin	Hypertension	Precancerous Conditions	0.3794049736497042	0	1	1	Low
+Atorvastatin	Hypertension	Polycystic Ovary Syndrome	0.3554033983391282	0	1	1	Low
+Atorvastatin	Hypertension	Venous Thrombosis	0.3768355076831944	0	1	1	Low
+Atorvastatin	Hypertension	Cardiomyopathies	0.352337100639456	0	1	1	Low
+Atorvastatin	Hypertension	Lupus Nephritis	0.3751634067462082	0	1	1	Low
+Atorvastatin	Hypertension	Adenoma, Liver Cell	0.3677399707771798	0	1	1	Low
+Atorvastatin	Hypertension	Liver Cirrhosis, Experimental	0.3431377816599431	0	1	1	Low
+Atorvastatin	Hypertension	Carbon Tetrachloride Poisoning	0.3429476333963142	0	1	1	Low
+Atorvastatin	Hypertension	Lipomatosis	0.4123057572887055	0	1	1	Low
+Atorvastatin	Hypertension	Microvascular Angina	0.3654959764731985	0	1	1	Low
+Atorvastatin	Hypertension	Inflammation	0.365230928512595	0	1	1	Low
+Atorvastatin	Hypertension	Mammary Neoplasms, Experimental	0.3178396095768561	0	1	1	Low
+Atorvastatin	Hypertension	Schistosomiasis	0.3586244987754284	0	1	1	Low
+Atorvastatin	Hypertension	Lecithin Acyltransferase Deficiency	0.3560508618176415	0	1	1	Low
+Atorvastatin	Hypertension	Glomerulonephritis	0.354743922052394	0	1	1	Low
+Atorvastatin	Hypertension	Oculocerebrorenal Syndrome	0.3520870441106394	0	1	1	Low
+Atorvastatin	Hypertension	Tobacco Use Disorder	0.3723913836330831	0	1	1	Low
+Atorvastatin	Hypertension	WAGR Syndrome	0.3947859438692769	0	1	1	Low
+Atorvastatin	Hypertension	Puberty, Precocious	0.3452443452402695	0	1	1	Low
+Atorvastatin	Hypertension	Deficiency Diseases	0.3426299147136183	0	1	1	Low
+Atorvastatin	Hypertension	Liver Cirrhosis	0.3335002386636656	0	1	1	Low
+Atorvastatin	Hypertension	Psoriasis	0.3317305048853047	0	1	1	Low
+Atorvastatin	Hypertension	Panniculitis, Nodular Nonsuppurative	0.3541059553595014	0	1	1	Low
+Atorvastatin	Hypertension	Heart Diseases	0.3068699305584925	0	1	1	Low
+Atorvastatin	Hypertension	Hypertrophy	0.328954365103396	0	1	1	Low
+Atorvastatin	Hypertension	Fabry Disease	0.34957092955921	0	1	1	Low
+Atorvastatin	Hypertension	Genetic Predisposition to Disease	0.3675005899515233	0	1	1	Low
+Atorvastatin	Hypertension	Diabetic Neuropathies	0.366914538724877	0	1	1	Low
+Atorvastatin	Hypertension	Cholelithiasis	0.3389884847021645	0	1	1	Low
+Atorvastatin	Hypertension	Hyperthyroidism	0.3136028263958518	0	1	1	Low
+Atorvastatin	Hypertension	Bulimia Nervosa	0.3104568293327797	0	1	1	Low
+Atorvastatin	Hypertension	Anemia, Macrocytic	0.3298780284061442	0	1	1	Low
+Atorvastatin	Hypertension	Hematuria	0.3295267167299623	0	1	1	Low
+Atorvastatin	Hypertension	Glomerulonephritis, Membranoproliferative	0.3033397142258641	0	1	1	Low
+Atorvastatin	Hypertension	Graft vs Host Disease	0.3028813296140649	0	1	1	Low
+Atorvastatin	Hypertension	Lupus Erythematosus, Systemic	0.3235521870314843	0	1	1	Low
+Atorvastatin	Hypertension	Pregnancy Complications	0.3180664831662228	0	1	1	Low
+Atorvastatin	Hypertension	Multiple Organ Failure	0.3163075673875593	0	1	1	Low
+Atorvastatin	Hypertension	Amyloidosis	0.3157630932160334	0	1	1	Low
+Atorvastatin	Hypertension	Breast Neoplasms	0.3152150194378384	0	1	1	Low
+Atorvastatin	Hypertension	Gallstones	0.3116907625638266	0	1	1	Low
+Atorvastatin	Hypertension	Immune Complex Diseases	0.3020795474746091	0	1	1	Low
+Atorvastatin	Hypertension	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.324799977322029	0	1	1	Low
+Atorvastatin	Hypertension	Calcinosis	0.3094777092761807	0	1	1	Low
+Lisinopril	Hypertension	Hypertrophy, Left Ventricular	0.9243573772126852	0	1	1	Medium
+Lisinopril	Hypertension	Diabetes Mellitus, Type 2	0.9409964076959102	0	1	1	Medium
+Lisinopril	Hypertension	Hyperuricemia	0.9186470485138184	0	1	1	Medium
+Lisinopril	Hypertension	Diabetic Angiopathies	0.8179986521613404	0	1	1	Medium
+Lisinopril	Hypertension	Diabetes Mellitus	0.7990460446784591	0	1	1	Medium
+Lisinopril	Hypertension	Hyperlipidemias	0.7864466029662471	0	1	1	Medium
+Lisinopril	Hypertension	Hypercholesterolemia	0.7833111302945002	0	1	1	Medium
+Lisinopril	Hypertension	Hypertension, Renal	0.7313491084593936	0	1	1	Medium
+Lisinopril	Hypertension	Diabetes Mellitus, Type 1	0.7674317997650769	0	1	1	Medium
+Lisinopril	Hypertension	Diabetes Mellitus, Experimental	0.7384440367764499	0	1	1	Low
+Lisinopril	Hypertension	Hyperglycemia	0.7263035589421194	0	1	1	Low
+Lisinopril	Hypertension	Hypertriglyceridemia	0.7228365029661623	0	1	1	Low
+Lisinopril	Hypertension	Glucose Intolerance	0.721626122982013	0	1	1	Low
+Lisinopril	Hypertension	Diabetic Nephropathies	0.7148437225835196	0	1	1	Low
+Lisinopril	Hypertension	Metabolic Syndrome X	0.7120864691980856	0	1	1	Low
+Lisinopril	Hypertension	Atherosclerosis	0.7078414457330398	0	1	1	Low
+Lisinopril	Hypertension	Hyperinsulinism	0.6866391524075758	0	1	1	Low
+Lisinopril	Hypertension	Renal Insufficiency	0.7065430292901113	0	1	1	Low
+Lisinopril	Hypertension	Gout	0.7008330270572757	0	1	1	Low
+Lisinopril	Hypertension	Dyslipidemias	0.6768833393707684	0	1	1	Low
+Lisinopril	Hypertension	Albuminuria	0.6656357447209748	0	1	1	Low
+Lisinopril	Hypertension	Insulin Resistance	0.6645790685249435	0	1	1	Low
+Lisinopril	Hypertension	Metabolic Diseases	0.6635954128487126	0	1	1	Low
+Lisinopril	Hypertension	Kidney Failure, Chronic	0.6588104154181361	0	1	1	Low
+Lisinopril	Hypertension	Arteriosclerosis	0.5993350348487514	0	1	1	Low
+Lisinopril	Hypertension	Hyperlipoproteinemias	0.6667267712641839	0	1	1	Low
+Lisinopril	Hypertension	Glycogen Storage Disease Type I	0.663240910960549	0	1	1	Low
+Lisinopril	Hypertension	Polycystic Kidney, Autosomal Dominant	0.6566196283155865	0	1	1	Low
+Lisinopril	Hypertension	Obesity	0.6296333950333792	0	1	1	Low
+Lisinopril	Hypertension	Diabetes Complications	0.6040178043922378	0	1	1	Low
+Lisinopril	Hypertension	Fatty Liver	0.624396649504295	0	1	1	Low
+Lisinopril	Hypertension	Hyperlipoproteinemia Type IV	0.6448711178511203	0	1	1	Low
+Lisinopril	Hypertension	Hyperlipoproteinemia Type II	0.6196037881725693	0	1	1	Low
+Lisinopril	Hypertension	Hyperlipidemia, Familial Combined	0.6284898961420368	0	1	1	Low
+Lisinopril	Hypertension	Lipid Metabolism Disorders	0.5841172762063327	0	1	1	Low
+Lisinopril	Hypertension	Endometrial Hyperplasia	0.5946603073416008	0	1	1	Low
+Lisinopril	Hypertension	Diabetic Retinopathy	0.5676247760313297	0	1	1	Low
+Lisinopril	Hypertension	Endometrial Neoplasms	0.6077566803454528	0	1	1	Low
+Lisinopril	Hypertension	Hypertension, Pregnancy-Induced	0.559164202449441	0	1	1	Low
+Lisinopril	Hypertension	Acromegaly	0.5392710575208032	0	1	1	Low
+Lisinopril	Hypertension	Hypothalamic Diseases	0.5566465393400296	0	1	1	Low
+Lisinopril	Hypertension	Hypoalphalipoproteinemias	0.5981940860217562	0	1	1	Low
+Lisinopril	Hypertension	Kidney Diseases	0.527341950778091	0	1	1	Low
+Lisinopril	Hypertension	Fibrosis	0.5122216535750808	0	1	1	Low
+Lisinopril	Hypertension	Lipodystrophy	0.532523175480151	0	1	1	Low
+Lisinopril	Hypertension	Bardet-Biedl Syndrome	0.5678045533646525	0	1	1	Low
+Lisinopril	Hypertension	Pituitary ACTH Hypersecretion	0.5431413133201342	0	1	1	Low
+Lisinopril	Hypertension	Infertility, Male	0.4947500068042146	0	1	1	Low
+Lisinopril	Hypertension	Hyperhomocysteinemia	0.4883872836242058	0	1	1	Low
+Lisinopril	Hypertension	Pre-Eclampsia	0.4564322192691231	0	1	1	Low
+Lisinopril	Hypertension	Obesity, Abdominal	0.4759263402711067	0	1	1	Low
+Lisinopril	Hypertension	Prader-Willi Syndrome	0.4958872866910835	0	1	1	Low
+Lisinopril	Hypertension	Iron Overload	0.4897399687430266	0	1	1	Low
+Lisinopril	Hypertension	Nephritis, Interstitial	0.4372443385722783	0	1	1	Low
+Lisinopril	Hypertension	Cushing Syndrome	0.5055496511105161	0	1	1	Low
+Lisinopril	Hypertension	Nephrosis	0.4513249630962113	0	1	1	Low
+Lisinopril	Hypertension	Dwarfism, Pituitary	0.4745404760841496	0	1	1	Low
+Lisinopril	Hypertension	Cardiomegaly	0.4238086621788924	0	1	1	Low
+Lisinopril	Hypertension	Thromboembolism	0.434047158317023	0	1	1	Low
+Lisinopril	Hypertension	Diabetic Cardiomyopathies	0.4773533341624671	0	1	1	Low
+Lisinopril	Hypertension	Uterine Neoplasms	0.4769148126304866	0	1	1	Low
+Lisinopril	Hypertension	Bone Diseases, Metabolic	0.453051713345948	0	1	1	Low
+Lisinopril	Hypertension	Infertility, Female	0.4021855431473119	0	1	1	Low
+Lisinopril	Hypertension	Oligospermia	0.4218127449427659	0	1	1	Low
+Lisinopril	Hypertension	Venous Thromboembolism	0.4674008499865151	0	1	1	Low
+Lisinopril	Hypertension	Polycystic Kidney Diseases	0.4197303595408288	0	1	1	Low
+Lisinopril	Hypertension	Glomerulosclerosis, Focal Segmental	0.3963942412801752	0	1	1	Low
+Lisinopril	Hypertension	Proteinuria	0.3667682005197085	0	1	1	Low
+Lisinopril	Hypertension	Thrombophilia	0.4124188425006519	0	1	1	Low
+Lisinopril	Hypertension	Hypothyroidism	0.4353617406351131	0	1	1	Low
+Lisinopril	Hypertension	Mammary Neoplasms, Animal	0.4092010958501473	0	1	1	Low
+Lisinopril	Hypertension	Hypopituitarism	0.4265691822563984	0	1	1	Low
+Lisinopril	Hypertension	Acanthosis Nigricans	0.449571471177937	0	1	1	Low
+Lisinopril	Hypertension	Kidney Neoplasms	0.4108136359862218	0	1	1	Low
+Lisinopril	Hypertension	Hepatitis C, Chronic	0.4064823533959532	0	1	1	Low
+Lisinopril	Hypertension	Thyroiditis, Autoimmune	0.446004399015417	0	1	1	Low
+Lisinopril	Hypertension	Bone Resorption	0.3977106967208147	0	1	1	Low
+Lisinopril	Hypertension	Puberty, Delayed	0.3949887304993177	0	1	1	Low
+Lisinopril	Hypertension	Nail-Patella Syndrome	0.4153055844535487	0	1	1	Low
+Lisinopril	Hypertension	Nephrotic Syndrome	0.368216991764359	0	1	1	Low
+Lisinopril	Hypertension	Fanconi Syndrome	0.4092641504143345	0	1	1	Low
+Lisinopril	Hypertension	Malnutrition	0.3615827941512019	0	1	1	Low
+Lisinopril	Hypertension	Infertility	0.3374870988570189	0	1	1	Low
+Lisinopril	Hypertension	Liver Diseases, Alcoholic	0.3817407685829196	0	1	1	Low
+Lisinopril	Hypertension	Carcinoma, Renal Cell	0.3797485097760921	0	1	1	Low
+Lisinopril	Hypertension	Precancerous Conditions	0.3794049736497042	0	1	1	Low
+Lisinopril	Hypertension	Polycystic Ovary Syndrome	0.3554033983391282	0	1	1	Low
+Lisinopril	Hypertension	Venous Thrombosis	0.3768355076831944	0	1	1	Low
+Lisinopril	Hypertension	Cardiomyopathies	0.352337100639456	0	1	1	Low
+Lisinopril	Hypertension	Lupus Nephritis	0.3751634067462082	0	1	1	Low
+Lisinopril	Hypertension	Adenoma, Liver Cell	0.3677399707771798	0	1	1	Low
+Lisinopril	Hypertension	Liver Cirrhosis, Experimental	0.3431377816599431	0	1	1	Low
+Lisinopril	Hypertension	Carbon Tetrachloride Poisoning	0.3429476333963142	0	1	1	Low
+Lisinopril	Hypertension	Lipomatosis	0.4123057572887055	0	1	1	Low
+Lisinopril	Hypertension	Microvascular Angina	0.3654959764731985	0	1	1	Low
+Lisinopril	Hypertension	Inflammation	0.365230928512595	0	1	1	Low
+Lisinopril	Hypertension	Mammary Neoplasms, Experimental	0.3178396095768561	0	1	1	Low
+Lisinopril	Hypertension	Schistosomiasis	0.3586244987754284	0	1	1	Low
+Lisinopril	Hypertension	Lecithin Acyltransferase Deficiency	0.3560508618176415	0	1	1	Low
+Lisinopril	Hypertension	Glomerulonephritis	0.354743922052394	0	1	1	Low
+Lisinopril	Hypertension	Oculocerebrorenal Syndrome	0.3520870441106394	0	1	1	Low
+Lisinopril	Hypertension	Tobacco Use Disorder	0.3723913836330831	0	1	1	Low
+Lisinopril	Hypertension	WAGR Syndrome	0.3947859438692769	0	1	1	Low
+Lisinopril	Hypertension	Puberty, Precocious	0.3452443452402695	0	1	1	Low
+Lisinopril	Hypertension	Deficiency Diseases	0.3426299147136183	0	1	1	Low
+Lisinopril	Hypertension	Liver Cirrhosis	0.3335002386636656	0	1	1	Low
+Lisinopril	Hypertension	Psoriasis	0.3317305048853047	0	1	1	Low
+Lisinopril	Hypertension	Panniculitis, Nodular Nonsuppurative	0.3541059553595014	0	1	1	Low
+Lisinopril	Hypertension	Heart Diseases	0.3068699305584925	0	1	1	Low
+Lisinopril	Hypertension	Hypertrophy	0.328954365103396	0	1	1	Low
+Lisinopril	Hypertension	Fabry Disease	0.34957092955921	0	1	1	Low
+Lisinopril	Hypertension	Genetic Predisposition to Disease	0.3675005899515233	0	1	1	Low
+Lisinopril	Hypertension	Diabetic Neuropathies	0.366914538724877	0	1	1	Low
+Lisinopril	Hypertension	Cholelithiasis	0.3389884847021645	0	1	1	Low
+Lisinopril	Hypertension	Hyperthyroidism	0.3136028263958518	0	1	1	Low
+Lisinopril	Hypertension	Bulimia Nervosa	0.3104568293327797	0	1	1	Low
+Lisinopril	Hypertension	Anemia, Macrocytic	0.3298780284061442	0	1	1	Low
+Lisinopril	Hypertension	Hematuria	0.3295267167299623	0	1	1	Low
+Lisinopril	Hypertension	Glomerulonephritis, Membranoproliferative	0.3033397142258641	0	1	1	Low
+Lisinopril	Hypertension	Graft vs Host Disease	0.3028813296140649	0	1	1	Low
+Lisinopril	Hypertension	Lupus Erythematosus, Systemic	0.3235521870314843	0	1	1	Low
+Lisinopril	Hypertension	Pregnancy Complications	0.3180664831662228	0	1	1	Low
+Lisinopril	Hypertension	Multiple Organ Failure	0.3163075673875593	0	1	1	Low
+Lisinopril	Hypertension	Amyloidosis	0.3157630932160334	0	1	1	Low
+Lisinopril	Hypertension	Breast Neoplasms	0.3152150194378384	0	1	1	Low
+Lisinopril	Hypertension	Gallstones	0.3116907625638266	0	1	1	Low
+Lisinopril	Hypertension	Immune Complex Diseases	0.3020795474746091	0	1	1	Low
+Lisinopril	Hypertension	Precursor Cell Lymphoblastic Leukemia-Lymphoma	0.324799977322029	0	1	1	Low
+Lisinopril	Hypertension	Calcinosis	0.3094777092761807	0	1	1	Low
+Lisinopril	Heart Failure	Cardiomyopathy, Dilated	0.7137048363376053	0	1	1	Low
+Lisinopril	Heart Failure	Ventricular Dysfunction, Left	0.6624672022754695	0	1	1	Low
+Lisinopril	Heart Failure	Cardiomyopathies	0.6477436519784953	0	1	1	Low
+Lisinopril	Heart Failure	Cardiomyopathy, Restrictive	0.638615828389901	0	1	1	Low
+Lisinopril	Heart Failure	Atrial Fibrillation	0.5235341820316547	0	1	1	Low
+Lisinopril	Heart Failure	Pulmonary Embolism	0.5133834703363224	0	1	1	Low
+Lisinopril	Heart Failure	Cardiomegaly	0.4827361314760164	0	1	1	Low
+Lisinopril	Heart Failure	Heart Diseases	0.500503667612487	0	1	1	Low
+Lisinopril	Heart Failure	Sleep Apnea, Central	0.5466732900684326	0	1	1	Low
+Lisinopril	Heart Failure	Respiration Disorders	0.5198931628527562	0	1	1	Low
+Lisinopril	Heart Failure	Pulmonary Disease, Chronic Obstructive	0.500917830654315	0	1	1	Low
+Lisinopril	Heart Failure	Aortic Stenosis, Supravalvular	0.4663623827294354	0	1	1	Low
+Lisinopril	Heart Failure	Idiopathic Pulmonary Fibrosis	0.4602936749631862	0	1	1	Low
+Lisinopril	Heart Failure	Pulmonary Fibrosis	0.4546008388692105	0	1	1	Low
+Lisinopril	Heart Failure	Pulmonary Veno-Occlusive Disease	0.3997621207582632	0	1	1	Low
+Lisinopril	Heart Failure	Lung Diseases, Interstitial	0.4463148185858146	0	1	1	Low
+Lisinopril	Heart Failure	Thromboembolism	0.3753137150905836	0	1	1	Low
+Lisinopril	Heart Failure	Cardiomyopathy, Hypertrophic, Familial	0.4107139601759221	0	1	1	Low
+Lisinopril	Heart Failure	Pulmonary Alveolar Proteinosis	0.4310400960446881	0	1	1	Low
+Lisinopril	Heart Failure	Pulmonary Emphysema	0.4186712665939792	0	1	1	Low
+Lisinopril	Heart Failure	Emphysema	0.4154530784184467	0	1	1	Low
+Lisinopril	Heart Failure	Hypertrophy, Left Ventricular	0.339312851446638	0	1	1	Low
+Lisinopril	Heart Failure	Multiple Organ Failure	0.407863599878625	0	1	1	Low
+Lisinopril	Heart Failure	Aortic Valve Stenosis	0.3578273771286791	0	1	1	Low
+Lisinopril	Heart Failure	Lymphangioleiomyomatosis	0.4004558247444629	0	1	1	Low
+Lisinopril	Heart Failure	Myocardial Stunning	0.3503771722255452	0	1	1	Low
+Lisinopril	Heart Failure	Myocardial Reperfusion Injury	0.3004034300420595	0	1	1	Low
+Lisinopril	Heart Failure	Mesothelioma	0.4123519160614532	0	1	1	Low
+Lisinopril	Heart Failure	Myocardial Ischemia	0.3171014823470114	0	1	1	Low
+Lisinopril	Heart Failure	Pneumothorax	0.381956853497357	0	1	1	Low
+Lisinopril	Heart Failure	Anaphylaxis	0.3120050951552532	0	1	1	Low
+Lisinopril	Heart Failure	Heart Septal Defects	0.3116863047716233	0	1	1	Low
+Lisinopril	Heart Failure	Thrombosis	0.3041727976504981	0	1	1	Low
+Lisinopril	Heart Failure	Heart Septal Defects, Atrial	0.3507029027607584	0	1	1	Low
+Lisinopril	Heart Failure	Shock, Septic	0.343124597341138	0	1	1	Low
+Lisinopril	Heart Failure	Pleural Diseases	0.3853899968410835	0	1	1	Low
+Lisinopril	Heart Failure	Hyperlipoproteinemia Type II	0.3370874898451413	0	1	1	Low
+Lisinopril	Heart Failure	Asbestosis	0.3355615816960668	0	1	1	Low
+Lisinopril	Heart Failure	Hypotension	0.3240760638765256	0	1	1	Low
+Lisinopril	Heart Failure	Myxoma	0.3661290122884155	0	1	1	Low
+Lisinopril	Heart Failure	Lung Diseases, Obstructive	0.3387362687886158	0	1	1	Low
+Lisinopril	Heart Failure	Sarcoma	0.3107221116409181	0	1	1	Low
+Lisinopril	Heart Failure	alpha 1-Antitrypsin Deficiency	0.3322448095729595	0	1	1	Low
+Lisinopril	Heart Failure	Scleroderma, Systemic	0.337506007852063	0	1	1	Low
+Lisinopril	Heart Failure	Lung Neoplasms	0.3054255428465169	0	1	1	Low
+Lisinopril	Heart Failure	Death, Sudden	0.3026584825773265	0	1	1	Low
+Lisinopril	Heart Failure	Hypereosinophilic Syndrome	0.3115566379269322	0	1	1	Low
+Sildenafil	Erectile Dysfunction	Sexual Dysfunctions, Psychological	0.748638212733047	0	1	1	Low
+Sildenafil	Erectile Dysfunction	Alopecia Areata	0.7219400078795556	0	1	1	Low
+Sildenafil	Erectile Dysfunction	Infertility	0.7015614571859652	0	1	1	Low
+Sildenafil	Erectile Dysfunction	Infertility, Male	0.622676535656841	0	1	1	Low
+Sildenafil	Erectile Dysfunction	Anxiety Disorders	0.5684670829652994	0	1	1	Low
+Sildenafil	Erectile Dysfunction	Female Urogenital Diseases	0.5181182234012295	0	1	1	Low
+Sildenafil	Erectile Dysfunction	Urologic Diseases	0.4693271323364309	0	1	1	Low
+Sildenafil	Erectile Dysfunction	Colitis, Ulcerative	0.5124396996908847	0	1	1	Low
+Sildenafil	Erectile Dysfunction	Urinary Incontinence	0.4288376409088565	0	1	1	Low
+Sildenafil	Erectile Dysfunction	Prostatic Neoplasms	0.4662035144228447	0	1	1	Low
+Sildenafil	Erectile Dysfunction	Dysautonomia, Familial	0.471817882559511	0	1	1	Low
+Sildenafil	Erectile Dysfunction	Carcinoma in Situ	0.4085224597003615	0	1	1	Low
+Sildenafil	Erectile Dysfunction	Neural Tube Defects	0.3745110418315253	0	1	1	Low
+Sildenafil	Erectile Dysfunction	Spina Bifida Cystica	0.3953853734796285	0	1	1	Low
+Sildenafil	Erectile Dysfunction	Amenorrhea	0.4144004262407311	0	1	1	Low
+Sildenafil	Erectile Dysfunction	Spinal Dysraphism	0.3635755383159432	0	1	1	Low
+Sildenafil	Erectile Dysfunction	Urinary Bladder Neoplasms	0.3622123200344962	0	1	1	Low
+Sildenafil	Erectile Dysfunction	Prostatic Intraepithelial Neoplasia	0.3798939649626729	0	1	1	Low
+Sildenafil	Erectile Dysfunction	Uterine Cervical Neoplasms	0.3515237815502544	0	1	1	Low
+Sildenafil	Erectile Dysfunction	Mood Disorders	0.3582250265872972	0	1	1	Low
+Sildenafil	Erectile Dysfunction	Psoriasis	0.3291637537978264	0	1	1	Low
+Sildenafil	Erectile Dysfunction	Depressive Disorder	0.3510847126634117	0	1	1	Low
+Sildenafil	Erectile Dysfunction	Gastrointestinal Diseases	0.3227905044208319	0	1	1	Low
+Sildenafil	Erectile Dysfunction	Skin Diseases	0.3177868740148629	0	1	1	Low
+Thalidomide	Multiple Myeloma	Blood Protein Disorders	0.843263279509549	0	1	1	Medium
+Thalidomide	Multiple Myeloma	Lymphoproliferative Disorders	0.7676147467778676	0	1	1	Low
+Thalidomide	Multiple Myeloma	Hypergammaglobulinemia	0.7472232318528071	0	1	1	Low
+Thalidomide	Multiple Myeloma	Familial Mediterranean Fever	0.7419374750693121	0	1	1	Low
+Thalidomide	Multiple Myeloma	Amyloidosis	0.787665658297518	0	1	1	Low
+Thalidomide	Multiple Myeloma	Immunologic Deficiency Syndromes	0.7450825291007204	0	1	1	Low
+Thalidomide	Multiple Myeloma	Dysgammaglobulinemia	0.7425347988871472	0	1	1	Low
+Thalidomide	Multiple Myeloma	Lymphopenia	0.7382998488565917	0	1	1	Low
+Thalidomide	Multiple Myeloma	Immune Complex Diseases	0.6816204841725878	0	1	1	Low
+Thalidomide	Multiple Myeloma	Fanconi Syndrome	0.6955143593337615	0	1	1	Low
+Thalidomide	Multiple Myeloma	Job's Syndrome	0.7410258860139134	0	1	1	Low
+Thalidomide	Multiple Myeloma	Lupus Erythematosus, Systemic	0.6146160124179061	0	1	1	Low
+Thalidomide	Multiple Myeloma	Sjogren's Syndrome	0.6586670503011521	0	1	1	Low
+Thalidomide	Multiple Myeloma	Candidiasis, Chronic Mucocutaneous	0.6924753337534385	0	1	1	Low
+Thalidomide	Multiple Myeloma	Lymphoma	0.6495463074637293	2	1	1	Low
+Thalidomide	Multiple Myeloma	Lymphatic Diseases	0.6679120171436184	0	1	1	Low
+Thalidomide	Multiple Myeloma	Glomerulonephritis	0.6158168753812012	0	1	1	Low
+Thalidomide	Multiple Myeloma	Hematuria	0.5893918708126452	0	1	1	Low
+Thalidomide	Multiple Myeloma	Nephritis, Interstitial	0.6337258327737241	0	1	1	Low
+Thalidomide	Multiple Myeloma	Nephrotic Syndrome	0.606131608552873	0	1	1	Low
+Thalidomide	Multiple Myeloma	Primary Myelofibrosis	0.5820667591990855	0	1	1	Low
+Thalidomide	Multiple Myeloma	Anemia, Macrocytic	0.583902937235572	0	1	1	Low
+Thalidomide	Multiple Myeloma	Xanthomatosis	0.6055983725371271	0	1	1	Low
+Thalidomide	Multiple Myeloma	Kidney Failure, Chronic	0.5796489197130131	0	1	1	Low
+Thalidomide	Multiple Myeloma	Glomerulosclerosis, Focal Segmental	0.60010585688002	0	1	1	Low
+Thalidomide	Multiple Myeloma	Nephrosis	0.5994026890129005	0	1	1	Low
+Thalidomide	Multiple Myeloma	Proteinuria	0.596394656869653	0	1	1	Low
+Thalidomide	Multiple Myeloma	IgA Deficiency	0.5690721920601265	0	1	1	Low
+Thalidomide	Multiple Myeloma	Glomerulonephritis, Membranoproliferative	0.5898534859424898	0	1	1	Low
+Thalidomide	Multiple Myeloma	Nail-Patella Syndrome	0.5842603487963397	0	1	1	Low
+Thalidomide	Multiple Myeloma	Gaucher Disease	0.568749148986266	0	1	1	Low
+Thalidomide	Multiple Myeloma	Arthritis, Rheumatoid	0.5187846877537559	0	1	1	Low
+Thalidomide	Multiple Myeloma	Glomerulonephritis, IGA	0.5380282462461677	0	1	1	Low
+Thalidomide	Multiple Myeloma	Kidney Diseases	0.5590978704939833	0	1	1	Low
+Thalidomide	Multiple Myeloma	Renal Insufficiency	0.5544124423984187	0	1	1	Low
+Thalidomide	Multiple Myeloma	Acidosis, Renal Tubular	0.5274350719556014	0	1	1	Low
+Thalidomide	Multiple Myeloma	Leukemia, Lymphoid	0.5250616678169151	0	1	1	Low
+Thalidomide	Multiple Myeloma	Schistosomiasis	0.5004271531177059	0	1	1	Low
+Thalidomide	Multiple Myeloma	Scleroderma, Systemic	0.5221797310949001	0	1	1	Low
+Thalidomide	Multiple Myeloma	Denys-Drash Syndrome	0.5633055030783152	0	1	1	Low
+Thalidomide	Multiple Myeloma	Anemia, Megaloblastic	0.516417428845185	0	1	1	Low
+Thalidomide	Multiple Myeloma	Agammaglobulinemia	0.5374713168967441	0	1	1	Low
+Thalidomide	Multiple Myeloma	Leukemia, Myeloid	0.4889712224995683	0	1	1	Low
+Thalidomide	Multiple Myeloma	Hypertension, Renal	0.5115519468212533	0	1	1	Low
+Thalidomide	Multiple Myeloma	Polycystic Kidney, Autosomal Dominant	0.4763468153854919	0	1	1	Low
+Thalidomide	Multiple Myeloma	Hepatitis C	0.4754300848590481	0	1	1	Low
+Thalidomide	Multiple Myeloma	Polycystic Kidney Diseases	0.4899149044960165	0	1	1	Low
+Thalidomide	Multiple Myeloma	Staphylococcal Skin Infections	0.4380355769196524	0	1	1	Low
+Thalidomide	Multiple Myeloma	Pyoderma Gangrenosum	0.4840859037198778	0	1	1	Low
+Thalidomide	Multiple Myeloma	Eosinophilia	0.4572170415302586	0	1	1	Low
+Thalidomide	Multiple Myeloma	Hypertension, Pregnancy-Induced	0.4753772360275119	0	1	1	Low
+Thalidomide	Multiple Myeloma	Genetic Diseases, X-Linked	0.4738074685008862	0	1	1	Low
+Thalidomide	Multiple Myeloma	Lymphoma, T-Cell	0.4730435450771559	0	1	1	Low
+Thalidomide	Multiple Myeloma	Lymphoma, B-Cell	0.444291857557881	0	1	1	Low
+Thalidomide	Multiple Myeloma	Lymphoma, Non-Hodgkin	0.4286442185451436	0	1	1	Low
+Thalidomide	Multiple Myeloma	Pre-Eclampsia	0.4445774347818605	0	1	1	Low
+Thalidomide	Multiple Myeloma	Staphylococcal Infections	0.3942520122165722	0	1	1	Low
+Thalidomide	Multiple Myeloma	Chediak-Higashi Syndrome	0.4634064832919806	0	1	1	Low
+Thalidomide	Multiple Myeloma	Factor X Deficiency	0.4138274544666483	0	1	1	Low
+Thalidomide	Multiple Myeloma	Kidney Neoplasms	0.388361957524512	0	1	1	Low
+Thalidomide	Multiple Myeloma	Autoimmune Diseases	0.4320848441995947	0	1	1	Low
+Thalidomide	Multiple Myeloma	Granulomatous Disease, Chronic	0.4057639993778852	0	1	1	Low
+Thalidomide	Multiple Myeloma	Severe Combined Immunodeficiency	0.4290601485385235	0	1	1	Low
+Thalidomide	Multiple Myeloma	Glycogen Storage Disease Type I	0.4187053560424806	0	1	1	Low
+Thalidomide	Multiple Myeloma	Splenomegaly	0.3842375334219828	0	1	1	Low
+Thalidomide	Multiple Myeloma	Graft vs Host Disease	0.3802433365125194	0	1	1	Low
+Thalidomide	Multiple Myeloma	Frasier Syndrome	0.4231827674884261	0	1	1	Low
+Thalidomide	Multiple Myeloma	Nephritis, Hereditary	0.3886866769488954	0	1	1	Low
+Thalidomide	Multiple Myeloma	Fibrosis	0.3980929236008465	0	1	1	Low
+Thalidomide	Multiple Myeloma	Hypereosinophilic Syndrome	0.3723557570827183	0	1	1	Low
+Thalidomide	Multiple Myeloma	Carcinoma, Renal Cell	0.3255161922032918	0	1	1	Low
+Thalidomide	Multiple Myeloma	Arthritis, Juvenile Rheumatoid	0.3343968446050659	0	1	1	Low
+Thalidomide	Multiple Myeloma	Hodgkin Disease	0.3321354507909299	0	1	1	Low
+Thalidomide	Multiple Myeloma	HIV Infections	0.3245605103886473	0	1	1	Low
+Thalidomide	Multiple Myeloma	Adenoma, Oxyphilic	0.321609826197863	0	1	1	Low
+Thalidomide	Multiple Myeloma	Anemia, Aplastic	0.3210343950686622	0	1	1	Low
+Thalidomide	Multiple Myeloma	Lymphoma, Large B-Cell, Diffuse	0.3442458508648223	0	1	1	Low
+Thalidomide	Multiple Myeloma	Scleroderma, Localized	0.3413644201485942	0	1	1	Low
+Thalidomide	Multiple Myeloma	Schistosomiasis mansoni	0.3178141474072342	0	1	1	Low
+Thalidomide	Multiple Myeloma	Collagen Diseases	0.3308859367612616	0	1	1	Low
+Thalidomide	Multiple Myeloma	Leukemia, Myeloid, Acute	0.3004060497154441	0	1	1	Low
+Thalidomide	Multiple Myeloma	Connective Tissue Diseases	0.3216192290569318	0	1	1	Low

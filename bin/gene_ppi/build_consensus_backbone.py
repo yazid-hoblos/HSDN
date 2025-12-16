@@ -95,13 +95,13 @@ def main():
     parser.add_argument('--chunk', type=int, default=200000, help='Chunk size for CSV reading')
     args = parser.parse_args()
 
-    base = Path(__file__).parent.parent
+    base = Path(__file__).parent.parent.parent
     data_dir = base / 'data' / 'replication'
     unified_path = data_dir / 'unified_disease_network.tsv'
     sim_path = data_dir / 'disease_symptoms_projection.tsv'
 
-    out_edges = data_dir / 'consensus_symptom_geneppi_edges.tsv'
-    out_backbone = data_dir / 'consensus_symptom_geneppi_backbone.tsv'
+    out_edges = 'consensus_symptom_geneppi_edges.tsv'
+    out_backbone = 'consensus_symptom_geneppi_backbone.tsv'
 
     if not unified_path.exists():
         print(f"Missing unified network: {unified_path}")

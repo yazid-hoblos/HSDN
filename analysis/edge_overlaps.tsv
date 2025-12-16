@@ -1,0 +1,8 @@
+layers	k	intersection_size	union_size	jaccard
+sym_proj	1	7397211	7397211	1.0
+sym_backbone	1	1722	1722	1.0
+hpo_backbone	1	2569	2569	1.0
+sym_proj+sym_backbone	2	0	7398933	0.0
+sym_proj+hpo_backbone	2	0	7399780	0.0
+sym_backbone+hpo_backbone	2	0	4291	0.0
+sym_proj+sym_backbone+hpo_backbone	3	0	7401502	0.0

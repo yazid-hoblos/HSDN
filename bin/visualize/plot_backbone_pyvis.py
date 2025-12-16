@@ -1,21 +1,29 @@
 """
-Interactive PyVis plot of the consensus backbone using disease names instead of IDs.
+Interactive PyVis plot of backbone networks with community detection.
 
 Inputs:
 - Backbone edges (default): data/replication/consensus_symptom_geneppi_backbone.tsv
   Columns: Source, Target, weight, alpha
-- Mapping edges (default): data/replication/consensus_symptom_geneppi_edges.tsv
+- Mapping edges (optional): data/replication/consensus_symptom_geneppi_edges.tsv
   Columns include: Source, Target, source_name, target_name
 
 Outputs:
-- HTML: data/replication/consensus_backbone_pyvis.html
+- HTML: Interactive network visualization
+- TSV: Community assignments (node, community_id, label)
 
 Usage:
-  python bin/plot_backbone_pyvis.py \
+  # Consensus GenePPI backbone
+  python bin/visualize/plot_backbone_pyvis.py \
     --backbone data/replication/consensus_symptom_geneppi_backbone.tsv \
     --edges data/replication/consensus_symptom_geneppi_edges.tsv \
-    --top-n 300 \
-    --output data/replication/consensus_backbone_pyvis.html
+    --output presentation/plots/consensus_geneppi_network.html \
+    --communities presentation/plots/consensus_geneppi_communities.tsv
+  
+  # Original backbone
+  python bin/visualize/plot_backbone_pyvis.py \
+    --backbone data/replication/filtering/disease_network_backbone.csv \
+    --output presentation/plots/original_backbone_network.html \
+    --communities presentation/plots/original_backbone_communities.tsv
 """
 
 import argparse
@@ -75,9 +83,10 @@ def palette():
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--backbone', type=Path, default=Path('data/replication/consensus_symptom_geneppi_backbone.tsv'))
-    parser.add_argument('--edges', type=Path, default=Path('data/replication/consensus_symptom_geneppi_edges.tsv'))
-    parser.add_argument('--output', type=Path, default=Path('data/replication/consensus_backbone_pyvis.html'))
+    parser.add_argument('--backbone', type=Path, required=True, help='Path to backbone TSV/CSV file')
+    parser.add_argument('--edges', type=Path, default=None, help='Path to edges file with name mappings (optional)')
+    parser.add_argument('--output', type=Path, required=True, help='Output HTML file path')
+    parser.add_argument('--communities', type=Path, default=None, help='Output TSV file for community assignments')
     parser.add_argument('--top-n', type=int, default=300, help='Top-N nodes by strength to plot')
     parser.add_argument('--physics', action='store_true', help='Enable physics (default off for stable layout)')
     parser.add_argument('--no-community', action='store_true', help='Disable community coloring')
@@ -85,14 +94,22 @@ def main():
 
     if not args.backbone.exists():
         raise FileNotFoundError(f"Backbone file not found: {args.backbone}")
-    if not args.edges.exists():
-        raise FileNotFoundError(f"Edges file with names not found: {args.edges}")
-
-    df_backbone = pd.read_csv(args.backbone, sep='\t')
-    # if args.top_n:
-        # df_backbone = select_top_nodes(df_backbone, args.top_n)
-
-    name_map = load_names_map(args.edges)
+    
+    # Auto-detect separator (CSV vs TSV)
+    if args.backbone.suffix == '.csv':
+        df_backbone = pd.read_csv(args.backbone)
+    else:
+        df_backbone = pd.read_csv(args.backbone, sep='\t')
+    
+    # Standardize column names
+    df_backbone = df_backbone.rename(columns={'Weight': 'weight', 'Alpha': 'alpha'})
+    
+    # Load name map if edges file provided
+    name_map = {}
+    if args.edges and args.edges.exists():
+        name_map = load_names_map(args.edges)
+    else:
+        print("Note: No edges file provided, using node IDs as labels")
 
     G = build_graph(df_backbone)
 
@@ -137,6 +154,30 @@ def main():
     net.write_html(str(args.output))
     print(f"Saved PyVis HTML to {args.output}")
     print("Open it in a browser and screenshot for slides if needed.")
+    
+    # Save community assignments if requested
+    if args.communities:
+        community_data = []
+        for node_id in G.nodes():
+            label = name_map.get(node_id, node_id)
+            comm_id = node2comm.get(node_id, -1)
+            degree = G.degree(node_id)
+            strength = sum(data['weight'] for _, _, data in G.edges(node_id, data=True))
+            community_data.append({
+                'node_id': node_id,
+                'label': label,
+                'community': comm_id,
+                'degree': degree,
+                'strength': strength,
+            })
+        
+        comm_df = pd.DataFrame(community_data)
+        comm_df = comm_df.sort_values(['community', 'strength'], ascending=[True, False])
+        args.communities.parent.mkdir(parents=True, exist_ok=True)
+        comm_df.to_csv(args.communities, sep='\t', index=False)
+        print(f"Saved community assignments to {args.communities}")
+        print(f"   Total nodes: {len(comm_df)}")
+        print(f"   Communities detected: {comm_df['community'].nunique()}")
 
 
 if __name__ == '__main__':

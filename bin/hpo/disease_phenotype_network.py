@@ -85,10 +85,10 @@ for hpo_id, degree in top_phenotypes:
 
 # Save bipartite network for reference as TSV
 print("\nSaving bipartite disease-phenotype network to 'disease_phenotype_network.tsv'...")
-with open('disease_phenotype_network.tsv', 'w') as f:
-    f.write("Source\tTarget\n")
-    for u, v in G.edges():
-        f.write(f"{u}\t{v}\n")
+# with open('disease_phenotype_network.tsv', 'w') as f:
+#     f.write("Source\tTarget\n")
+#     for u, v in G.edges():
+#         f.write(f"{u}\t{v}\n")
 
 # -------------------------------
 # 5. Create disease-disease projection network (OPTIMIZED)
@@ -139,10 +139,10 @@ for i in range(len(disease_list)):
 
 # save disease-disease network as TSV
 print("\nSaving disease-disease network to 'disease_disease_network.tsv'...")
-with open('disease_disease_network.tsv', 'w') as f:
-    f.write("disease1\tdisease2\tweight\n")
-    for u, v, data in disease_disease_net.edges(data=True):
-        f.write(f"{u}\t{v}\t{data['weight']}\n")
+# with open('disease_disease_network.tsv', 'w') as f:
+#     f.write("disease1\tdisease2\tweight\n")
+#     for u, v, data in disease_disease_net.edges(data=True):
+#         f.write(f"{u}\t{v}\t{data['weight']}\n")
 
 print(f"\nDisease-disease network statistics:")
 print(f"  Diseases: {disease_disease_net.number_of_nodes()}")
@@ -180,7 +180,6 @@ for idx, comm in enumerate(communities):
     for disease in comm:
         community_map[disease] = idx
 
-exit()
 # -------------------------------
 # 6. Visualize disease-disease network
 # -------------------------------
